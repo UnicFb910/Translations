@@ -1,4 +1,4 @@
-#Translations
+# Translations
 Help translate Netdex into your language.
 
 ## Getting Started

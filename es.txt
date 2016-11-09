@@ -3,7 +3,7 @@ willneverhappen=mensaje de error
 willneverhappen2=Ún error!
 js="Javascript está discapacitado. Su internet tiene el fin aquí."
 js.author=Ún Amigo
-noalerts="¡Feliz cumpleaños! Señor tonto (tú) no aceptaste los notificaciones. Abre Netdex de nuevo."
+# newtab=Please open Netdex in a new tab.
 alert.mail=Tú no tienes una email verificado. Para tú security, usá una email!
 alert.verify=Tú email no está verificado hasta el momento. Por favor, mira en tu bandeja de entrada.
 # alert.updates=You are not receiving any updates / blog posts. When we update something important you should know it.
@@ -15,6 +15,10 @@ notification=Tú no quieres esos alerts? Puedes activar los notifications de nar
 popup=Esa página es un PopUp.
 browser.ugly=Netdex se ve mejor en un browser, así como
 browser.old=Para una experiencia de usario moderna, utiliza un browser como
+loading=Loading
+# loading.1=The communication with the base is taking longer than usual. Be patient.
+# loading.2=You are offline, there's nothing we can do now, but you can watch Copyright-Infringement-Man eat these Balls™.
+mitm=WARNING: Podría ser el blanco de un ataque de MITM. Pro favor, compruebe su conexión.
 console=La consola es solo para developers. Le recomendamos no utilizarlo, sobre todo si alguien te hace hacerlo.
 console.1=He cerrado la console (F12); quiero volver esa página!
 console.2=Puedo programar y entender el peligro de malos scripts.
@@ -22,8 +26,9 @@ cookies=Cookies!
 cookies.1=Utilizamos Cookies. ¿Por qué decimos? Tengo un cookie:
 cookies.2=Ok?
 cookies.3=MUY divertido. Habilitar las Cookies.
-
-> Buttons 'n' Forms
+notrans=Esta zona no tiene ninguna traducción :(
+notrans.dev=Esta zona no tiene ninguna traducción, porque fue hecho para los developers y espero que los developers pueden inglés mejor que el promedio.
+notrans.legal=Esta zona tiene ninguna traducción, porque no queremos perder nuestros traductores.
 yes=Si
 no=No
 back=Atrás
@@ -32,12 +37,9 @@ submit=Confirmar
 retry=Reintento
 cancel=Abortar
 # reload=Reload
+close=Cerrar
 actions=Acciones
 wait=Por favor, esperar
-loading=Loading
-# loading.1=The communication with the base is taking longer than usual. Be patient.
-# loading.2=You are offline, there's nothing we can do now, but you can watch Copyright-Infringement-Man eat these Balls™.
-mitm=WARNING: Podría ser el blanco de un ataque de MITM. Pro favor, compruebe su conexión.
 contact=Contacts
 changing=Estoy cambiando.
 dismiss=¡Vete!
@@ -52,10 +54,6 @@ close=Cerrar
 # copy=Right click > Copy (Ctrl+C)
 # share=Share on
 # share.link=Copy Link
-# featured=Featured on
-notrans=Esta zona no tiene ninguna traducción :(
-notrans.dev=Esta zona no tiene ninguna traducción, porque fue hecho para los developers y espero que los developers pueden inglés mejor que el promedio.
-notrans.legal=Esta zona tiene ninguna traducción, porque no queremos perder nuestros traductores.
 
 > Home
 home.slogan=El (inoficial) Net-Index
@@ -85,8 +83,6 @@ home.paragraph.link=Ún link para compartir este Picasso
 home.paragraph.delete=Destruir
 home.paragraph.delete.1=¿Estás seguro?
 home.paragraph.delete.2=La decisión es final.
-# home.github=Ideas/Bugs
-# home.medium=Blog/News
 
 > Discover
 discover=Discover
@@ -147,9 +143,7 @@ discover.description.2=en GitHub
 # credits.make=Scripting / Styling
 # credits.translations=Translations
 # credits.translations.note=Fun-Fact: This very text is translated too.
-# credits.translations.unfinished=This language is not done yet.
-# credits.translations.discontinued=This language is no longer being translated.
-# credits.testing=Testers
+# credits.translations.1=This language is not fully translated (yet).
 
 > Login
 login=Login
@@ -355,8 +349,6 @@ radio=radio
 # radio.popup.closed=The PopUp has been closed.
 # radio.popup.closed.1=You can now continue using Netdex or re-open it using this button:
 # radio.popup.closed.reopen=Re-open
-# radio.telegram1=You can now send and search radios in
-# radio.telegram2=using the
 radio.listener=Escucharor
 radio.listeners=Escucharores
 radio.list=Lista de radio

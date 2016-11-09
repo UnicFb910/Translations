@@ -3,7 +3,7 @@ willneverhappen=ошибка
 willneverhappen2=Произошла ошибка.
 js="У вас отключен JavaScript. Ваш Интернет заканчивается здесь."
 js.author=друг
-noalerts="Поздравляю! Mr. идиот (вы) вы его получили управляемого игнорировать сообщения. открытый Netdex в новом окно, Чтобы решить эту проблему."
+# newtab=Please open Netdex in a new tab.
 alert.mail=Нет активных Email адрес добавленный. Для вашей безопасности: добавить их к Email адрес к ней счет в дополнение!
 alert.verify=ваш Email не проверяется сейчас. Посмотрите, пожалуйста, в вашем Почтовый ящик для.
 # alert.updates=You are not receiving any updates / blog posts. When we update something important you should know it.
@@ -15,6 +15,10 @@ alert.verify=ваш Email не проверяется сейчас. Посмот
 # popup=This page may only be opened as PopUp.
 # browser.ugly=Netdex looks even better in a browser as good as
 # browser.old=For the full-modern Netdex experience get a browser as good as
+loading=загрузка
+# loading.1=The communication with the base is taking longer than usual. Be patient.
+# loading.2=You are offline, there's nothing we can do now, but you can watch Copyright-Infringement-Man eat these Balls™.
+mitm=WARNING: они могут жертва один MITM атака. Пожалуйста, проверьте подключение.
 # console=The console is only for developers. We highly recommend you not to use it, especially not if someone asks you to.
 # console.1=I've closed the console (F12); take me back.
 # console.2=I know coding and the risks of malicious scripts.
@@ -22,8 +26,9 @@ alert.verify=ваш Email не проверяется сейчас. Посмот
 # cookies.1=We use "Cookies". Why do we tell you? Because. Enjoy:
 # cookies.2=Ok?
 # cookies.3=Very funny. Please enable Cookies.
-
-> Buttons 'n' Forms
+notrans=Эта область не имеет никакого перевода.
+notrans.dev=Эта область не имеет никакого перевода, потому что они для разработчиков и мы предполагаем, разработчик лучше лучше на английском, чем банки среднее человеческое существо.
+# notrans.legal=This area ha no translation, because we don't want to get rid of our translators.
 yes=да
 no=нет
 back=назад
@@ -32,12 +37,9 @@ submit=послать
 retry=попробуйте еще раз
 cancel=снос
 # reload=Reload
+# close=You can close this now.
 # actions=Actions
 wait=Пожалуйста подождите
-loading=загрузка
-# loading.1=The communication with the base is taking longer than usual. Be patient.
-# loading.2=You are offline, there's nothing we can do now, but you can watch Copyright-Infringement-Man eat these Balls™.
-mitm=WARNING: они могут жертва один MITM атака. Пожалуйста, проверьте подключение.
 contact=контакт
 changing=Если изменен
 dismiss=Ok
@@ -52,10 +54,6 @@ readless=читать меньше
 copy=Правая кнопка мыши > копирование (Ctrl+C)
 # share=Share on
 # share.link=Copy Link
-# featured=Featured on
-notrans=Эта область не имеет никакого перевода.
-notrans.dev=Эта область не имеет никакого перевода, потому что они для разработчиков и мы предполагаем, разработчик лучше лучше на английском, чем банки среднее человеческое существо.
-# notrans.legal=This area ha no translation, because we don't want to get rid of our translators.
 
 > Home
 home.slogan=этот (неофициальный) Net-Index
@@ -85,8 +83,6 @@ home.timeline.notloggedin=Вход или Регистрация!
 # home.paragraph.delete=Delete
 home.paragraph.delete.1=Вы уверены, что хотите удалить статью?
 home.paragraph.delete.2=Это решение является окончательным.
-# home.github=Ideas/Bugs
-# home.medium=Blog/News
 
 > Discover
 # discover=Discover
@@ -147,9 +143,7 @@ home.paragraph.delete.2=Это решение является окончате�
 # credits.make=Scripting / Styling
 # credits.translations=Translations
 # credits.translations.note=Fun-Fact: This very text is translated too.
-# credits.translations.unfinished=This language is not done yet.
-# credits.translations.discontinued=This language is no longer being translated.
-# credits.testing=Testers
+# credits.translations.1=This language is not fully translated (yet).
 
 > Login
 # login=Login
@@ -355,8 +349,6 @@ home.paragraph.delete.2=Это решение является окончате�
 # radio.popup.closed=The PopUp has been closed.
 # radio.popup.closed.1=You can now continue using Netdex or re-open it using this button:
 # radio.popup.closed.reopen=Re-open
-# radio.telegram1=You can now send and search radios in
-# radio.telegram2=using the
 # radio.listener=Listener
 # radio.listeners=Listeners
 # radio.list=Radio List

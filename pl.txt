@@ -3,7 +3,7 @@ willneverhappen=Komunikat o bledzie
 willneverhappen2=Wystapil blad.
 js="Masz wylaczona obsluge JavaScript . Twój Internet konczy sie tutaj."
 js.author=Przyjaciel
-noalerts="Wszystkiego najlepszego! Ty Idiota (ty) udalo sie uniemozliwic nam alertów. Aby rozwiazac ten otwarty Netdex w nowej karcie ."
+# newtab=Please open Netdex in a new tab.
 alert.mail=Nie masz zestaw e-mail na koncie. Dla wlasnego bezpieczenstwa : Link twuy e-mail na koncie!
 alert.verify=Nie masz jeszcze potwierdzone swój e-mail . Prosimy sprawdzic swoja skrzynke odbiorcza .
 alert.updates=Urzadzenie nie odbiera zadnych Aktualizacje / blogach . Gdy aktualizujemy cos waznego trzeba go znac.
@@ -15,6 +15,10 @@ notification=Zmeczony tych wpisów ? Otrzymuj powiadomienia nowoczesne In-line p
 # popup=This page may only be opened as PopUp.
 # browser.ugly=Netdex looks even better in a browser as good as
 # browser.old=For the full-modern Netdex experience get a browser as good as
+loading=Zaladunek
+# loading.1=The communication with the base is taking longer than usual. Be patient.
+# loading.2=You are offline, there's nothing we can do now, but you can watch Copyright-Infringement-Man eat these Balls™.
+mitm=WARNING: Mozecie stac sie celem ataku MiTM . Prosze sprawdzic swoje polaczenie .
 # console=The console is only for developers. We highly recommend you not to use it, especially not if someone asks you to.
 # console.1=I've closed the console (F12); take me back.
 # console.2=I know coding and the risks of malicious scripts.
@@ -22,8 +26,9 @@ notification=Zmeczony tych wpisów ? Otrzymuj powiadomienia nowoczesne In-line p
 # cookies.1=We use "Cookies". Why do we tell you? Because. Enjoy:
 # cookies.2=Ok?
 # cookies.3=Very funny. Please enable Cookies.
-
-> Buttons 'n' Forms
+notrans=Obszar ten nie ma tlumaczenia.
+notrans.dev=Obszar ten nie ma tlumaczenia, poniewaz zostal wykonany dla programistów i zakladamy, ze twórcy wiedza angielsku lepiej niz przecietny czlowiek .
+# notrans.legal=This area ha no translation, because we don't want to get rid of our translators.
 yes=Tak
 no=Nie
 back=z powrotem
@@ -32,12 +37,9 @@ submit=wypelnij
 retry=zprubuy jestze rac
 cancel=Anuluj
 # reload=Reload
+# close=You can close this now.
 actions=Akcja
 wait=Proze tzjekacz
-loading=Zaladunek
-# loading.1=The communication with the base is taking longer than usual. Be patient.
-# loading.2=You are offline, there's nothing we can do now, but you can watch Copyright-Infringement-Man eat these Balls™.
-mitm=WARNING: Mozecie stac sie celem ataku MiTM . Prosze sprawdzic swoje polaczenie .
 contact=Kontakt
 changing=Wymiana
 dismiss=Oddalic
@@ -52,10 +54,6 @@ readless=Czytaj mniej
 copy=prawo kliknij > Kopiuj (Ctrl + C)
 # share=Share on
 # share.link=Copy Link
-# featured=Featured on
-notrans=Obszar ten nie ma tlumaczenia.
-notrans.dev=Obszar ten nie ma tlumaczenia, poniewaz zostal wykonany dla programistów i zakladamy, ze twórcy wiedza angielsku lepiej niz przecietny czlowiek .
-# notrans.legal=This area ha no translation, because we don't want to get rid of our translators.
 
 > Home
 # home.slogan=The (unofficial) Net-Index
@@ -85,8 +83,6 @@ notrans.dev=Obszar ten nie ma tlumaczenia, poniewaz zostal wykonany dla programi
 # home.paragraph.delete=Delete
 # home.paragraph.delete.1=Are you sure you want to delete your paragraph?
 # home.paragraph.delete.2=This choice is final.
-# home.github=Ideas/Bugs
-# home.medium=Blog/News
 
 > Discover
 # discover=Discover
@@ -147,9 +143,7 @@ notrans.dev=Obszar ten nie ma tlumaczenia, poniewaz zostal wykonany dla programi
 # credits.make=Scripting / Styling
 # credits.translations=Translations
 # credits.translations.note=Fun-Fact: This very text is translated too.
-# credits.translations.unfinished=This language is not done yet.
-# credits.translations.discontinued=This language is no longer being translated.
-# credits.testing=Testers
+# credits.translations.1=This language is not fully translated (yet).
 
 > Login
 # login=Login
@@ -355,8 +349,6 @@ notrans.dev=Obszar ten nie ma tlumaczenia, poniewaz zostal wykonany dla programi
 # radio.popup.closed=The PopUp has been closed.
 # radio.popup.closed.1=You can now continue using Netdex or re-open it using this button:
 # radio.popup.closed.reopen=Re-open
-# radio.telegram1=You can now send and search radios in
-# radio.telegram2=using the
 # radio.listener=Listener
 # radio.listeners=Listeners
 # radio.list=Radio List

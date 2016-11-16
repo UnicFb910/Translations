@@ -570,6 +570,8 @@ home.paragraph.delete.2=Это решение является окончате�
 
 > Off Games
 # offgames.title=Games On Sale
+# offgames.credits=Made by
+# offgames.backlink=Mentioned on
 # offgames.description=Here's a listing of currently reduced Steam games
 # offgames.by=We get these offers from:
 # offgames.order=Order:

@@ -570,6 +570,8 @@ tmpmail.ad.3= an!
 
 > Off Games
 offgames.title=Reduzierte Spiele
+offgames.credits=Gemacht von
+offgames.backlink=Erwähnt auf
 offgames.description=Hier ist eine Liste von aktuell reduzierten Steamspielen
 offgames.by=Wir bekommen die Angebote von:
 offgames.order=Sortierung:

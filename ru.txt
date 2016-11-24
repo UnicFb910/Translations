@@ -9,6 +9,7 @@ alert.verify=ваш Email не проверяется сейчас. Посмот
 # alert.updates=You are not receiving any updates / blog posts. When we update something important you should know it.
 # adblock.working=Your AdBlocker is so happy to see Netdex, it's blocking 1337 ads.
 # adblock.done=Your AdBlocker is so happy to see Netdex, it has blocked 1337 ads.
+# adblock.other=If you would use a real adblocker, it would count to 1337, I swear.
 # adblock.donate=Donation
 # advertisement=A message by our sponsors
 # notification=Tired of these alerts? Get modern in-line notifications just by allowing it. So allow it!
@@ -60,7 +61,7 @@ copy=Правая кнопка мыши > копирование (Ctrl+C)
 # share.link=Copy Link
 
 > Home
-home.slogan=этот (неофициальный) Net-Index
+home.slogan=этот Net-Index
 home.what=какие мы?
 # home.what.1=Netdex is a social network, with an integrated image server, providing you with emails and allowing you to create radios and short links.
 # home.quick=Quick Navigation
@@ -85,6 +86,7 @@ home.timeline.notloggedin=Вход или Регистрация!
 # home.paragraph.delete=Delete
 home.paragraph.delete.1=Вы уверены, что хотите удалить статью?
 home.paragraph.delete.2=Это решение является окончательным.
+# home.search=This thing lets you search the entire internet
 
 > Discover
 # discover=Discover
@@ -280,13 +282,29 @@ home.paragraph.delete.2=Это решение является окончате�
 > Help
 # help=Help Center
 # help.title=Read and learn - Help Center
-# help.categories=Categories
 # help.login.real=How to make sure this is the real Netdex?
 # help.login.real.1=Check the URL for the green lock, because we only service HTTPS.
 # help.login.real.2=If you're unsure, write the URL yourself: interNET inDEX [dot] CO, no M.
 # help.login.complete=Why won't my browser autocomplete my password?
 # help.login.complete.line1=We don't like the idea of autocomplete. Either you know your password or are an idiot.
 # help.login.complete.line2=We recommend: Know (or save) your password and optionally use email to login.
+# help.general=General
+# help.general.emails=Problems receiving emails?
+# help.general.emails.line1=We wrote our email system ourselves, so it will be delayed up to a minute.
+# help.general.emails.line2=If it took longer than a minute, check your spam folder and/or add timmyrs.mailer@gmail.com to your contacts.
+# help.general.keyboard=What does the keyboard do on Netdex?
+# help.general.keyboard.1=We have integrated the Keyboard quite a bit.
+# help.general.keyboard.2=Click here
+# help.general.keyboard.3=for a list of keys, that you can use.
+# help.general.language=How can I change the language I see Netdex in?
+# help.general.language.1=You should be able to perfectly read THIS language, because we get the language information from your browser.
+# help.general.language.2=In order to change the language you see Netdex in, just change the language you see your browser in.
+# help.general.contact=Question not answered?
+# help.general.contact.github.1=For bugs and suggestions,
+# help.general.contact.github.2=is good enough.
+# help.general.contact.mail=You can contact us via email: 
+# help.general.contact.note=We will answer within 24 hours.
+# help.categories=Categories
 # help.paragraphs.formatting=How can I format my Paragraphs?
 # help.paragraphs.formatting.1=The following table shows all special/formatting chars and what they do.
 # help.paragraphs.formatting.2=Input
@@ -301,19 +319,6 @@ home.paragraph.delete.2=Это решение является окончате�
 # help.paragraphs.limits.mail=Mail Verified
 # help.paragraphs.limits.4=Paragraphs/Day
 # help.paragraphs.limits.5=Note that tweets are being ignored.
-# help.general=General
-# help.general.emails=Problems receiving emails?
-# help.general.emails.line1=We wrote our email system ourselves, so it will be delayed up to a minute.
-# help.general.emails.line2=If it took longer than a minute, check your spam folder and/or add timmyrs.mailer@gmail.com to your contacts.
-# help.general.keyboard=What does the keyboard do on Netdex?
-# help.general.keyboard.1=We have integrated the Keyboard quite a bit.
-# help.general.keyboard.2=Click here
-# help.general.keyboard.3=for a list of keys, that you can use.
-# help.general.contact=Question not answered?
-# help.general.contact.github.1=For bugs and suggestions,
-# help.general.contact.github.2=is good enough.
-# help.general.contact.mail=You can contact us via email: 
-# help.general.contact.note=We will answer within 24 hours.
 
 > Profile
 # search=Search

@@ -9,6 +9,7 @@ alert.verify=Vous n'avez pas encore vérifié votre email. Veuillez vérifier vo
 alert.updates=Vous ne recevez pas les mises à jour / messages du blog. Lorsque nous mettons à jour quelque chose d'important, vous devriez le savoir.
 # adblock.working=Your AdBlocker is so happy to see Netdex, it's blocking 1337 ads.
 # adblock.done=Your AdBlocker is so happy to see Netdex, it has blocked 1337 ads.
+# adblock.other=If you would use a real adblocker, it would count to 1337, I swear.
 # adblock.donate=Donation
 # advertisement=A message by our sponsors
 notification=Vous en avez marre de ces alertes ? Recevez des notifications modernes en acceptant l'option dans votre navigateur. Alors acceptez-là !
@@ -60,7 +61,7 @@ copy=Clic droit > Copier (Ctrl+C)
 # share.link=Copy Link
 
 > Home
-home.slogan=Le (non-officiel) Index du Net
+home.slogan=Le Index du Net
 home.what=Qui sommes-nous?
 # home.what.1=Netdex is a social network, with an integrated image server, providing you with emails and allowing you to create radios and short links.
 # home.quick=Quick Navigation
@@ -85,6 +86,7 @@ home.timeline.notloggedin=Vous devez vous identifier ou vous inscrire !
 # home.paragraph.delete=Delete
 home.paragraph.delete.1=Êtes-vous sûr de vouloir supprimer votre paragraphe ?
 home.paragraph.delete.2=Cette sentence est irrévocable.
+# home.search=This thing lets you search the entire internet
 
 > Discover
 # discover=Discover
@@ -280,13 +282,29 @@ notifications.disable.3=. :)
 > Help
 help=Centre d'aide
 help.title=Lire et apprendre - Centre d'aide
-help.categories=Catégories
 help.login.real=Comment s'assurer que c'est le vrai Netdex?
 help.login.real.1=Vérifiez que l'URL contient le loquet vert, parce que nous desservons uniquement le trafic via HTTPS / SSL.
 help.login.real.2=Et si vous n'êtes pas sûr écrivez l'URL vous-même: interNET inDEX (point) COrporation.
 help.login.complete=Pourquoi mon navigateur ne complète pas automatiquement mon mot de passe?
 help.login.complete.line1=Nous n'aimons pas l'idée de compléter automatiquement. Soit vous connaissez votre mot de passe soit vous êtes un idiot.
 help.login.complete.line2=Nous recommendons: De connaître (ou sauvegarder) votre mot de passe et d'éventuellement utiliser l'email pour se connecter.
+help.general=Général
+help.general.emails=Problèmes de réception des e-mails?
+help.general.emails.line1=Nous avons écrit notre serveur d'email nous mêmes, donc il peut être retardé jusqu'à une minute.
+help.general.emails.line2=S'il a fallu plus d'une minute, vérifiez votre dossier spam et/ou ajoutez timmyrs.mailer@gmail.com à vos contacts.
+help.general.keyboard=Que fait le clavier sur Netdex ?
+help.general.keyboard.1=Nous avons plus qu'un peu intégré le clavier.
+help.general.keyboard.2=Cliquez ici
+help.general.keyboard.3=pour la liste des touches que vous pouvez utiliser.
+# help.general.language=How can I change the language I see Netdex in?
+# help.general.language.1=You should be able to perfectly read THIS language, because we get the language information from your browser.
+# help.general.language.2=In order to change the language you see Netdex in, just change the language you see your browser in.
+help.general.contact=Question sans réponse ?
+# help.general.contact.github.1=For bugs and suggestions,
+# help.general.contact.github.2=is good enough.
+help.general.contact.mail=Vous pouvez nous contacter par email:
+help.general.contact.note=Nous répondrons en 24 heures.
+help.categories=Catégories
 # help.paragraphs.formatting=How can I format my Paragraphs?
 # help.paragraphs.formatting.1=The following table shows all special/formatting chars and what they do.
 # help.paragraphs.formatting.2=Input
@@ -301,19 +319,6 @@ help.login.complete.line2=Nous recommendons: De connaître (ou sauvegarder) votr
 # help.paragraphs.limits.mail=Mail Verified
 # help.paragraphs.limits.4=Paragraphs/Day
 # help.paragraphs.limits.5=Note that tweets are being ignored.
-help.general=Général
-help.general.emails=Problèmes de réception des e-mails?
-help.general.emails.line1=Nous avons écrit notre serveur d'email nous mêmes, donc il peut être retardé jusqu'à une minute.
-help.general.emails.line2=S'il a fallu plus d'une minute, vérifiez votre dossier spam et/ou ajoutez timmyrs.mailer@gmail.com à vos contacts.
-help.general.keyboard=Que fait le clavier sur Netdex ?
-help.general.keyboard.1=Nous avons plus qu'un peu intégré le clavier.
-help.general.keyboard.2=Cliquez ici
-help.general.keyboard.3=pour la liste des touches que vous pouvez utiliser.
-help.general.contact=Question sans réponse ?
-# help.general.contact.github.1=For bugs and suggestions,
-# help.general.contact.github.2=is good enough.
-help.general.contact.mail=Vous pouvez nous contacter par email:
-help.general.contact.note=Nous répondrons en 24 heures.
 
 > Profile
 search=Rechercher

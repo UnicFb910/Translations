@@ -86,6 +86,8 @@ home.timeline.notloggedin=Vous devez vous identifier ou vous inscrire !
 # home.paragraph.delete=Delete
 home.paragraph.delete.1=Êtes-vous sûr de vouloir supprimer votre paragraphe ?
 home.paragraph.delete.2=Cette sentence est irrévocable.
+# home.links=Links
+# home.social=Social Media
 # home.search=This thing lets you search the entire internet
 
 > Discover
@@ -160,7 +162,7 @@ login.name=Pseudo ou adresse mail.
 login.name.unknown=Pseudo inconnu.
 login.name.usename=Veuillez utiliser votre pseudo pour vous connecter.
 login.name.usemail=Veuillez utiliser votre email pour vous connecter.
-login.name.blacklisted=Ce pseudo est sur la liste noire.
+# login.name.blacklist=Your nickname is blacklisted.
 login.name.taken=Ce pseudo est déjà pris.
 login.name.short=Ce pseudo est trop court.
 login.pass=Mot de passe
@@ -363,7 +365,6 @@ radio.popup.closed.1=Pouvez maintenant continuer à utiliser Netdex ou ré-ouvri
 radio.popup.closed.reopen=Demander à Rouvrir
 radio.listener=auditeur
 radio.listeners=auditeurs
-radio.list=Liste des radios
 radio.listen.slow=Votre internet est très lent. Vous êtes probablement désynchronisé.
 radio.listen.share=Partager
 radio.listen.volume=Volume
@@ -620,6 +621,17 @@ tmpmail.ad.3=!
 # offgames.notify.mail=%game% is on sale now!
 # offgames.notify.mail.1=You can get %game% for only %eur%€ instead of %org%€ (You save %per%%!)
 # offgames.notify.mail.2=From now on you will no longer be notified about offers for %game%.
+
+> Better World
+# betterworld.sub=For a better world
+# betterworld.desc=At Netdex we are very concerned about the world, its people and the future, that's why we are doing our best for a better world.
+# betterworld.phishing=There are a lot of people that care about your account data of your social media and bank accounts and there also are people that care about how to get these informations, this is mostly accomplished by "phishing". They might email you and/or want you to give them your account data on their website.
+# betterworld.spam=There are websites that desperate for money, that they send out emails all the time, just to get some people to use their service. They might be a complete scam or just inappropriate to see in your inbox.
+# betterworld.working.1=We are actively monitoring, contacting and working with people to prevent these kind of things from happening.
+# betterworld.working.2=For our email services we are constantly updating our email blacklist to keep you free from spam and phishing.
+# betterworld.working.3=You can
+# betterworld.working.4=follow @n_betterworld on Twitter
+# betterworld.working.5=to have all of our actions in your timeline.
 
 > Congratulations! You have translated all the public parts of Netdex.
 > If you feel like it or just want to make your future a bit easier, you can translate the following too.

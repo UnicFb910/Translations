@@ -86,6 +86,8 @@ home.paragraph.link=Ún link para compartir este Picasso
 home.paragraph.delete=Destruir
 home.paragraph.delete.1=¿Estás seguro?
 home.paragraph.delete.2=La decisión es final.
+# home.links=Links
+# home.social=Social Media
 # home.search=This thing lets you search the entire internet
 
 > Discover
@@ -160,7 +162,7 @@ login.name=Nickname o Email.
 # login.name.unknown=Nickname unknown.
 # login.name.usename=Please use your nickname to login.
 # login.name.usemail=Please use your email-address to login.
-# login.name.blacklisted=Nickname is blacklisted.
+# login.name.blacklist=Your nickname is blacklisted.
 # login.name.taken=Nickname is already taken.
 login.name.short=Elige un nickname más corto.
 login.pass=contraseña
@@ -263,7 +265,7 @@ options.verify.done=Su e-mail ha verificado. Simplemente, eh?
 # options.2fa.download=Download the
 # options.2fa.qr=And scan this QR code:
 # options.2fa.text=or manually input this key:
-# options.2fa.verify=When done, input a the code shown here:
+# options.2fa.verify=When done, input the code shown in the app:
 # options.2fa.reset.1=In the worst case of life, you may lose your mobile, so
 # options.2fa.reset.2=STORE THIS LINK IN A SECURE TEXT FILE
 # options.2fa.reset.3=that you can keep your account. :)
@@ -363,7 +365,6 @@ radio=radio
 # radio.popup.closed.reopen=Re-open
 radio.listener=Escucharor
 radio.listeners=Escucharores
-radio.list=Lista de radio
 # radio.listen.slow=Your internet is very slow. You might not be in-sync anymore.
 radio.listen.share=Compartir
 radio.listen.volume=Volume
@@ -620,6 +621,17 @@ mail=Email Promotor
 # offgames.notify.mail=%game% is on sale now!
 # offgames.notify.mail.1=You can get %game% for only %eur%€ instead of %org%€ (You save %per%%!)
 # offgames.notify.mail.2=From now on you will no longer be notified about offers for %game%.
+
+> Better World
+# betterworld.sub=For a better world
+# betterworld.desc=At Netdex we are very concerned about the world, its people and the future, that's why we are doing our best for a better world.
+# betterworld.phishing=There are a lot of people that care about your account data of your social media and bank accounts and there also are people that care about how to get these informations, this is mostly accomplished by "phishing". They might email you and/or want you to give them your account data on their website.
+# betterworld.spam=There are websites that desperate for money, that they send out emails all the time, just to get some people to use their service. They might be a complete scam or just inappropriate to see in your inbox.
+# betterworld.working.1=We are actively monitoring, contacting and working with people to prevent these kind of things from happening.
+# betterworld.working.2=For our email services we are constantly updating our email blacklist to keep you free from spam and phishing.
+# betterworld.working.3=You can
+# betterworld.working.4=follow @n_betterworld on Twitter
+# betterworld.working.5=to have all of our actions in your timeline.
 
 > Congratulations! You have translated all the public parts of Netdex.
 > If you feel like it or just want to make your future a bit easier, you can translate the following too.

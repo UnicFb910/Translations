@@ -14,7 +14,6 @@ alert.verify=Tú email no está verificado hasta el momento. Por favor, mira en 
 advertisement=Ún mensaje de nuestros sponsores
 notification=Tú no quieres esos alerts? Puedes activar los notifications de narcos. Muy guapa!
 popup=Esa página es un PopUp.
-browser.ugly=Netdex se ve mejor en un browser, así como
 browser.old=Para una experiencia de usario moderna, utiliza un browser como
 loading=Loading
 # loading.1=The communication with the base is taking longer than usual. Be patient.
@@ -23,10 +22,6 @@ mitm=WARNING: Podría ser el blanco de un ataque de MITM. Pro favor, compruebe s
 console=La consola es solo para developers. Le recomendamos no utilizarlo, sobre todo si alguien te hace hacerlo.
 console.1=He cerrado la console (F12); quiero volver esa página!
 console.2=Puedo programar y entender el peligro de malos scripts.
-cookies=Cookies!
-cookies.1=Utilizamos Cookies. ¿Por qué decimos? Tengo un cookie:
-cookies.2=Ok?
-cookies.3=MUY divertido. Habilitar las Cookies.
 notrans=Esta zona no tiene ninguna traducción :(
 notrans.dev=Esta zona no tiene ninguna traducción, porque fue hecho para los developers y espero que los developers pueden inglés mejor que el promedio.
 notrans.legal=Esta zona tiene ninguna traducción, porque no queremos perder nuestros traductores.
@@ -168,13 +163,14 @@ login.name.short=Elige un nickname más corto.
 login.pass=contraseña
 login.pass.short=Descifre más corta.
 login.pass.wrong=contraseña incorrecta.
-# login.success=You successfully logged into your Netdex account, %name%.
-# token.invalid=Could not log you back in, because the authtoken format changed.
-# token.notfound=Could not log you back in, because your user ID or name has changed.
-# token.expire=Could not log you back in, because the authtoken expired.
-# token.expired=You have been logged out, because your authtoken expired.
+# token.invalid=We could not log you back in.
+# token.expired=You have been logged out.
 # token.ok=Welcome back, %name%.
 register=Registrar
+# register.twitter=Registration with Twitter
+# register.twitter.link.1=Lazy?
+# register.twitter.link.2=Register with Twitter
+# register.twitter.name=Choose your username for Netdex (This can not be changed!)
 # register.link=Register
 # register.name.empty=Your name needs to contain normal chars.
 register.name=Nickname
@@ -637,20 +633,9 @@ mail=Email Promotor
 > If you feel like it or just want to make your future a bit easier, you can translate the following too.
 > It is the best for everyone.
 
-> Exchange
-# exchange=Exchange
-# exchange.title=Exchange Services
-# exchange.trust=Not trusting us?
-# exchange.trust.1=We have
-# exchange.trust.2=reviews on our TrustPilot
-# exchange.trust.3=by lots of happy customers.
-# exchange.off=OFF
-# exchange.psc=PSC Code
-# exchange.pscamz.1=We can only fully clear your PSC - Be wary of that.
-# exchange.success=Success!
-# exchange.success.1=You've just successfully submitted your exchange order.
-# exchange.success.2=Please note that it may take time for us to see and process it.
-# exchange.success.3=Let's explore Netdex in the meantime
+> Wallet
+# wallet.title=Your Digital Wallet
+# wallet.euros=Euros
 
 > Arcade
 # arcade.title=Play Great Games
@@ -736,26 +721,6 @@ mail=Email Promotor
 # ttt.play.turn.2=Your enemy is now making a turn.
 # ttt.play.win.1=You have won this round.
 # ttt.play.win.2=Your enemy has won this round.
-
-> Wallet
-# wallet.title=The Cookie Wallet - Netdex Wallet
-# wallet.login=Login to your wallet
-# wallet.why=What makes the Netdex Wallet stand out?
-# wallet.why.anonymous=Anonymous
-# wallet.why.secure=Secure
-# wallet.why.scams=Scam Protection
-# wallet.why.apis=APIs
-# wallet.why.fees=Free From Fees
-# wallet.acc=Your Wallet
-# wallet.merchants=Merchants
-# wallet.merchants.add=Accepting Cookies too?
-# wallet.merchants.add.1=We would love to add you to our merchants list.
-# wallet.merchants.add.2=Just
-# wallet.merchants.add.3=contact us
-# wallet.merchants.add.4=with some information.
-# wallet.merchants.name=Name
-# wallet.merchants.url=Url
-# wallet.exchange=Exchange
 
 > Poll
 # poll=Polls

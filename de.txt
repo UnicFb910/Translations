@@ -14,8 +14,7 @@ adblock.donate=Spende
 advertisement=Eine Nachricht unserer Sponsoren
 notification=Gelangweilt von diesen Meldungen? Sehe moderne eingeblendete Meldungen durchs erlauben. Also erlaube es!
 popup=Diese Seite darf nur als PopUp geöffnet werden.
-browser.ugly=Netdex sieht noch besser aus in einem guten Browser, wie
-browser.old=Für die voll-moderne Netdex-Erfahrung nutze einen guten Browser, wie
+browser.old=Netdex ist modern, nicht so wie dein Browser. Versuch's mal mit upgraden.
 loading=Lade
 loading.1=Die Kommunikation mit der Basis scheint etwas länger als üblich zu dauern. Hab Geduld.
 loading.2=Du bist offline, wir können nichts dagegen machen, aber du kannst Urheberrechts-Verletzungs-Man beim essen der Bälle™ bewundern.
@@ -23,10 +22,6 @@ mitm=WARNUNG: Du könntest Opfer einer MITM-Attacke sein. Überprüfe deine Verb
 console=Die Konsole ist nur für Entwickler. Wir raten dir nicht diese zu nutzen, besonders nicht, wenn dich jemand dazu anstiftet.
 console.1=Ich habe die Konsole geschlossen (F12); bring mich zurück.
 console.2=Ich kann coden und kenne die Gefahr von gefährlichen Scripts.
-cookies=Kekse!
-cookies.1=Wir nutzen "Cookies". Warum sagen wir dir das? Deswegen. Der ist für dich:
-cookies.2=Ok?
-cookies.3=Sehr witzig. Bitte aktiviere Cookies.
 notrans=Dieser Bereich hat keine Übersetzung.
 notrans.dev=Dieser Bereich hat keine Übersetzung, da wir denken, dass Entwickler mehr Englishskills haben, als der Durchschnittsmensch.
 notrans.legal=Dieser Bereich hat keine Übersetzung, da wir unsere Übersetzer noch brauchen.
@@ -70,7 +65,7 @@ home.timeline=Deine Timeline
 home.timeline.placeholder=Was geht?
 home.timeline.nofollow=Folge Leute!
 home.timeline.nofollow.1=Dies ist deine persönliche Timeline mit Paragraphs von Leuten denen du folgst,
-home.timeline.nofollow.2=Folge @Tim
+home.timeline.nofollow.2=Folge uns
 home.timeline.noparagraphs=Keine Paragraphs
 home.timeline.noparagraphs.1=Wir konnten keine Paragraphs laden. Schreibe vielleicht einen.
 home.timeline.notloggedin=Anmelden oder registieren!
@@ -168,13 +163,14 @@ login.name.short=Nickname zu kurz.
 login.pass=Passwort
 login.pass.short=Passwort zu kurz.
 login.pass.wrong=Falsches Passwort.
-login.success=Du hast dich erfolgreich in deinen Netdex Account angemeldet, %name%.
-token.invalid=Konnte dich nicht wieder einloggen, da sich Authtokens verändert haben.
-token.notfound=Konnte dich nicht wieder einloggen, da sich dein Name oder ID geändert hat.
-token.expire=Konnte dich nicht wieder einloggen, da der Authtoken ausgelaufen ist.
-token.expired=Du wurdest ausgeloggt, da dein Authtoken ausgelaufen ist.
+token.invalid=Wir konnten dich nicht wieder einloggen.
+token.expired=Du wurdest ausgeloggt.
 token.ok=Willkommen zurück, %name%.
 register=Registrierung
+# register.twitter=Registration with Twitter
+# register.twitter.link.1=Lazy?
+# register.twitter.link.2=Register with Twitter
+# register.twitter.name=Choose your username for Netdex (This can not be changed!)
 register.link=Registiere dich
 register.name.empty=Dein Name muss normale Zeichen enthalten.
 register.name=Nickname
@@ -637,20 +633,9 @@ betterworld.working.5=um all' unsere Aktionen in deiner Timeline zu haben.
 > If you feel like it or just want to make your future a bit easier, you can translate the following too.
 > It is the best for everyone.
 
-> Exchange
-exchange=Umwandlung
-exchange.title=Umwandlungsservices
-exchange.trust=Vertraust' uns nicht?
-exchange.trust.1=Wir haben
-exchange.trust.2=Bewertungen auf TrustPilot
-exchange.trust.3=von vielen zufriedenen Kunden
-exchange.off=WENIGER
-exchange.psc=PSC Code
-exchange.pscamz.1=Wir können deine PSC nur vollständig leeren - Behalte das im Kopf.
-exchange.success=Erfolg!
-# exchange.success.1=You've just successfully submitted your exchange order.
-# exchange.success.2=Please note that it may take time for us to see and process it.
-# exchange.success.3=Let's explore Netdex in the meantime
+> Wallet
+wallet.title=Dein digitaler Geldbeutel
+# wallet.euros=Euros
 
 > Arcade
 arcade.title=Spiel tolle Spiele
@@ -736,26 +721,6 @@ ttt.play.turn.1=Du bist am Zug.
 ttt.play.turn.2=Dein Gegner ist am Zug.
 ttt.play.win.1=Du hast diese Runde gewonnen.
 ttt.play.win.2=Dein Gegner hat diese Runde gewonnen.
-
-> Wallet
-wallet.title=Die Cookie Wallet - Netdex Wallet
-wallet.login=In deine Wallet einloggen
-wallet.why=Was macht die Netdex Wallet besonders?
-wallet.why.anonymous=Anonym
-wallet.why.secure=Sicher
-wallet.why.scams=Abzocke-Schutz
-wallet.why.apis=APIs
-wallet.why.fees=Gebührenfrei
-wallet.acc=Deine Wallet
-wallet.merchants=Händler
-wallet.merchants.add=Sie akzeptieren auch Cookies?
-wallet.merchants.add.1=Wir würden Sie gerne zu unseren Händlern hinzufügen.
-wallet.merchants.add.2=Einfach
-wallet.merchants.add.3=uns kontaktieren
-wallet.merchants.add.4=mit einigen Infos.
-wallet.merchants.name=Name
-wallet.merchants.url=Url
-wallet.exchange=Umtausch
 
 > Poll
 poll=Umfragen

@@ -69,8 +69,8 @@ home.timeline.nofollow.2=Folge uns
 home.timeline.noparagraphs=Keine Paragraphs
 home.timeline.noparagraphs.1=Wir konnten keine Paragraphs laden. Schreibe vielleicht einen.
 home.timeline.notloggedin=Anmelden oder registieren!
-home.timeline.excludeme=Eigene Paragraphs ausblenden
-home.timeline.includeme=Eigene Paragraphs einblenden
+home.timeline.excludeme=Meine Paragraphs verbergen
+home.timeline.includeme=Meine Paragraphs zeigen
 home.paragraph.time=Erstellt wurde dieser Paragraph
 home.paragraph.like=Ich mag dies.
 home.paragraph.unlike=Hab mich umentschieden, mag's doch nicht.
@@ -167,10 +167,10 @@ token.invalid=Wir konnten dich nicht wieder einloggen.
 token.expired=Du wurdest ausgeloggt.
 token.ok=Willkommen zurück, %name%.
 register=Registrierung
-# register.twitter=Registration with Twitter
-# register.twitter.link.1=Lazy?
-# register.twitter.link.2=Register with Twitter
-# register.twitter.name=Choose your username for Netdex (This can not be changed!)
+register.twitter=Registrierung mit Twitter
+register.twitter.link.1=Faul?
+register.twitter.link.2=Registiere dich mit Twitter
+register.twitter.name=Wähle deinen Username für Netdex (Dieser bleibt für immer so!)
 register.link=Registiere dich
 register.name.empty=Dein Name muss normale Zeichen enthalten.
 register.name=Nickname
@@ -577,6 +577,7 @@ tmpmail.ad.3= an!
 > Off Games
 offgames.title=Off Games: Eine Liste reduzierter Steam Spiele
 offgames.desc=Off Games ist eine Auflistung Steam Spiele die aktuell auf verschiedenen legalen Seiten reduziert sind.
+offgames.by=Ein Projekt von
 offgames.tool=Suchtoolkit
 offgames.tool.sub=Deine Präferenzen
 offgames.tool.desc=Nutze dieses Suchtoolkit um schneller zu finden was du brauchst.
@@ -635,7 +636,7 @@ betterworld.working.5=um all' unsere Aktionen in deiner Timeline zu haben.
 
 > Wallet
 wallet.title=Dein digitaler Geldbeutel
-# wallet.euros=Euros
+wallet.euros=Euros
 
 > Arcade
 arcade.title=Spiel tolle Spiele

@@ -577,6 +577,7 @@ mail=Email Promotor
 > Off Games
 # offgames.title=Off Games: A listing of Reduced Steam Games
 # offgames.desc=Off Games is a listing of Steam Games that are currently on sale across different legal sites.
+# offgames.by=A project by
 # offgames.tool=Search Toolkit
 # offgames.tool.sub=Your Preferences
 # offgames.tool.desc=Use this Search Toolkit to easier find what you need.

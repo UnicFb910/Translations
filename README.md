@@ -2,7 +2,10 @@
 Help translate Netdex into your language.
 
 ## Getting Started
+
 Before translating, make sure that you are a native and/or fluid speaker of the language to avoid mistakes.
+
+**Note:** Do not translate the en.txt; it is just for reference.
 
 If you we do not have a file with your two-letter [language code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) please [open an issue](https://github.com/netdexco/Translations/issues/new).
 

@@ -81,6 +81,7 @@ home.paragraph.delete=Löschen
 home.paragraph.delete.1=Bist du sicher, dass du dein Paragraph löschen willst?
 home.paragraph.delete.2=Diese Entscheidung ist final.
 home.links=Links
+home.link=Hauptseite
 home.social=Sociale Medien
 home.search=Dieses Ding lässt dich das gesammt Internet durchsuchen
 
@@ -374,6 +375,8 @@ mail.why.anon=Anoymität
 mail.why.anon.1=Alle Emails an deinname@netdex.co werden an deine echte Email weiter geleitet, welche wir nicht hergeben.
 mail.why.lots=Sehr viele Emails
 mail.why.lots.1=Abgesehen von @netdex.co, haben wir auch andere Emaildomains, wie:
+# mail.why.spam=Spam Filter
+# mail.why.spam.1=As soon as a spammer uses a new domain, we will blacklist it as soon as possible.
 mail.start.1=Du kannst dies alles haben.
 mail.start.2=Keine Lust auf anmelden/registrieren?
 mail.start.3=Du kannst
@@ -551,17 +554,6 @@ offgames.notify.register.3=- Es ist einfach.
 offgames.notify.mail=%game% ist jetzt reduziert!
 offgames.notify.mail.1=Du kannst %game% für nur %eur%€, anstelle von %org%€ bekommen. (Du sparst %per%%!)
 offgames.notify.mail.2=Du wirst nun nicht mehr über Angebote zu %game% informiert.
-
-> Better World
-betterworld.sub=Für eine bessere Welt
-betterworld.desc=Bei Netdex machen wir uns sorgen um die Welt, ihre Bewohner und die Zukunft, deswegen geben wir unser Bestes für eine bessere Welt.
-betterworld.phishing=Es gibt eine menge Leute, die deine Accountdaten von Sozialen und Bank Accounts interessiert und es gibt auch Leute die sich um das beschaffen dieser Infos kümmern, das machen sie meistens durch "phishing". Sie senden dir vielleicht eine Email und/oder möchten, dass du denen deine Accountdaten auf deren Webseite gibst.
-betterworld.spam=Es gibt webseiten, die so verzweifelt Geld wollen, dass sie die ganze Zeit Emails senden, einfach nur um Leute dazu zu bringen, deren Service zu nutzen. Das könnte eine komplette Verarsche oder einfach nur unangebracht in deinem Posteingang sein.
-betterworld.working.1=Wir überwachen, kontaktieren und arbeiten mit anderen aktiv Zusammen, um diese Dinge zu verhindern.
-betterworld.working.2=Für unsere Email Services, überarbeiten wir konstant unsere Email Blacklist um dich frei von spam und phishing zu halten.
-betterworld.working.3=Du kannst
-betterworld.working.4=@n_betterworld auf Twitter folgen
-betterworld.working.5=um all' unsere Aktionen in deiner Timeline zu haben.
 
 > Congratulations! You have translated all the public parts of Netdex.
 > If you feel like it or just want to make your future a bit easier, you can translate the following too.

@@ -80,6 +80,9 @@ copy=prawo kliknij > Kopiuj (Ctrl + C)
 # home.paragraph.delete=Delete
 # home.paragraph.delete.1=Are you sure you want to delete your paragraph?
 # home.paragraph.delete.2=This choice is final.
+# home.radio=Radio
+# home.radio.change=Change Radio
+# home.radio.mobile=Because you are on mobile, you have to reopen the radio to start playing.
 # home.links=Links
 # home.link=Homepage
 # home.social=Social Media
@@ -339,6 +342,7 @@ copy=prawo kliknij > Kopiuj (Ctrl + C)
 
 > Chat
 # chat=Chat
+# chat.login=You need to be logged in to use the chat.
 # chat.nofriends=You have no Netdex friends yet.
 
 > Image
@@ -376,7 +380,7 @@ copy=prawo kliknij > Kopiuj (Ctrl + C)
 # mail.why.lots=Lots of emails
 # mail.why.lots.1=Besides @netdex.co, we also have a lot of other domains for emails, like:
 # mail.why.spam=Spam Filter
-# mail.why.spam.1=As soon as a spammer uses a new domain, we will blacklist it as soon as possible.
+# mail.why.spam.1=Once a spammer uses a new domain, we will blacklist it as soon as possible.
 # mail.start.1=You can have all of this.
 # mail.start.2=Don't want to register/login?
 # mail.start.3=You can use
@@ -538,7 +542,9 @@ copy=prawo kliknij > Kopiuj (Ctrl + C)
 # offgames.tool.currency=Currency
 # offgames.tool.reset=Reset Preferences
 # offgames.games=All Games matching your preferences
-# offgames.kinguin=Get 3% OFF at Kinguin using Code "SCHMANDI" (Without Quotes)
+# offgames.code=%store% Discount Code
+# offgames.code.kinguin=3% Off: SCHMANDI
+# offgames.code.g2a=5% Cashback: Maruu
 # offgames.share.title=Check out this offer:
 # offgames.share.desc=Currently only costs
 # offgames.share.wait=The game you're looking for is somewhere in the mids of thousands of games. It will take a while to find it.

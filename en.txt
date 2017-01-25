@@ -57,7 +57,7 @@ download=Download
 
 > Home
 home.what=What are we?
-home.what.1=Netdex is a social network, with an integrated image server, providing you with emails and allowing you to short links.
+home.what.1=Netdex is not only a social network, we're also providing you with emails and a link shorter.
 home.quick=Quick Navigation
 home.projects=Check out our ...
 home.timeline=Your Timeline

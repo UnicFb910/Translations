@@ -58,9 +58,9 @@ copy=prawo kliknij > Kopiuj (Ctrl + C)
 
 > Home
 # home.what=What are we?
-# home.what.1=Netdex is TODO: EXPLAIN WHAT NETDEX IS
+# home.what.1=Netdex allows you to create your own card to showcase all of your profiles and websites.
 # home.quick=Quick Navigation
-# home.projects=Check out our ...
+# home.projects=Check out our...
 # home.radio=Radio
 # home.radio.change=Change Radio
 # home.radio.mobile=Because you are on mobile, you have to reopen the radio to start playing.
@@ -174,9 +174,12 @@ copy=prawo kliknij > Kopiuj (Ctrl + C)
 # options.saved=Saved
 # options.change=Change
 # options.add=Add your %%-account to your card
+# options.remove=Remove Account
 # options.dname=Enter your new display name.
 # options.profile.pic=Update Pic
 # options.profile.pic.square=What were you thinking? Profile pictures need to be squares; Don't upload your Youtube banner here.
+# options.show_mail=Publicly show my @Netdex.co-email
+# options.show_mail.tooltip=If enabled, your email will be publicly shown, but we'll try our best to protect you from spam bots.
 # options.pass=Password
 # options.pass.change=Change Password
 # options.mailasname=Use email to login
@@ -238,6 +241,7 @@ copy=prawo kliknij > Kopiuj (Ctrl + C)
 # search.input=Look for Netdex users by name.
 # profile.title=on
 # profile.bio.default=Hello, my name is Jeff and I'm an expert at knowing when you need an expert, and you don't need an expert to tell, that the default bio of Netdex
+# profile.info=Do you also want to have a card on Netdex?
 
 > Images
 # screenshot=Get Netdex Screenshot

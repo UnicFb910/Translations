@@ -58,7 +58,7 @@ download=Herunterladen
 
 > Home
 home.what=Was sind wir?
-home.what.1=Netdex ist nicht nur ein soziales Netzwerk, wir bieten dir auch Emails und einen Linkkürzer.
+home.what.1=Netdex ermöglicht es dir deine eigene Karte zu erstellen und alle deine Profile und Webseiten zu präsentieren.
 home.quick=Schnellnavigation
 home.projects=Gib dir unser...
 home.radio=Radio
@@ -174,9 +174,12 @@ options.save=Speichern
 options.saved=Gespeichert
 options.change=Ändern
 options.add=Füge deinen %%-Account zu deiner Karte hinzu
+options.remove=Account entfernen
 options.dname=Gebe deinen neuen Anzeigenamen an.
 options.profile.pic=Aktualisiere Bild
 options.profile.pic.square=Was hast du dir gedacht? Profilbilder müssen Quadratisch sein; Lad nicht dein scheiß Youtubebanner hoch.
+options.show_mail=Zeige meine @Netdex.co-Email
+options.show_mail.tooltip=Wenn aktiviert, wird deine Email öffentlich gezeigt, aber wir versuchen unser bestes um dich vor Bots zu schützen.
 options.pass=Passwort
 options.pass.change=Passwort ändern
 options.mailasname=Nutze Email zum Login
@@ -238,6 +241,7 @@ search=Suche
 search.input=Such nach Netdex Nutzern per Name.
 profile.title=auf
 profile.bio.default=Hallo, mein Name ist Kevin und ich bin ein Experte in wissen, wann man einen Experten braucht, und du brauchst keinen Experten um zu sehen, dass die standard Bio von Netdex
+profile.info=Möchtest du auch eine Karte auf Netdex?
 
 > Images
 screenshot=Hol dir Netdex Screenshot

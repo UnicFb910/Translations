@@ -58,7 +58,7 @@ copy=Clic droit > Copier (Ctrl+C)
 
 > Home
 home.what=Qui sommes-nous?
-# home.what.1=Netdex is TODO: EXPLAIN WHAT NETDEX IS
+# home.what.1=Netdex allows you to create your own card to showcase all of your profiles and websites.
 # home.quick=Quick Navigation
 home.projects=Consultez notre...
 # home.radio=Radio
@@ -174,9 +174,12 @@ options.save=Sauvegarder
 options.saved=Sauvegardé
 options.change=Changer
 # options.add=Add your %%-account to your card
+# options.remove=Remove Account
 # options.dname=Enter your new display name.
 options.profile.pic=Mettre à jour l'image
 # options.profile.pic.square=What were you thinking? Profile pictures need to be squares; Don't upload your Youtube banner here.
+# options.show_mail=Publicly show my @Netdex.co-email
+# options.show_mail.tooltip=If enabled, your email will be publicly shown, but we'll try our best to protect you from spam bots.
 options.pass=Mot de passe
 options.pass.change=Changer le mot de passe
 options.mailasname=Utiliser votre email pour vous connecter
@@ -238,6 +241,7 @@ search=Rechercher
 search.input=Cherchez des utilisateurs, ... en fait, cherchez seulement des utilisateurs, rien d'autre.
 profile.title=sur
 # profile.bio.default=Hello, my name is Jeff and I'm an expert at knowing when you need an expert, and you don't need an expert to tell, that the default bio of Netdex
+# profile.info=Do you also want to have a card on Netdex?
 
 > Images
 # screenshot=Get Netdex Screenshot

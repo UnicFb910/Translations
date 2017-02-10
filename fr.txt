@@ -239,6 +239,7 @@ help.categories=Catégories
 > Profile
 search=Rechercher
 search.input=Cherchez des utilisateurs, ... en fait, cherchez seulement des utilisateurs, rien d'autre.
+# profile=Profile
 profile.title=sur
 # profile.bio.default=Hello, my name is Jeff and I'm an expert at knowing when you need an expert, and you don't need an expert to tell, that the default bio of Netdex
 # profile.info=Do you also want to have a card on Netdex?

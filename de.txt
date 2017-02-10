@@ -239,6 +239,7 @@ help.categories=Kategorien
 > Profile
 search=Suche
 search.input=Such nach Netdex Nutzern per Name.
+profile=Profil
 profile.title=auf
 profile.bio.default=Hallo, mein Name ist Kevin und ich bin ein Experte in wissen, wann man einen Experten braucht, und du brauchst keinen Experten um zu sehen, dass die standard Bio von Netdex
 profile.info=Möchtest du auch eine Karte auf Netdex?

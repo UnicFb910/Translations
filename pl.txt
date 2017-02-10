@@ -239,6 +239,7 @@ copy=prawo kliknij > Kopiuj (Ctrl + C)
 > Profile
 # search=Search
 # search.input=Look for Netdex users by name.
+# profile=Profile
 # profile.title=on
 # profile.bio.default=Hello, my name is Jeff and I'm an expert at knowing when you need an expert, and you don't need an expert to tell, that the default bio of Netdex
 # profile.info=Do you also want to have a card on Netdex?

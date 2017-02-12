@@ -67,7 +67,7 @@ home.radio.mobile=Weil du auf einem Handy bist, musst du das Radio erneut öffne
 home.links=Links
 home.link=Hauptseite
 home.social=Sociale Medien
-home.search=Dieses Ding lässt dich das gesammt Internet durchsuchen
+home.search=Dieses Ding lässt dich das gesamte Internet durchsuchen
 
 > Legal
 legal=Legales
@@ -338,7 +338,7 @@ apps.delete.sure=Bist du sicher, dass du die Applikation löschen willst?
 > Shorter
 shorter=Linkkürzer
 shorter.title=Kürze deine Langen URLs - Linkürzer
-shorter.description=Mit dem Netdex Linkkürzer kannst du die kürzesten Links die je existiert haben erstellen.
+shorter.description=Mit dem Netdex Linkkürzer kannst du die kürzesten Links, die je existiert haben, erstellen.
 shorter.form=URL (Ent-)kürzen
 shorter.form.1=Gebe eine lange oder kurze URL an und sehe wohin sie geht oder kürze diese.
 shorter.form.input=Dat URL

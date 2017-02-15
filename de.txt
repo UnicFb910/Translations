@@ -379,8 +379,8 @@ tmpmail.ad.2=den Netdex Email Weiterleiter
 tmpmail.ad.3= an!
 
 > Off Games
-# offgames.title=Off Games: Steam Game Offer Meta-Search
-# offgames.desc=Off Games looks for offers across different Steam Key Sellers and makes their offers searchable.
+offgames.title=Off Games: Steam Spieleangebote Meta-Suche
+offgames.desc=Off Games schaut nach Angeboten bei verschiedenen Steam Key Verkäufern und macht diese suchbar.
 offgames.by=Ein Projekt von
 offgames.tool=Suchtoolkit
 offgames.tool.slogan=Finde einfach was du brauchst

@@ -379,8 +379,8 @@ tmpmail.ad.2=den Netdex Email Weiterleiter
 tmpmail.ad.3= an!
 
 > Off Games
-offgames.title=Off Games: Eine Liste reduzierter Steam Spiele
-offgames.desc=Off Games ist eine Auflistung Steam Spiele die aktuell auf verschiedenen legalen Seiten reduziert sind.
+# offgames.title=Off Games: Steam Game Offer Meta-Search
+# offgames.desc=Off Games looks for offers across different Steam Key Sellers and makes their offers searchable.
 offgames.by=Ein Projekt von
 offgames.tool=Suchtoolkit
 offgames.tool.slogan=Finde einfach was du brauchst

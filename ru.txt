@@ -379,8 +379,8 @@ home.projects=дать вам наши ...
 # tmpmail.ad.3=!
 
 > Off Games
-# offgames.title=Off Games: A listing of Reduced Steam Games
-# offgames.desc=Off Games is a listing of Steam Games that are currently on sale across different legal sites.
+# offgames.title=Off Games: Steam Game Offer Meta-Search
+# offgames.desc=Off Games looks for offers across different Steam Key Sellers and makes their offers searchable.
 # offgames.by=A project by
 # offgames.tool=Search Toolkit
 # offgames.tool.slogan=Just find what you need

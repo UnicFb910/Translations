@@ -55,7 +55,7 @@ copy.ok=Link erfolgreich kopiert.
 share=Teilen auf
 share.link=Link kopieren
 download=Herunterladen
-# soon=Coming Soon
+soon=Kommt bald
 
 > Home
 home.what=Was sind wir?
@@ -413,9 +413,9 @@ offgames.share.title=Schau' dir das an:
 offgames.share.desc=Kostet aktuell nur
 offgames.share.wait=Das Spiel nach dem du suchst ist irgendwo zwischen tausenden von Spielen. Es wird ein wenig dauern es zu finden.
 offgames.share.gone=Es tut uns leid, das Spiel nach dem du suchst ist nicht mehr reduziert.
-# offgames.share.filtered=The game you are looking for exists, but is not matching your preferences.
-# offgames.share.offer=View Offer
-# offgames.share.offgames=View in Off Games
+offgames.share.filtered=Das Spiel nach dem du suchst existiert, aber es passt nicht in deine Preferenzen.
+offgames.share.offer=Angebot anschauen
+offgames.share.offgames=In Off Games anschauen
 offgames.notify.netdex=Bitte melde dich mit Netdex an, damit wir deine Email-Adresse leicht bestätigen können.
 offgames.notify.needmail=Füge deine Email zu Netdex hinzu
 offgames.notify.needmail.1=Wir brauchen deine Email-Adresse um dir Emails zu senden.

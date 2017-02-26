@@ -55,6 +55,7 @@ copy=prawo kliknij > Kopiuj (Ctrl + C)
 # share=Share on
 # share.link=Copy Link
 # download=Download
+# soon=Coming Soon
 
 > Home
 # home.what=What are we?
@@ -368,7 +369,6 @@ copy=prawo kliknij > Kopiuj (Ctrl + C)
 # tmpmail.get.name.tooltip=To make your email look more like a legit email, you can customize the prefix.
 # tmpmail.get.time=Expire in
 # tmpmail.get.time.error=Your Tmp Mail must exist for 5 minutes and up to 23 hours and 59 minutes.
-# tmpmail.get.time.format=Incorrect time format. We recommend you use Google Chrome.
 # tmpmail.get.time.tooltip=Specify how long your Tmp Mail will be active and redirect.
 # tmpmail.get.captcha=To create this Tmp Mail, verify that you're human:
 # tmpmail.done=Wow, that's quite a lot of emails.

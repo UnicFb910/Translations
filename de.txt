@@ -55,6 +55,7 @@ copy.ok=Link erfolgreich kopiert.
 share=Teilen auf
 share.link=Link kopieren
 download=Herunterladen
+# soon=Coming Soon
 
 > Home
 home.what=Was sind wir?
@@ -281,7 +282,7 @@ apps=Applikationen
 apps.title=Deine Netdex Applikationen
 apps.auth=Applikationsanmeldung
 apps.auth.title=Mit Netdex anmelden
-apps.auth.perms=Verl. Rechte
+apps.auth.perms=Verlangte Rechte
 apps.auth.perms.sub1=Die Applikation
 apps.auth.perms.sub2=möchte folgenes können:
 apps.auth.perms.sub3=möchte keine Rechte.
@@ -368,7 +369,6 @@ tmpmail.get.name.error=Dein Name/Präfix muss mindestens 5 Zeichen lang sein.
 tmpmail.get.name.tooltip=Um deine Email mehr wie eine echte aussehen zu lassen, kannst du den Präfix individualisieren.
 tmpmail.get.time=Auslaufen in
 tmpmail.get.time.error=Deine Tmp Mail muss für 5 Minuten, bis zu 23 Stunden und 59 Minuten existieren.
-tmpmail.get.time.format=Falsches Zeitformat. Wir empfehlen, dass du Google Chrome nutzt.
 tmpmail.get.time.tooltip=Spezifiziere wie lange deine Email aktiviert sein und weiterleiten soll.
 tmpmail.get.captcha=Um diese Tmp Mail zu erstellen, musst du bestätigen, dass du menschlich bist.
 tmpmail.done=Wow, das sind viele Emails.

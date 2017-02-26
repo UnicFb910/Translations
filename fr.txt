@@ -55,6 +55,7 @@ copy=Clic droit > Copier (Ctrl+C)
 # share=Share on
 # share.link=Copy Link
 # download=Download
+# soon=Coming Soon
 
 > Home
 home.what=Qui sommes-nous?
@@ -368,7 +369,6 @@ tmpmail.get.name.error=Votre nom/préfixe doit être d'au moins 5 caractères de
 tmpmail.get.name.tooltip=Pour rendre votre email ressemble plus à un email légitime, vous pouvez personnaliser le préfixe.
 tmpmail.get.time=Expire dans
 tmpmail.get.time.error=Votre Tmp courrier doit exister de 5 minutes jusqu'à 23 heures et 59 minutes.
-tmpmail.get.time.format=Format de temps incorrect. Nous vous recommandons d'utiliser Google Chrome.
 tmpmail.get.time.tooltip=Spécifiez combien de temps votre Tmp Mail sera actif et redirigera.
 tmpmail.get.captcha=Pour créer ce Tmp Mail, vérifiez que vous êtes un être humain:
 tmpmail.done=C'est plutôt Mails Trop Précieux (MTP), n'est-ce pas ?

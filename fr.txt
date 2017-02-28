@@ -22,7 +22,7 @@ loading=Chargement
 # console.2=The console is only for developers. We highly recommend you not to use it, especially not if someone asks you to.
 notrans=Cette portion n'est pas traduite.
 notrans.dev=Cette portion n'est pas traduite parce qu'elle a été conçue pour les développeurs et nous assumons que les développeurs comprennent mieux l'anglais que la moyenne.
-# notrans.legal=This area ha no translation, because we don't want to get rid of our translators.
+# notrans.legal=This area has no translation, because we don't want to get rid of our translators.
 # time.year=y/m/d h:i
 # time.date=m/d h:i
 # time.time=h:i
@@ -56,6 +56,8 @@ copy=Clic droit > Copier (Ctrl+C)
 # share.link=Copy Link
 # download=Download
 # soon=Coming Soon
+# clearcache=Clear your cache!
+# clearcache.1=You only partially have a new version of this website, hard-reload (Ctrl+F5) or clear your cache!
 
 > Home
 home.what=Qui sommes-nous?

@@ -56,6 +56,8 @@ share=Share on
 share.link=Copy Link
 download=Download
 soon=Coming Soon
+clearcache=Clear your cache!
+clearcache.1=You only partially have a new version of this website, hard-reload (Ctrl+F5) or clear your cache!
 
 > Home
 home.what=What are we?

@@ -56,8 +56,8 @@ share=Teilen auf
 share.link=Link kopieren
 download=Herunterladen
 soon=Kommt bald
-# clearcache=Clear your cache!
-# clearcache.1=You only partially have a new version of this website, hard-reload (Ctrl+F5) or clear your cache!
+clearcache=Leere deinen Cache!
+clearcache.1=Du hast nur teilst eine neue Version dieser Webseite, hard-reloade (Strg+F5) oder leere deinen Cache!
 
 > Home
 home.what=Was sind wir?

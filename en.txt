@@ -42,7 +42,7 @@ continue=Continue
 changing=Changing
 dismiss=Dismiss
 getstarted=Get started!
-captcha=Please verify that you're human:
+captcha=Please proof that you're human:
 report=Report
 fillform=Please fill the whole form.
 loadmore=Load More
@@ -383,7 +383,6 @@ tmpmail.ad.3=!
 > Off Games
 offgames.title=Off Games: Steam Game Offer Meta-Search
 offgames.desc=Off Games looks for offers across different Steam Key Sellers and makes them searchable.
-offgames.by=A project by
 offgames.tool=Search Toolkit
 offgames.tool.slogan=Just find what you need
 offgames.tool.order=Order

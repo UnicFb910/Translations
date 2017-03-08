@@ -70,7 +70,7 @@ home.radio.mobile=Weil du auf einem Handy bist, musst du das Radio erneut öffne
 home.links=Links
 home.link=Hauptseite
 home.social=Sociale Medien
-home.search=Dieses Ding lässt dich das gesamte Internet durchsuchen
+home.search=Stell eine Frage oder gebe Stichwörter ein
 
 > Legal
 legal=Legales

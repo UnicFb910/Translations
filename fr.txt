@@ -70,7 +70,7 @@ home.projects=Consultez notre...
 # home.links=Links
 # home.link=Homepage
 # home.social=Social Media
-# home.search=This thing lets you search the entire internet
+# home.search=Enter a question or keywords.
 
 > Legal
 # legal=Legal

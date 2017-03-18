@@ -75,21 +75,14 @@ home.projects=Consultez notre...
 > Legal
 # legal=Legal
 # legal.nope=This text is written by developers. No lawyers were contacted.
-# agreement=Agreement
-# agreement.agreement=By using our site('s services) you agree to the following things:
+# agreement=Agreements
+# agreement.agreement=By using Netdex and its services you agree to the agreement below ("Netdex User Agreement") and the following legal documents.
 imprint=Imprint
 # imprint.1=Domain Registrant
 # imprint.2=Content Administrator
 # imprint.3=Copyright Holders
 # imprint.3.1=All used resources and team members are listed at
 # imprint.4=Click here to get to our Privacy Policy.
-# tos=Terms of Service
-# tos.tldr=Be fair and nice and think before doing.
-# tos.full=Here are the full ToS in english:
-# tos.selling=You may not sell/buy any Netdex account, no matter what.
-# tos.bans=You may not try to bypass bans in any way.
-# tos.verify=You may not fake verify yourself by adding the icon to your pic or images.
-# tos.phishing=You may not login to any account you do not possess and don't have permission to.
 # privacy=Privacy Policy
 
 > Ban

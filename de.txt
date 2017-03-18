@@ -75,21 +75,14 @@ home.search=Stell eine Frage oder gebe Stichwörter ein
 > Legal
 legal=Legales
 legal.nope=Dieser Text wurde von Entwicklern geschrieben. Keine Anwälte wurden kontakiert.
-agreement=Vereinbarung
-agreement.agreement=Mit dem verwenden unserer Seite und Services akzeptierst du folgenden Dinge:
+agreement=Vereinbarungen
+agreement.agreement=Durch der Verwendung von Netdex und dessen Services akzeptierst du die untere Vereibarung ("Netdex User Agreement") und die folgenen Rechtsdokumente.
 imprint=Impressum
 imprint.1=Domain Registrator
 imprint.2=Inhalt Administrator
 imprint.3=Urheberrechtsinhaber
 imprint.3.1=Alle verwendeten Resourcen und Teammitglieder sind gelistet in den
 imprint.4=Klicke hier um zu unseren Datenschutz-Bestimmungen zu kommen.
-tos=Nutzungsbedingungen
-tos.tldr=Sei fair, nett und denke bevor du tust.
-tos.full=Hier sind die vollen ToS in Englisch:
-tos.selling=Du darfst keine Netdex accounts kaufen/verkaufen, egal was.
-tos.bans=Du darfst nicht versuchen Bans auf irgendeiner Art und Weise zu umgehen.
-tos.verify=Du darfst das Verifizierungsicon nicht auf Bilder oder dein Profilbild tun.
-tos.phishing=Du darfst dich nicht in einen Account einlogen, der dir nicht gehört und du keine Erlaubnis hast.
 privacy=Datenschutz-Bestimmungen
 
 > Ban

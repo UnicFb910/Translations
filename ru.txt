@@ -376,6 +376,7 @@ home.projects=дать вам наши ...
 > Off Games
 # offgames.title=Off Games: Steam Game Offer Meta-Search
 # offgames.desc=Off Games looks for offers across different Steam Key Sellers and makes them searchable.
+# offgames.group=Join our Steam Group!
 # offgames.tool=Search Toolkit
 # offgames.tool.slogan=Just find what you need
 # offgames.tool.order=Order

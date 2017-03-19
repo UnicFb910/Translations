@@ -508,26 +508,5 @@ tmpmail.ad.3=!
 # poll.create=Create Poll
 
 > Impressive work! Translating for the future is very important and nice.
-> But the following can really be ignored.
-> Go take a nap. You earned and need it.
-
-> Fear
-# fear.title=Submit software to Fear!
-# fear.check=Let Fear check your software
-# fear.check.1=Fear will check your files for viruses.
-# fear.check.2=All results will (except unwanted) also be uploaded to
-# fear.check.3=Fear's Youtube channel
-# fear.info=Fear will send you the results via Skype.
-# fear.check.file=File Name
-# fear.check.link=Download Link
-# fear.check.author=File Author
-# fear.check.skype=Your Skype
-# fear.check.reason=Describe the program and your reasons.
-# fear.crack=Let Fear crack your software
-# fear.crack.1=Fear will try to crack the file.
-# fear.crack.2=All cracks (except unwanted) will also be uploaded to
-# fear.submited=Your software was submited to Fear.
-# fear.submited.1=It will take a while, but he will get back to you in Skype and tell you the results.
-# fear.submited.2=Visit Netdex
-
+> Go take a nap. You earned and probably need it.
 > Copyright (c) 2016, the Netdex Translation Team (as defined on https://netdex.co/credits)

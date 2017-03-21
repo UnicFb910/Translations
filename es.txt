@@ -75,8 +75,8 @@ home.projects=Visitar nuestro...
 > Legal
 # legal=Legal
 # legal.nope=This text is written by developers. No lawyers were contacted.
-# agreement=Agreements
-# agreement.agreement=By using Netdex and its services you agree to the agreement below ("Netdex User Agreement") and the following legal documents.
+# agreement=Agreement
+# agreement.agreement=By using Netdex and its services you agree to the agreement ("Netdex User Agreement") below.
 # imprint=Imprint
 # imprint.1=Domain Registrant
 # imprint.2=Content Administrator

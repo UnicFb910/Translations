@@ -75,8 +75,8 @@ home.search=Stell eine Frage oder gebe Stichwörter ein
 > Legal
 legal=Legales
 legal.nope=Dieser Text wurde von Entwicklern geschrieben. Keine Anwälte wurden kontakiert.
-agreement=Vereinbarungen
-agreement.agreement=Durch der Verwendung von Netdex und dessen Services akzeptierst du die untere Vereibarung ("Netdex User Agreement") und die folgenen Rechtsdokumente.
+agreement=Vereinbarung
+agreement.agreement=Durch der Verwendung von Netdex und dessen Services akzeptierst du die untere Vereibarung ("Netdex User Agreement").
 imprint=Impressum
 imprint.1=Domain Registrator
 imprint.2=Inhalt Administrator

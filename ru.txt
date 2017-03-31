@@ -184,6 +184,7 @@ home.projects=дать вам наши ...
 # options.advanced.login=Access
 # options.email=Your Email-Address
 # options.email.inuse=This email is already in use by another user.
+# options.email.trash=You can't just use a trash mail here.
 # options.email.local=You can't just use one of our emails there.
 # options.verify.sent=A verification email was sent.
 # options.verify.done=You verified your email. Simple, huh?
@@ -373,9 +374,9 @@ home.projects=дать вам наши ...
 # tmpmail.ad.2=the Netdex Email Forwarder
 # tmpmail.ad.3=!
 
-> Off Games
-# offgames.title=Off Games: Steam Game Offer Meta-Search
-# offgames.desc=Off Games looks for offers across different Steam Key Sellers and makes them searchable.
+> OffGames
+# offgames.title=OffGames: Steam Game Offer Meta-Search
+# offgames.desc=OffGames looks for offers across different Steam Key Sellers and makes them searchable.
 # offgames.group=Join our Steam Group!
 # offgames.tool=Search Toolkit
 # offgames.tool.slogan=Just find what you need
@@ -398,7 +399,7 @@ home.projects=дать вам наши ...
 # offgames.tool.currency=Currency
 # offgames.tool.reset=Reset Preferences
 # offgames.games=All Games matching your preferences
-# offgames.links=Some links here are referal links, they give us a provision for games you found using Off Games and then bought.
+# offgames.links=Some links here are referal links, they give us a provision for games you found using OffGames and then bought.
 # offgames.steam=View on Steam
 # offgames.code=%store% Discount Code
 # offgames.code.off=%% Off:
@@ -411,7 +412,7 @@ home.projects=дать вам наши ...
 # offgames.share.gone=We're sorry, the game you're looking for is no longer on sale.
 # offgames.share.filtered=The game you are looking for exists, but is not matching your preferences.
 # offgames.share.offer=View Offer
-# offgames.share.offgames=View in Off Games
+# offgames.share.offgames=View in OffGames
 # offgames.notify.netdex=Please login with Netdex so we can easily verify your email address.
 # offgames.notify.needmail=Add your email to Netdex.
 # offgames.notify.needmail.1=We need your email address to send emails to.
@@ -427,6 +428,9 @@ home.projects=дать вам наши ...
 > Wallet
 # wallet.title=Your Digital Wallet
 # wallet.euros=Euros
+# wallet.balance=Balance
+# wallet.transactions=Transactions
+# wallet.transactions.no=Here is where your transactions will be displayed.
 
 > Tmp Note
 # tmpnote.title=Temporary Self-Destructing Notes

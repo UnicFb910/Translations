@@ -232,17 +232,6 @@ profile.title=auf
 profile.bio.default=Hallo, mein Name ist Kevin und ich bin ein Experte in wissen, wann man einen Experten braucht, und du brauchst keinen Experten um zu sehen, dass die standard Bio von Netdex
 profile.info=Möchtest du auch eine Karte auf Netdex?
 
-> Images
-screenshot=Hol dir Netdex Screenshot
-screenshot.1=Netdex Screenshot ist ein modernes Screenshot Werkzeug, erschaffen um dir zu helfen den perfekten Screenshot zu erstellen sobald du [Druck] drückst.
-screenshot.changelog=Veränderungsverlauf
-image.drop=Drop dein Bild!
-image.drop.files=Drop DEIN (NUR 1) Bild!
-image.drop.imgs=Drop dein BILD!
-image.drop.uploading=Läd hoch...
-image.drop.fail=Fehlgeschlagen.
-image.drop.done=Fertig
-
 > Email Forwarder
 mail=Email Weiterleiter
 mail.title=Komische Emails - Netdex Email Weiterleiter
@@ -374,6 +363,24 @@ tmpmail.ad.1=Dann schau dir mal
 tmpmail.ad.2=den Netdex Email Weiterleiter
 tmpmail.ad.3= an!
 
+> Netdex Screenshot
+screenshot=Hol dir Netdex Screenshot
+screenshot.1=Netdex Screenshot ist ein modernes Screenshot Werkzeug, erschaffen um dir zu helfen den perfekten Screenshot zu erstellen sobald du [Druck] drückst.
+screenshot.changelog=Veränderungsverlauf
+image.drop=Drop dein Bild!
+image.drop.files=Drop DEIN (NUR 1) Bild!
+image.drop.imgs=Drop dein BILD!
+image.drop.uploading=Läd hoch...
+image.drop.fail=Fehlgeschlagen.
+image.drop.done=Fertig
+
+> Hosts
+hosts=Collektive Hosts-Datei Projekt
+hosts.sources=Domain-Quellen, Exkludierungen und Crawler-Instruktionen
+hosts.flavour=Soße
+hosts.flavour.d=Nur Domains
+hosts.pihole=In Pi Hole installieren mit:
+
 > OffGames
 offgames.title=OffGames: Steam Spieleangebote Meta-Suche
 offgames.desc=OffGames schaut nach Angeboten bei verschiedenen Steam Key Verkäufern und macht diese suchbar.
@@ -403,8 +410,9 @@ offgames.tool.vr=VR-Unterstützung
 offgames.tool.vr.none=Keine
 offgames.tool.reset=Präferenzen zurücksetzen
 offgames.games=All Spiele, die mit deinen Präferenzen übereinstimmen
-offgames.links=Einige Links hier sind Referal-Links, sie geben uns eine Provision für Spiele die auf OffGames gefunden und dann gekauft hast.
+offgames.links=Einige Links hier sind Referal-Links; Diese geben uns eine Provision für Spiele die auf OffGames gefunden und dann gekauft hast.
 offgames.steam=Auf Steam anschauen
+offgames.click=Es scheint zu, als ob dein Browser paranoid ist. Klicke hier um das Angebot tatsächlich zu öffnen - hoffentlich.
 offgames.code=%store% Rabattgutschein
 offgames.code.off=%% Reduziert:
 offgames.code.cashback=%% Geld zurück:
@@ -432,8 +440,8 @@ offgames.notify.mail.2=Du wirst nun nicht mehr über Angebote zu %game% informie
 > Wallet
 wallet.title=Dein digitaler Geldbeutel
 wallet.euros=Euros
-# wallet.balance=Balance
-# wallet.transactions=Transactions
+wallet.balance=Guthaben
+wallet.transactions=Transaktionen
 # wallet.transactions.no=Here is where your transactions will be displayed.
 
 > Tmp Note

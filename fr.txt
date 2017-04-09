@@ -232,17 +232,6 @@ profile.title=sur
 # profile.bio.default=Hello, my name is Jeff and I'm an expert at knowing when you need an expert, and you don't need an expert to tell, that the default bio of Netdex
 # profile.info=Do you also want to have a card on Netdex?
 
-> Images
-# screenshot=Get Netdex Screenshot
-# screenshot.1=Netdex Screenshot is a modern Screenshot Tool built to help you create the perfect screenshot as soon as you press [PrntScreen].
-# screenshot.changelog=Changelog
-image.drop=Déposez votre image !
-image.drop.files=Déposez votre (SEULEMENT 1) image !
-image.drop.imgs=Déposez votre IMAGE !
-image.drop.uploading=Mise en ligne...
-# image.drop.fail=Upload failed.
-image.drop.done=Terminé
-
 > Email Forwarder
 mail=Redirection d'emails
 mail.title=Mails les plus étranges - Redirection d'emails Netdex
@@ -374,6 +363,24 @@ tmpmail.ad.1=Alors consultez
 tmpmail.ad.2=le redirecteur d'email Netdex
 tmpmail.ad.3=!
 
+> Netdex Screenshot
+# screenshot=Get Netdex Screenshot
+# screenshot.1=Netdex Screenshot is a modern Screenshot Tool built to help you create the perfect screenshot as soon as you press [PrntScreen].
+# screenshot.changelog=Changelog
+image.drop=Déposez votre image !
+image.drop.files=Déposez votre (SEULEMENT 1) image !
+image.drop.imgs=Déposez votre IMAGE !
+image.drop.uploading=Mise en ligne...
+# image.drop.fail=Upload failed.
+image.drop.done=Terminé
+
+> Hosts
+# hosts=Collective Hosts File Project
+# hosts.sources=Domain Sources, Excludes and Crawler Instructions
+# hosts.flavour=Flavour
+# hosts.flavour.d=Only Domains
+# hosts.pihole=Install into Pi Hole using:
+
 > OffGames
 # offgames.title=OffGames: Steam Game Offer Meta-Search
 # offgames.desc=OffGames looks for offers across different Steam Key Sellers and makes them searchable.
@@ -402,9 +409,10 @@ tmpmail.ad.3=!
 # offgames.tool.vr=VR-Support
 # offgames.tool.vr.none=None
 # offgames.tool.reset=Reset Preferences
-# offgames.games=All Games matching your preferences
-# offgames.links=Some links here are referal links, they give us a provision for games you found using OffGames and then bought.
+# offgames.games=All Games Matching Your Preferences
+# offgames.links=Some links here are referal links; they give us a provision for games you found using OffGames and then bought.
 # offgames.steam=View on Steam
+# offgames.click=It appears as tho your browser is paranoid. Click here to actually open the offer - hopefully.
 # offgames.code=%store% Discount Code
 # offgames.code.off=%% Off:
 # offgames.code.cashback=%% Cashback:

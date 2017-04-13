@@ -74,15 +74,13 @@ copy=prawo kliknij > Kopiuj (Ctrl + C)
 
 > Legal
 # legal=Legal
-# legal.nope=This text is written by developers. No lawyers were contacted.
 # agreement=Agreement
-# agreement.agreement=By using Netdex and its services you agree to the agreement ("Netdex User Agreement") below.
+# agreement.agreement=By using Netdex and its services you agree to the agreement below.
 # imprint=Imprint
 # imprint.1=Domain Registrant
 # imprint.2=Content Administrator
-# imprint.3=Copyright Holders
-# imprint.3.1=All used resources and team members are listed at
-# imprint.4=Click here to get to our Privacy Policy.
+# imprint.copyright=Copyright Holders
+# imprint.copyright.1=Click here to find the Credits.
 # privacy=Privacy Policy
 
 > Ban
@@ -383,7 +381,7 @@ copy=prawo kliknij > Kopiuj (Ctrl + C)
 
 > OffGames
 # offgames.title=OffGames: Steam Game Offer Meta-Search
-# offgames.desc=OffGames looks for offers across different Steam Key Sellers and makes them searchable.
+# offgames.desc=OffGames looks for offers across several Steam Key Sellers and makes them searchable.
 # offgames.group=Join our Steam Group!
 # offgames.tool=Search Toolkit
 # offgames.tool.slogan=Just find what you need

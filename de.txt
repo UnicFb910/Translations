@@ -74,15 +74,13 @@ home.search=Stell eine Frage oder gebe Stichwörter ein
 
 > Legal
 legal=Legales
-legal.nope=Dieser Text wurde von Entwicklern geschrieben. Keine Anwälte wurden kontakiert.
 agreement=Vereinbarung
 agreement.agreement=Durch der Verwendung von Netdex und dessen Services akzeptierst du die untere Vereibarung ("Netdex User Agreement").
 imprint=Impressum
 imprint.1=Domain Registrator
 imprint.2=Inhalt Administrator
-imprint.3=Urheberrechtsinhaber
-imprint.3.1=Alle verwendeten Resourcen und Teammitglieder sind gelistet in den
-imprint.4=Klicke hier um zu unseren Datenschutz-Bestimmungen zu kommen.
+# imprint.copyright=Copyright Holders
+# imprint.copyright.1=Click here to find the Credits.
 privacy=Datenschutz-Bestimmungen
 
 > Ban
@@ -383,7 +381,7 @@ hosts.pihole=In Pi Hole installieren mit:
 
 > OffGames
 offgames.title=OffGames: Steam Spieleangebote Meta-Suche
-offgames.desc=OffGames schaut nach Angeboten bei verschiedenen Steam Key Verkäufern und macht diese suchbar.
+offgames.desc=OffGames schaut nach Angeboten bei mehreren Steam Key Verkäufern und macht diese suchbar.
 offgames.group=Betrete unsere Steam-Gruppe!
 offgames.tool=Suchtoolkit
 offgames.tool.slogan=Finde einfach was du brauchst

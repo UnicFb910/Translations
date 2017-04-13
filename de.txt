@@ -79,8 +79,8 @@ agreement.agreement=Durch der Verwendung von Netdex und dessen Services akzeptie
 imprint=Impressum
 imprint.1=Domain Registrator
 imprint.2=Inhalt Administrator
-# imprint.copyright=Copyright Holders
-# imprint.copyright.1=Click here to find the Credits.
+imprint.copyright=Urheberrechtsinhaber
+imprint.copyright.1=Hier klicken um die Credits zu finden
 privacy=Datenschutz-Bestimmungen
 
 > Ban

@@ -191,7 +191,7 @@ options.2fa.reset.1=Im schlimmsten Fall des Lebens, verlierst du mal dein Handy,
 options.2fa.reset.2=SPEICHERE DIESEN LINK IN EINER SICHEREN TEXTDATEI
 options.2fa.reset.3=so, dass du deinen Account behalten kannst.
 options.2fa.disable=2FA deaktivieren
-# options.2fa.disabled=Successfully disabled 2FA for Netdex-Account %%.
+options.2fa.disabled=2FA wurde erfolgreich in deinem Netdex-Account %% deaktiviert.
 
 > Help
 help=Hilfezentrum
@@ -225,7 +225,7 @@ search=Suche
 search.input=Such nach Netdex Nutzern per Name.
 profile=Profil
 profile.title=%% auf Netdex
-# profile.desc=Look at %%'s awesome Profile Card on Netdex. It includes text, links and all of that great stuff. Also, your family is down there; Should have mentioned that earlier.
+# profile.desc=Schau dir %%s geile Profil-Karte auf Netdex an. Sie beinhaltet Text, Links und das andere tolle Zeug. Außerdem ist deine Familie da unten; hätte ich früher erwähnen sollen.
 profile.bio.default=Hallo, mein Name ist Kevin und ich bin ein Experte in wissen, wann man einen Experten braucht, und du brauchst keinen Experten um zu sehen, dass die standard Bio von Netdex
 profile.info=Möchtest du auch eine Karte auf Netdex?
 

@@ -76,11 +76,10 @@ home.search=Stell eine Frage oder gebe Stichwörter ein
 legal=Legales
 agreement=Vereinbarung
 agreement.agreement=Durch der Verwendung von Netdex und dessen Services akzeptierst du die untere Vereibarung ("Netdex User Agreement").
+agreement.agree=Ich stimme zu.
 imprint=Impressum
 imprint.1=Domain Registrator
 imprint.2=Inhalt Administrator
-imprint.copyright=Urheberrechtsinhaber
-imprint.copyright.1=Hier klicken um die Credits zu finden
 privacy=Datenschutz-Bestimmungen
 
 > Ban
@@ -101,8 +100,6 @@ achievements.level=Dein Level
 > Credits
 credits=Credits
 credits.resources=Resourcen
-credits.resources.style=Style
-credits.resources.libs=Script Bibliotheken
 credits.team=Team
 credits.make=Scripting / Styling
 credits.translations=Übersetzungen
@@ -194,6 +191,7 @@ options.2fa.reset.1=Im schlimmsten Fall des Lebens, verlierst du mal dein Handy,
 options.2fa.reset.2=SPEICHERE DIESEN LINK IN EINER SICHEREN TEXTDATEI
 options.2fa.reset.3=so, dass du deinen Account behalten kannst.
 options.2fa.disable=2FA deaktivieren
+# options.2fa.disabled=Successfully disabled 2FA for Netdex-Account %%.
 
 > Help
 help=Hilfezentrum
@@ -226,7 +224,8 @@ help.categories=Kategorien
 search=Suche
 search.input=Such nach Netdex Nutzern per Name.
 profile=Profil
-profile.title=auf
+profile.title=%% auf Netdex
+# profile.desc=Look at %%'s awesome Profile Card on Netdex. It includes text, links and all of that great stuff. Also, your family is down there; Should have mentioned that earlier.
 profile.bio.default=Hallo, mein Name ist Kevin und ich bin ein Experte in wissen, wann man einen Experten braucht, und du brauchst keinen Experten um zu sehen, dass die standard Bio von Netdex
 profile.info=Möchtest du auch eine Karte auf Netdex?
 
@@ -382,7 +381,8 @@ hosts.pihole=In Pi Hole installieren mit:
 > OffGames
 offgames.title=OffGames: Steam Spieleangebote Meta-Suche
 offgames.desc=OffGames schaut nach Angeboten bei mehreren Steam Key Verkäufern und macht diese suchbar.
-offgames.group=Betrete unsere Steam-Gruppe!
+offgames.group=Steam Gruppe
+offgames.extension=Erweiterung
 offgames.tool=Suchtoolkit
 offgames.tool.slogan=Finde einfach was du brauchst
 offgames.tool.order=Sortierung
@@ -421,8 +421,6 @@ offgames.share.desc.2=anstatt von
 offgames.share.wait=Das Spiel nach dem du suchst ist irgendwo zwischen tausenden von Spielen. Es wird ein wenig dauern es zu finden.
 offgames.share.gone=Es tut uns leid, das Spiel nach dem du suchst ist nicht mehr reduziert.
 offgames.share.filtered=Das Spiel nach dem du suchst existiert, aber es passt nicht in deine Preferenzen.
-offgames.share.offer=Angebot anschauen
-offgames.share.offgames=In OffGames anschauen
 offgames.notify.netdex=Bitte melde dich mit Netdex an, damit wir deine Email-Adresse leicht bestätigen können.
 offgames.notify.needmail=Füge deine Email zu Netdex hinzu
 offgames.notify.needmail.1=Wir brauchen deine Email-Adresse um dir Emails zu senden.

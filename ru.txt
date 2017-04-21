@@ -76,11 +76,10 @@ home.projects=дать вам наши ...
 # legal=Legal
 # agreement=Agreement
 # agreement.agreement=By using Netdex and its services you agree to the agreement below.
+# agreement.agree=I agree.
 # imprint=Imprint
 # imprint.1=Domain Registrant
 # imprint.2=Content Administrator
-# imprint.copyright=Copyright Holders
-# imprint.copyright.1=Click here to find the Credits.
 # privacy=Privacy Policy
 
 > Ban
@@ -101,8 +100,6 @@ home.projects=дать вам наши ...
 > Credits
 # credits=Credits
 # credits.resources=Resources
-# credits.resources.style=Style
-# credits.resources.libs=Script Libraries
 # credits.team=Team
 # credits.make=Scripting / Styling
 # credits.translations=Translations
@@ -194,6 +191,7 @@ home.projects=дать вам наши ...
 # options.2fa.reset.2=STORE THIS LINK IN A SECURE TEXT FILE
 # options.2fa.reset.3=that you can keep your account. :)
 # options.2fa.disable=Disable 2FA
+# options.2fa.disabled=Successfully disabled 2FA for Netdex-Account %%.
 
 > Help
 # help=Help Center
@@ -226,7 +224,8 @@ home.projects=дать вам наши ...
 # search=Search
 # search.input=Look for Netdex users by name.
 # profile=Profile
-# profile.title=on
+# profile.title=%% on Netdex
+# profile.desc=Look at %%'s awesome Profile Card on Netdex. It includes text, links and all of that great stuff. Also, your family is down there; Should have mentioned that earlier.
 # profile.bio.default=Hello, my name is Jeff and I'm an expert at knowing when you need an expert, and you don't need an expert to tell, that the default bio of Netdex
 # profile.info=Do you also want to have a card on Netdex?
 
@@ -382,7 +381,8 @@ home.projects=дать вам наши ...
 > OffGames
 # offgames.title=OffGames: Steam Game Offer Meta-Search
 # offgames.desc=OffGames looks for offers across several Steam Key Sellers and makes them searchable.
-# offgames.group=Join our Steam Group!
+# offgames.group=Steam Group
+# offgames.extension=Extension
 # offgames.tool=Search Toolkit
 # offgames.tool.slogan=Just find what you need
 # offgames.tool.order=Order
@@ -421,8 +421,6 @@ home.projects=дать вам наши ...
 # offgames.share.wait=The game you're looking for is somewhere in the mids of thousands of games. It will take a while to find it.
 # offgames.share.gone=We're sorry, the game you're looking for is no longer on sale.
 # offgames.share.filtered=The game you are looking for exists, but is not matching your preferences.
-# offgames.share.offer=View Offer
-# offgames.share.offgames=View in OffGames
 # offgames.notify.netdex=Please login with Netdex so we can easily verify your email address.
 # offgames.notify.needmail=Add your email to Netdex.
 # offgames.notify.needmail.1=We need your email address to send emails to.

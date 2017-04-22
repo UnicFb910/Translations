@@ -225,7 +225,7 @@ search=Suche
 search.input=Such nach Netdex Nutzern per Name.
 profile=Profil
 profile.title=%% auf Netdex
-# profile.desc=Schau dir %%s geile Profil-Karte auf Netdex an. Sie beinhaltet Text, Links und das andere tolle Zeug. Außerdem ist deine Familie da unten; hätte ich früher erwähnen sollen.
+profile.desc=Schau dir %%s geile Profil-Karte auf Netdex an. Sie beinhaltet Text, Links und das andere tolle Zeug. Außerdem ist deine Familie da unten; hätte ich früher erwähnen sollen.
 profile.bio.default=Hallo, mein Name ist Kevin und ich bin ein Experte in wissen, wann man einen Experten braucht, und du brauchst keinen Experten um zu sehen, dass die standard Bio von Netdex
 profile.info=Möchtest du auch eine Karte auf Netdex?
 
@@ -372,10 +372,10 @@ image.drop.fail=Fehlgeschlagen.
 image.drop.done=Fertig
 
 > Hosts
-hosts=Collektive Hosts-Datei Projekt
-# hosts.desc=The Collective Hosts File Project strives to collect as much spam, malware, phishing domains which are to be or already registered.
+hosts=Kollektive Hosts-Datei Projekt
+hosts.desc=Das Kollektive Hosts-Datei Projekt versucht so viele Spam, Malware und Phishing Domains - ob registriert oder nicht - wie möglich zu sammeln.
 hosts.sources=Domain-Quellen, Exkludierungen und Crawler-Instruktionen
-hosts.flavour=Soße
+hosts.flavour=Geschmack
 hosts.flavour.d=Nur Domains
 hosts.pihole=In Pi Hole installieren mit:
 

@@ -373,6 +373,7 @@ copy=prawo kliknij > Kopiuj (Ctrl + C)
 
 > Hosts
 # hosts=Collective Hosts File Project
+# hosts.desc=The Collective Hosts File Project strives to collect as much spam, malware, phishing domains which are to be or already registered.
 # hosts.sources=Domain Sources, Excludes and Crawler Instructions
 # hosts.flavour=Flavour
 # hosts.flavour.d=Only Domains

@@ -41,7 +41,6 @@ adblock.thanks=Danke für's deaktivieren deines Werbeblockers. :)
 advertisement=Eine Nachricht unserer Sponsoren
 notification=Gelangweilt von diesen Meldungen? Sehe moderne und eingeblendete Meldungen durch das Erlauben.
 popup=Diese Seite darf nur als Pop-Up-Fenster geöffnet werden.
-browser.old=Netdex ist im Gegensatz zu deinem Browser modern. Versuch's mal mit Upgraden.
 loading=Gleich da
 loading.1=Die Kommunikation mit der Basis scheint etwas länger als üblich zu dauern. Habe bitte Geduld.
 console.1=HALT STOP
@@ -108,7 +107,7 @@ credits.translations.1=Diese Sprache ist (noch) nicht voll übersetzt.
 
 > Login
 login=Einloggen
-login.limit=Wir erlauben bis zu 3 Accounts pro IP.
+login.browser=Es tut uns Leid, aber dein Browser ist zu schlecht für unser Account-System. Vielleicht mal upgraden?
 logout=Ausloggen
 loggingout=Du wirst abgemeldet...
 login.2fa.invalid=Ungültiger 2FA Code.
@@ -122,6 +121,7 @@ login.name.short=Nickname zu kurz.
 login.pass=Passwort
 login.pass.short=Passwort zu kurz.
 login.pass.wrong=Falsches Passwort.
+login.limit=Wir erlauben bis zu 3 Accounts pro IP.
 token.invalid=Wir konnten dich nicht wieder einloggen.
 token.expired=Du wurdest ausgeloggt.
 token.ok=Willkommen zurück, %name%.
@@ -329,9 +329,9 @@ shorter.res=Resultat
 shorter.res.long=Longe URL:
 shorter.res.short=Kurze URL:
 shorter.res.back=Nomma kürzen
-shorter.direct=Über Nex.li
-shorter.direct.1=Nex.li ist unsere Domain zum URLs kürzen.
-shorter.direct.2=Subdomains (*.nex.li) werden an Einzelpersonen welche kein Angestellter oder Partner von Netdex sind gegeben, also vertreten wir den Kontent der auf Subdomains gepostet wird nicht.
+shorter.nex=Über Nex.li
+shorter.nex.1=Nex.li ist unsere Domain zum URLs kürzen.
+shorter.nex.2=Subdomains (*.nex.li) werden an Einzelpersonen welche kein Angestellter oder Partner von Netdex sind gegeben, also vertreten wir den Kontent der auf Subdomains gepostet wird nicht.
 
 > Tmp Mail
 tmpmail.title=Professionelle Temporäre/Müll Emails

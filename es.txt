@@ -41,7 +41,6 @@ alert.verify=Tú email no está verificado hasta el momento. Por favor, mira en 
 advertisement=Ún mensaje de nuestros sponsores
 notification=Tú no quieres esos alerts? Puedes activar los notifications de narcos. Muy guapa!
 popup=Esa página es un PopUp.
-browser.old=Para una experiencia de usario moderna, utiliza un browser como
 loading=Loading
 # loading.1=The communication with the base is taking longer than usual. Be patient.
 # console.1=STOP RIGHT THERE
@@ -108,7 +107,7 @@ home.projects=Visitar nuestro...
 
 > Login
 login=Login
-login.limit=Solamente 3 accounts en una IP.
+# login.browser=We're sorry, but your browser is too bad for our account system. Consider upgrading!
 logout=Logout
 # loggingout=You are being logged out...
 # login.2fa.invalid=Invalid 2FA Code.
@@ -122,6 +121,7 @@ login.name.short=Elige un nickname más corto.
 login.pass=contraseña
 login.pass.short=Descifre más corta.
 login.pass.wrong=contraseña incorrecta.
+login.limit=Solamente 3 accounts en una IP.
 # token.invalid=We could not log you back in.
 # token.expired=You have been logged out.
 # token.ok=Welcome back, %name%.
@@ -329,9 +329,9 @@ mail=Email Promotor
 # shorter.res.long=Long URL:
 # shorter.res.short=Short URL:
 # shorter.res.back=Short anotha one
-# shorter.direct=About Nex.li
-# shorter.direct.1=Nex.li is our domain used for shorting URLs.
-# shorter.direct.2=Subdomains (*.nex.li) are given out to individuals who might not be an employee or partner of Netdex, so we do not represent or warrant content posted on subdomains.
+# shorter.nex=About Nex.li
+# shorter.nex.1=Nex.li is our domain used for shorting URLs.
+# shorter.nex.2=Subdomains (*.nex.li) are given out to individuals who might not be an employee or partner of Netdex, so we do not represent or warrant content posted on subdomains.
 
 > Tmp Mail
 # tmpmail.title=Professional Temporary/Trash Mails

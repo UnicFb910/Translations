@@ -378,7 +378,7 @@ mail=Email Promotor
 # hosts.flavour.d=Only Domains
 # hosts.pihole=Install into Pi Hole using:
 
-> OffGames.pro
+> OffGames.io
 # offgames.title=OffGames: Steam Game Offer Meta-Search
 # offgames.desc=OffGames looks for offers across several Steam Key Sellers and makes them searchable.
 # offgames.group=Steam Group
@@ -411,8 +411,9 @@ mail=Email Promotor
 # offgames.code=%store% Discount Code
 # offgames.code.off=%% Off:
 # offgames.code.cashback=%% Cashback:
-# offgames.share=Check out this offer:
+# offgames.share=Check out these offers for %game%:
 # offgames.offer.title=Safe up to %discount% on %game%!
+# offgames.offer.description=Check this site for all offers on %game% and safe up to %discount%!
 # offgames.offer.hasgame=You already own this game.
 # offgames.offer.orgprice=Steam Price
 # offgames.offer.ratings=Steam Rating

@@ -64,20 +64,26 @@ home.projects=Check out our...
 home.radio=Radio
 home.radio.change=Change Radio
 home.radio.mobile=Because you are on mobile, you have to reopen the radio to start playing.
+home.search=Enter a question or keywords.
 home.links=Links
 home.link=Homepage
 home.social=Social Media
-home.search=Enter a question or keywords.
+home.other=Other Projects
+
+> Sitemap
+sitemap=Sitemap
+sitemap.services=Services
+sitemap.account=Account
+sitemap.accounts=Featured Accounts
 
 > Legal
 legal=Legal
 agreement=Agreement
-agreement.agreement=By using Netdex and its services you agree to the agreement below.
+agreement.1=By using Netdex and its services you agree to the agreement below.
 agreement.agree=I agree.
 imprint=Imprint
 imprint.1=Domain Registrant
 imprint.2=Content Administrator
-privacy=Privacy Policy
 
 > Ban
 banned=You were banned.
@@ -420,8 +426,9 @@ offgames.offer.ratings=Steam Rating
 offgames.offer.store=Store
 offgames.offer.price=Price
 offgames.offer.oses=Operating Systems
-offgames.offer.offers=You can safe up %discount% on %game% on the following stores. 
+offgames.offer.offers=You can safe up %discount% on %game% in the following stores. 
 offgames.offer.gone=It seems as tho you can currently not pick up this game at a cheaper price.
+offgames.reflink=Your OffGames Referal Link
 offgames.reflink.own=Clicking on your own reflink won't do much. Logout first if you want to test stuff.
 offgames.notifications=You're about to be asked to grant us permissions to show Notifications. These Notifications, however, will only show you discount codes for the site you are about to visit. If you deny the permission, you will recieve the discount codes in a message like this.
 offgames.login=Login with Steam
@@ -442,92 +449,27 @@ offgames.notify.mail.2=From now on you will no longer be notified about offers f
 > If you feel like it or just want to make your future a bit easier, you can translate the following too.
 > It is the best for everyone.
 
-> Wallet
-wallet.title=Your Digital Wallet
-wallet.euros=Euros
-wallet.balance=Balance
-wallet.transactions=Transactions
-wallet.transactions.no=Here is where your transactions will be displayed.
-
 > Tmp Note
 tmpnote.title=Temporary Self-Destructing Notes
 tmpnote.what=What is Tmp Note?
 tmpnote.what.1=Tmp Note is a service that allows you to create notes that self-destruct after they've been read.
 tmpnote.what.2=We use special client-site encryption, so not even we are able to read your messages.
 tmpnote.create=Create a Tmp Note
-tmpnote.create.1=Your note...
-tmpnote.create.2=(Code-)Formatting
-tmpnote.create.3=
 
-> Telnet
-telnet.title=Your own free Telnet server
-telnet.desc=Why Netdex Telnet?
-telnet.desc.1=Using the free and fully-customizable Telnet servers from Netdex you can create professional online meetings.
-telnet.desc.2=With our exclusive programming language
-telnet.desc.3=you can truly code the server yourself, without much effort (requires english skills).
-telnet.desc.4=Telnet is over 30 years old, why do you make it sound like an apple product?
-telnet.desc.5=Because it's fucking Telnet!
-telnet.join=Join your favorite Telnet Server.
-telnet.join.link=Don't know how to join your Telnet server?
-telnet.join.os.win.putty.1=Download
-telnet.join.os.win.putty.2=!
-telnet.join.os.win.putty.3=Connection type
-telnet.join.os.win.alt.1=Are you a pussy? Do you think putty is a virus or too lazy to download it?
-telnet.join.os.win.alt.2=Then you could try to join using the command prompt.
-telnet.join.os.win.alt.3=Note that this will not work for everyone!
-telnet.join.os.unix.1=All UNIX-based operating systems, like Linux and MacOS, provide a Telnet command in the terminal, just type:
-telnet.join.os.unix.2=And if you don't have it:
-telnet.join.os.mobile=Mobile
-telnet.join.os.mobile.1=Just download some Telnet client and use this connection information:
-telnet.manage=Manage your Telnet Server.
-telnet.manage.noserver=You currently have no Telnet server.
-telnet.manage.noserver.1=We allow for everyone to get a free Telnet server.
-telnet.manage.noserver.2=You need some experience in coding, because your server doesn't code itself.
-telnet.manage.noserver.3=Please read the documentation for
-telnet.manage.noserver.4=trough and then decide if you want a server.
-telnet.manage.noserver.5=Get free Telnet server now.
-telnet.manage.noserver.full=Sorry, but we are full on servers. Please contact support.
-telnet.manage.delete.btn=Delete this server!
-telnet.manage.delete=Do you still need this server?
-telnet.manage.delete.1=It's useless to me, delete it.
-telnet.manage.delete.2=I need it, I can't live without it.
-telnet.manage.info=Info
-telnet.manage.online=Your server will be online until
-telnet.manage.online.tooltip=Your server will not be shutdown, if there are users connected, for at least a couple of seconds, once a week.
-telnet.manage.usercount=Online Clients
-telnet.manage.bytesram=Bytes RAM Usage
-telnet.manage.restart=Restart Server!
-telnet.manage.kickall=Kick all users!
-telnet.manage.log=Log
-telnet.manage.log.clear=Clear
-telnet.manage.script=Script
-telnet.manage.script.lang=You code scripts in
-telnet.manage.script.fail=Saving failed
-telnet.manage.script.apply=Apply Script
-telnet.manage.script.apply.info=Clients need to rejoin for changes to apply to them.
-telnet.manage.offline=Server Offline
-telnet.manage.offline.1=Your server was unused for more than a week and therefore shutdown.
-telnet.manage.offline.2=Give me an extra week!
-
-> Tic Tac Toe
-ttt=Tic Tac Toe
-ttt.title=Play and create games - Tic Tac Toe
-ttt.about=Why would you need a description for this? Just click a button:
-ttt.create=Create
-ttt.join=Join
-ttt.share=You currently are not having a partner, so send this link to your mate:
-ttt.play.turn.1=You can now make a turn.
-ttt.play.turn.2=Your enemy is now making a turn.
-ttt.play.win.1=You have won this round.
-ttt.play.win.2=Your enemy has won this round.
+> Wallet
+wallet.title=Your Digital Wallet
+wallet.euros=Euros
+wallet.balance=Balance
+wallet.transactions=Transactions
+wallet.transactions.first=Here is where your transactions will be displayed.
 
 > Poll
 poll=Polls
-poll.title=Create and Vote On - Polls
+poll.title=Create and Vote on Polls
 poll.login=Please login
-poll.login.text=For security reason, you'll need to login into your Netdex Account to create and vote on polls
+poll.login.text=You'll need to login into your Netdex Account in order to create a poll.
 poll.create=Create Poll
 
 > Impressive work! Translating for the future is very important and nice.
 > Go take a nap. You earned and probably need it.
-> Copyright (c) 2016 - 2017, the Netdex Translation Team (as defined on https://netdex.co/credits)
+> Copyright (c) 2016 - 2017, the Netdex Translators (https://netdex.co/credits)

@@ -64,20 +64,26 @@ home.projects=Gib dir unser...
 home.radio=Radio
 home.radio.change=Radio wechseln
 home.radio.mobile=Weil du auf einem Handy bist, musst du das Radio erneut öffnen damit es spielt.
+home.search=Stell eine Frage oder gebe Stichwörter ein
 home.links=Links
 home.link=Hauptseite
 home.social=Sociale Medien
-home.search=Stell eine Frage oder gebe Stichwörter ein
+home.other=Andere Projekte
+
+> Sitemap
+sitemap=Unterseiten-Übersicht
+sitemap.services=Services
+sitemap.account=Account
+sitemap.accounts=Vorgestellte Accounts
 
 > Legal
 legal=Legales
 agreement=Vereinbarung
-agreement.agreement=Durch der Verwendung von Netdex und dessen Services akzeptierst du die untere Vereibarung ("Netdex User Agreement").
+agreement.1=Durch der Verwendung von Netdex und dessen Services akzeptierst du die untere Vereibarung ("Netdex User Agreement").
 agreement.agree=Ich stimme zu.
 imprint=Impressum
 imprint.1=Domain Registrator
 imprint.2=Inhalt Administrator
-privacy=Datenschutz-Bestimmungen
 
 > Ban
 banned=Du wurdest gebannt.
@@ -422,6 +428,7 @@ offgames.offer.price=Preis
 offgames.offer.oses=Betriebsysteme
 offgames.offer.offers=Du kannst in den folgenen Shops bis zu %discount% an %game% sparen.
 offgames.offer.gone=Es sieht so aus als ob du dieses Spiel aktuell nicht für einen günstigeren Preis erwerben kannst.
+offgames.reflink=Dein OffGames-Reflink
 offgames.reflink.own=Auf deinen eigenen Reflink klicken bringt nicht viel. Melde dich erst aus, wenn du was testen willst.
 offgames.notifications=Du wirst gleich gefragt, OffGames Benachrichtungs-Berechtigungen zu geben. Diese Benachrichtigungen zeigen aber nur Rabattgutscheine für die Seite auf die du gleich gehst. Wenn du die Berechtigung verweigerst, werden die Rabattgutscheine in einer Nachricht wie dieser gezeigt.
 offgames.login=Anmeldung mit Steam
@@ -442,92 +449,27 @@ offgames.notify.mail.2=Du wirst nun nicht mehr über Angebote zu %game% informie
 > If you feel like it or just want to make your future a bit easier, you can translate the following too.
 > It is the best for everyone.
 
-> Wallet
-wallet.title=Dein digitaler Geldbeutel
-wallet.euros=Euros
-wallet.balance=Guthaben
-wallet.transactions=Transaktionen
-# wallet.transactions.no=Here is where your transactions will be displayed.
-
 > Tmp Note
 # tmpnote.title=Temporary Self-Destructing Notes
 tmpnote.what=Was ist Tmp Note?
 # tmpnote.what.1=Tmp Note is a service that allows you to create notes that self-destruct after they've been read.
 # tmpnote.what.2=We use special client-site encryption, so not even we are able to read your messages.
 # tmpnote.create=Create a Tmp Note
-# tmpnote.create.1=Your note...
-# tmpnote.create.2=(Code-)Formatting
-# tmpnote.create.3=
 
-> Telnet
-telnet.title=Dein eigender kostenfreier Telnet server.
-telnet.desc=Warum Netdex Telnet?
-# telnet.desc.1=Using the free and fully-customizable Telnet servers from Netdex you can create professional online meetings.
-# telnet.desc.2=With our exclusive programming language
-# telnet.desc.3=you can truly code the server yourself, without much effort (requires english skills).
-# telnet.desc.4=Telnet is over 30 years old, why do you make it sound like an apple product?
-telnet.desc.5=Weil es fucking Telnet ist.
-telnet.join=Betrete deinen Lieblingstelnetserver.
-telnet.join.link=Du weißt nicht wie du deinen Telnetserver betrittst?
-telnet.join.os.win.putty.1=Downloade
-telnet.join.os.win.putty.2=!
-telnet.join.os.win.putty.3=Verbindungstyp
-# telnet.join.os.win.alt.1=Are you a pussy? Do you think putty is a virus or too lazy to download it?
-# telnet.join.os.win.alt.2=Then you could try to join using the command prompt.
-# telnet.join.os.win.alt.3=Note that this will not work for everyone!
-# telnet.join.os.unix.1=All UNIX-based operating systems, like Linux and MacOS, provide a Telnet command in the terminal, just type:
-# telnet.join.os.unix.2=And if you don't have it:
-telnet.join.os.mobile=Mobil
-# telnet.join.os.mobile.1=Just download some Telnet client and use this connection information:
-telnet.manage=Verwalte deinen Telnetserver.
-# telnet.manage.noserver=You currently have no Telnet server.
-# telnet.manage.noserver.1=We allow for everyone to get a free Telnet server.
-# telnet.manage.noserver.2=You need some experience in coding, because your server doesn't code itself.
-# telnet.manage.noserver.3=Please read the documentation for
-# telnet.manage.noserver.4=trough and then decide if you want a server.
-# telnet.manage.noserver.5=Get free Telnet server now.
-# telnet.manage.noserver.full=Sorry, but we are full on servers. Please contact support.
-telnet.manage.delete.btn=Diesen Server löschen
-telnet.manage.delete=Brauchst du diesen Server noch?
-# telnet.manage.delete.1=It's useless to me, delete it.
-# telnet.manage.delete.2=I need it, I can't live without it.
-telnet.manage.info=Info
-telnet.manage.online=Dein Server ist online bis
-# telnet.manage.online.tooltip=Your server will not be shutdown, if there are users connected, for at least a couple of seconds, once a week.
-telnet.manage.usercount=Verbundene Nutzer
-telnet.manage.bytesram=Bytes RAM Nutzung
-telnet.manage.restart=Server neustarten
-telnet.manage.kickall=Alle Nutzer kicken
-telnet.manage.log=Log
-telnet.manage.log.clear=Leeren
-telnet.manage.script=Skript
-telnet.manage.script.lang=Du codest Skripts in
-telnet.manage.script.fail=Speichern fehlgeschlagen
-telnet.manage.script.apply=Skript verwenden
-# telnet.manage.script.apply.info=Clients need to rejoin for changes to apply to them.
-telnet.manage.offline=Server Offline
-# telnet.manage.offline.1=Your server was unused for more than a week and therefore shutdown.
-telnet.manage.offline.2=Gib mir noch ne Woche!
-
-> Tic Tac Toe
-ttt=Tic Tac Toe
-ttt.title=Erstelle und spiele - Tic Tac Toe
-ttt.about=Warum würdest du eine Beschreibung brauchen? Klick einfach einen Knopf:
-ttt.create=Erstellen
-ttt.join=Betreten
-ttt.share=Du hast aktuell keinen Partner, also sende das an deinen Freund:
-ttt.play.turn.1=Du bist am Zug.
-ttt.play.turn.2=Dein Gegner ist am Zug.
-ttt.play.win.1=Du hast diese Runde gewonnen.
-ttt.play.win.2=Dein Gegner hat diese Runde gewonnen.
+> Wallet
+wallet.title=Dein digitaler Geldbeutel
+wallet.euros=Euros
+wallet.balance=Guthaben
+wallet.transactions=Transaktionen
+wallet.transactions.first=Hier werden deine Transaktionen angezeigt.
 
 > Poll
 poll=Umfragen
-poll.title=Erstelle und nehme teil an - Umfragen
+poll.title=Erstelle und nehme teil an Umfragen
 poll.login=Bitte einloggen
-poll.login.text=Aus Sicherheitsgründen musst du in deinem Netdex Account eingeloggt sein um Umfragen zu erstellen oder daran teilzunehmen.
+# poll.login.text=You'll need to login into your Netdex Account in order to create a poll.
 poll.create=Umfrage erstellen
 
 > Impressive work! Translating for the future is very important and nice.
 > Go take a nap. You earned and probably need it.
-> Copyright (c) 2016 - 2017, the Netdex Translation Team (as defined on https://netdex.co/credits)
+> Copyright (c) 2016 - 2017, the Netdex Translators (https://netdex.co/credits)

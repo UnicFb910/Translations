@@ -16,4 +16,4 @@ Otherwise, you can just [fork this repository](https://guides.github.com/activit
 
 ## Why Translate?
 
-For the people that just don't understand english as good as you, it is nice to have human-generated translations and everyone who translates a good amount of strings, will be mentioned in [the credits](https://netdex.co/credits), which will, of course, require you to specify your Netdex username and optionally your real name in the pull request
+For the people that just don't understand english as good as you, it is nice to have human-generated translations - and everyone who translates a good amount of strings, will be mentioned in [the credits](https://netdex.co/credits), which will, of course, require you to specify your Netdex username and optionally your real name in the pull request

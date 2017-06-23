@@ -454,8 +454,7 @@ image.drop.done=Terminé
 # offgames.notify.mail.2=From now on you will no longer be notified about offers for %game%.
 
 > Congratulations! You have translated all the public parts of Netdex.
-> If you feel like it or just want to make your future a bit easier, you can translate the following too.
-> It is the best for everyone.
+> The following is for future projects which might not be done after all, so you don't have to translate it.
 
 > Tmp Note
 # tmpnote.title=Encrypted Temporary Notes
@@ -485,6 +484,5 @@ image.drop.done=Terminé
 # poll.login.text=You'll need to login into your Netdex Account in order to create a poll.
 # poll.create=Create Poll
 
-> Impressive work! Translating for the future is very important and nice.
-> Go take a nap. You earned and probably need it.
-> Copyright (c) 2016 - 2017, the Netdex Translators (https://netdex.co/credits)
+> Copyright (c) 2016 - 2017, the Netdex Translation Team - https://netdex.co/credits
+> This is licensed under The Unlicense - https://github.com/netdexco/Translations/blob/master/LICENSE

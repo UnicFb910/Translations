@@ -1,0 +1,51 @@
+{
+	"de": {
+		"english": "German",
+		"native": "Deutsch",
+		"translators": [
+			{
+				"name": "Tim \"timmyRS\" Speckhals",
+				"path": "Tim"
+			}
+		],
+		"translated": 99.6
+	},
+	"fr": {
+		"english": "France",
+		"native": "Français",
+		"translators": [
+			{
+				"name": "Alexandre \"Storm\" S."
+			}
+		],
+		"translated": 37.3
+	},
+	"es": {
+		"english": "Spanish",
+		"native": "Español",
+		"translators": [
+			{
+				"name": "Daniel \"HerrMotz\" Motz",
+				"path": "HerrMotz"
+			}
+		],
+		"translated": 14
+	},
+	"pl": {
+		"english": "Polish",
+		"native": "Polskie",
+		"translators": [],
+		"translated": 6.1
+	},
+	"ru": {
+		"english": "Russian",
+		"native": "Pусский",
+		"translators": [
+			{
+				"name": "Viktor \"Vake\" Peter",
+				"path": "Vake"
+			}
+		],
+		"translated": 5.9
+	}
+}

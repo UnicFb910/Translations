@@ -121,6 +121,11 @@ home.projects=дать вам наши ...
 # credits.partners=Partners
 # credits.translations=Translations
 # credits.translations.note=Fun Fact: This very text is translated too.
+# lang.de=German
+# lang.fr=French
+# lang.es=Spanish
+# lang.pl=Polish
+lang.ru=Pусский
 
 > Login
 # login=Login

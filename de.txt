@@ -121,6 +121,11 @@ credits.make=Coden
 credits.partners=Partner
 credits.translations=Übersetzungen
 credits.translations.note=Witziger Fakt: Dieser Text wurde auch übersetzt.
+lang.de=Deutsch
+lang.fr=Französisch
+lang.es=Spanisch
+lang.pl=Polnisch
+lang.ru=Russisch
 
 > Login
 login=Einloggen

@@ -50,7 +50,7 @@ newtab=Bitte öffne Netdex in einem neuen Tab.
 alert.mail=Du hast keine Email mit deinem Account verknüpft. Für deine Sicherheit: VERKNÜPFE EINE EMAIL MIT DEINEM ACCOUNT!
 alert.verify=Du hast deine Email noch nicht verifiziert. Bitte schaue in deinem Email-Postfach nach.
 alert.updates=Du empfängst keine Updates / Blogposts. Wenn wir etwas verändern solltest du es wissen.
-adblock=Deine Werbeblocke ist so fröhlich Netdex zu sehen, schau ihn dir nur an!
+adblock=Dein Werbeblocker ist so fröhlich Netdex zu sehen, schau ihn dir nur an!
 adblock.9001=ES IST ÜBER 9000!
 adblock.other=Wenn du einen echten Werbeblocker nutzen würdest, würde er SOOO hoch zählen. Ich schwöre es dir.
 adblock.thanks=Danke für's deaktivieren deines Werbeblockers. :)
@@ -464,6 +464,7 @@ offgames.notify.mail.2=Du wirst nun nicht mehr über Angebote zu %game% informie
 
 > Tmp Note
 tmpnote.title=Verschlüsselte Temporäre Notizen
+tmpnote.description=Netdex Tmp Note ermöglicht es dir, Nachrichten zu schreiben und Code zu teilen, ohne die Angst, dass Dritte etwas lesen können.
 tmpnote.formatting=Formatierung
 tmpnote.formatting.plain=Einfach nur Text
 tmpnote.deleteonview=Nach Anschauen löschen
@@ -473,6 +474,7 @@ tmpnote.expiry=Deine Tmp Note für in weniger oder exakt %max% und mind. %min% e
 tmpnote.created=Tmp Note erstellt.
 tmpnote.created.1=Deine Tmp Note wurde verschlüsselt und verschlüsselt hochgeladen. Nur mit dem Schlüssel (hinter dem #), ist das entschlüsseln und lesen möglich.
 tmpnote.unknown=Die Tmp Note die du aufgerufen hast, ist uns unbekannt. (Bereits abgelaufen?)
+# tmpnote.nokey=It seems as tho you opened a Tmp Note without knowing the key. Refresh this page if you do have the key.
 tmpnote.key=Was ist der Schlüssel um diese Tmp Note zu entschlüssen?
 tmpnote.key.wrong=Der eingegebene Schlüssel ist inkorrekt.
 tmpnote.fork=Diese Tmp Note bearbeiten

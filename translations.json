@@ -1,51 +1,51 @@
 {
-	"de": {
-		"english": "German",
-		"native": "Deutsch",
-		"translators": [
-			{
-				"name": "Tim \"timmyRS\" Speckhals",
-				"path": "Tim"
-			}
-		],
-		"translated": 99.6
-	},
-	"fr": {
-		"english": "France",
-		"native": "Français",
-		"translators": [
-			{
-				"name": "Alexandre \"Storm\" S."
-			}
-		],
-		"translated": 37.3
-	},
-	"es": {
-		"english": "Spanish",
-		"native": "Español",
-		"translators": [
-			{
-				"name": "Daniel \"HerrMotz\" Motz",
-				"path": "HerrMotz"
-			}
-		],
-		"translated": 14
-	},
-	"pl": {
-		"english": "Polish",
-		"native": "Polskie",
-		"translators": [],
-		"translated": 6.1
-	},
-	"ru": {
-		"english": "Russian",
-		"native": "Pусский",
-		"translators": [
-			{
-				"name": "Viktor \"Vake\" Peter",
-				"path": "Vake"
-			}
-		],
-		"translated": 5.9
-	}
+    "de": {
+        "english": "German",
+        "native": "Deutsch",
+        "translators": [
+            {
+                "name": "Tim \"timmyRS\" Speckhals",
+                "path": "Tim"
+            }
+        ],
+        "translated": 99.8
+    },
+    "fr": {
+        "english": "France",
+        "native": "Fran\u00e7ais",
+        "translators": [
+            {
+                "name": "Alexandre \"Storm\" S."
+            }
+        ],
+        "translated": 33.3
+    },
+    "es": {
+        "english": "Spanish",
+        "native": "Espa\u00f1ol",
+        "translators": [
+            {
+                "name": "Daniel \"HerrMotz\" Motz",
+                "path": "HerrMotz"
+            }
+        ],
+        "translated": 14.8
+    },
+    "pl": {
+        "english": "Polish",
+        "native": "Polskie",
+        "translators": [],
+        "translated": 6.5
+    },
+    "ru": {
+        "english": "Russian",
+        "native": "P\u0443\u0441\u0441\u043a\u0438\u0439",
+        "translators": [
+            {
+                "name": "Viktor \"Vake\" Peter",
+                "path": "Vake"
+            }
+        ],
+        "translated": 6.2
+    }
 }

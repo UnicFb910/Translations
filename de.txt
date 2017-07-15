@@ -74,9 +74,6 @@ home.what=Was sind wir?
 home.what.1=Netdex ermöglicht es dir deine eigene Karte zu erstellen und alle deine Profile und Webseiten zu präsentieren.
 home.quick=Schnellnavigation
 home.projects=Gib dir unser...
-home.radio=Radio
-home.radio.change=Radio wechseln
-home.radio.mobile=Weil du auf einem Handy bist, musst du das Radio erneut öffnen damit es spielt.
 home.search=Stell eine Frage oder gebe Stichwörter ein
 home.links=Links
 home.link=Hauptseite
@@ -177,6 +174,7 @@ pwreset.submit=Ändere mein Passwort
 options=Optionen
 options.title=Account Optionen
 options.save=Speichern
+options.saving=Speichern
 options.saved=Gespeichert
 options.change=Ändern
 options.add=Füge deinen %%-Account zu deiner Karte hinzu
@@ -220,7 +218,6 @@ options.2fa.removed=2FA wurde erfolgreich vom Netdex-Account %% entfernt.
 
 > Help
 help=Hilfezentrum
-help.title=Lesen und lernen - Hilfe
 help.login.real=Wie stell ich sicher, dass es das echte Netdex ist?
 help.login.real.1=Stell sicher, dass die URL von einem grünen Schloss beglitten wird, da wir nur HTTPS servieren.
 help.login.real.2=Wenn du dir unsicher bist, schreib die URL selber: [Inter]Net [In]dex PUNKT CO, ohne M.
@@ -253,8 +250,7 @@ profile.info=Möchtest du auch eine Karte auf Netdex?
 
 > Email Forwarder
 mail=Email Weiterleiter
-mail.title=Komische Emails - Netdex Email Weiterleiter
-mail.description=Der Netdex Email Weiterleiter allows erlaubt dir viele eigende Emails von uns mit voller anonymität zu genießen.
+mail.description=Der Netdex Email Weiterleiter erlaubt dir viele eigende Emails von uns mit voller anonymität zu genießen.
 mail.why=Warum Netdex Email Forwarder?
 mail.why.anon=Anoymität
 mail.why.anon.1=Alle Emails an deinname@netdex.co werden an deine echte Email weiter geleitet, welche wir nicht hergeben.

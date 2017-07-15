@@ -74,9 +74,6 @@ home.what=какие мы?
 # home.what.1=Netdex allows you to create your own card to showcase all of your profiles and websites.
 # home.quick=Quick Navigation
 home.projects=дать вам наши ...
-# home.radio=Radio
-# home.radio.change=Change Radio
-# home.radio.mobile=Because you are on mobile, you have to reopen the radio to start playing.
 # home.search=Enter a question or keywords.
 # home.links=Links
 # home.link=Home
@@ -177,6 +174,7 @@ lang.ru=Pусский
 # options=Options
 # options.title=Account Options
 # options.save=Save
+# options.saving=Saving
 # options.saved=Saved
 # options.change=Change
 # options.add=Add your %%-account to your card
@@ -220,7 +218,6 @@ lang.ru=Pусский
 
 > Help
 # help=Help Center
-# help.title=Read and learn - Help Center
 # help.login.real=How to make sure this is the real Netdex?
 # help.login.real.1=Check the URL for the green lock, because we only serve content over HTTPS.
 # help.login.real.2=If you're unsure, write the URL yourself: [Inter]Net [In]dex DOT CO, without M.
@@ -253,7 +250,6 @@ lang.ru=Pусский
 
 > Email Forwarder
 # mail=Email Forwarder
-# mail.title=Weirdest Mails - Netdex Email Forwarder
 # mail.description=The Netdex Email Forwarder allows you to have a lot of custom emails provided by us with full anonymity.
 # mail.why=Why Netdex Email Forwarder?
 # mail.why.anon=Anonymity
@@ -340,7 +336,7 @@ lang.ru=Pусский
 
 > Shorter
 # shorter=Shorter
-# shorter.title=Short Your Long URLs - Shorter
+# shorter.title=Short Your Long URLs
 # shorter.description=Using the Netdex Shorter you can create one of the shortest links ever to be seen.
 # shorter.form=(Un)short your URL
 # shorter.form.1=Insert any short or long URL and see where it goes or short it.

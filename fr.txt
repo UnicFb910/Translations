@@ -74,9 +74,6 @@ home.what=Qui sommes-nous?
 # home.what.1=Netdex allows you to create your own card to showcase all of your profiles and websites.
 # home.quick=Quick Navigation
 home.projects=Consultez notre...
-# home.radio=Radio
-# home.radio.change=Change Radio
-# home.radio.mobile=Because you are on mobile, you have to reopen the radio to start playing.
 # home.search=Enter a question or keywords.
 # home.links=Links
 # home.link=Home
@@ -177,6 +174,7 @@ pwreset.submit=Changer mon mot de passe
 options=Options
 # options.title=Account Options
 options.save=Sauvegarder
+# options.saving=Saving
 options.saved=Sauvegardé
 options.change=Changer
 # options.add=Add your %%-account to your card
@@ -220,7 +218,6 @@ options.2fa.verify=Lorsque vous avez terminé, entrez le code affiché ici:
 
 > Help
 help=Centre d'aide
-help.title=Lire et apprendre - Centre d'aide
 help.login.real=Comment s'assurer que c'est le vrai Netdex?
 help.login.real.1=Vérifiez que l'URL contient le loquet vert, parce que nous desservons uniquement le trafic via HTTPS / SSL.
 # help.login.real.2=If you're unsure, write the URL yourself: [Inter]Net [In]dex DOT CO, without M.
@@ -253,7 +250,6 @@ profile.title=%% sur Netdex
 
 > Email Forwarder
 mail=Redirection d'emails
-mail.title=Mails les plus étranges - Redirection d'emails Netdex
 mail.description=La redirection d'emails Netdex vous permet d'avoir un grand nombre d'e-mails personnalisés fournis par nous avec l'anonymat complet.
 # mail.why=Why Netdex Email Forwarder?
 # mail.why.anon=Anonymity

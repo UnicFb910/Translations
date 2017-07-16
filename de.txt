@@ -189,7 +189,7 @@ options.pass.change=Passwort ändern
 options.mailasname=Nutze Email zum Login
 options.mailasname.tooltip=Wenn aktiv musst du beim Login deine Email anstelle deines Nicknames verwenden.
 options.back=Zurück zu der Optionen-Startseite
-options.apps=Enziehe Apps Berechtigungen zu deinem Account
+options.apps=Entziehe Apps Berechtigungen zu deinem Account
 options.apps.none=Alles gut, keine App hat Rechte zu deinem Account.
 options.apps.permissions=Die App Rechte:
 options.apps.remove=App entfernen
@@ -221,9 +221,6 @@ help=Hilfezentrum
 help.login.real=Wie stell ich sicher, dass es das echte Netdex ist?
 help.login.real.1=Stell sicher, dass die URL von einem grünen Schloss beglitten wird, da wir nur HTTPS servieren.
 help.login.real.2=Wenn du dir unsicher bist, schreib die URL selber: [Inter]Net [In]dex PUNKT CO, ohne M.
-help.mail.notfound=Ich habe den Weiterleiter aktiviert aber meine Addresse wurde nicht gefunden?
-help.mail.notfound.1=Es kann bis zu eine Stunde dauern, bis die Email Server ein Update bekommen.
-help.mail.notfound.2=Das selbe gilt auch für die Deaktivierung des Weiterleiters.
 help.general=General
 help.general.formatting=Wie formatiere ich meine Bio?
 help.general.formatting.1=Hier ist eine Tabelle von was du eingeben kannst und wie es aussehen wird.
@@ -336,7 +333,7 @@ apps.delete.sure=Bist du sicher, dass du die Applikation löschen willst?
 
 > Shorter
 shorter=Linkkürzer
-shorter.title=Kürze deine Langen URLs - Linkürzer
+shorter.title=Kürze deine Langen URLs
 shorter.description=Mit dem Netdex Linkkürzer kannst du die kürzesten Links die je existiert haben erstellen.
 shorter.form=URL (Ent-)kürzen
 shorter.form.1=Gebe eine lange oder kurze URL an und sehe wohin sie geht oder kürze diese.

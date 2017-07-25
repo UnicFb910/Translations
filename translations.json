@@ -8,7 +8,7 @@
                 "path": "Tim"
             }
         ],
-        "translated": 99.8
+        "translated": 97.7
     },
     "fr": {
         "english": "France",
@@ -18,7 +18,7 @@
                 "name": "Alexandre \"Storm\" S."
             }
         ],
-        "translated": 33
+        "translated": 32.2
     },
     "es": {
         "english": "Spanish",
@@ -29,13 +29,13 @@
                 "path": "HerrMotz"
             }
         ],
-        "translated": 14.9
+        "translated": 14.5
     },
     "pl": {
         "english": "Polish",
         "native": "Polskie",
         "translators": [],
-        "translated": 6.5
+        "translated": 6.2
     },
     "ru": {
         "english": "Russian",
@@ -46,6 +46,6 @@
                 "path": "Vake"
             }
         ],
-        "translated": 6.3
+        "translated": 6
     }
 }

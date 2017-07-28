@@ -126,6 +126,7 @@ login=S'identifier
 logout=Se déconnecter
 # logout.emergency=Do you want to be logged out of this account on every device?
 loggingout=Vous allez être déconnecté...
+# login.2fa=2FA Code
 login.2fa.invalid=Code A2F invalide.
 login.name=Pseudo ou adresse mail.
 login.name.unknown=Pseudo inconnu.
@@ -207,11 +208,12 @@ options.2fa.qr=Et scannez ce QR code:
 options.2fa.text=ou saisissez manuellement cette clé:
 options.2fa.verify=Lorsque vous avez terminé, entrez le code affiché ici:
 # options.2fa.reset.1=In the worst case of life, you may lose your mobile, so
-# options.2fa.reset.2=STORE THIS LINK IN A SECURE TEXT FILE
+# options.2fa.reset.2=KEEP THIS LINK STORED SAFELY
 # options.2fa.reset.3=that you can keep your account. :)
 # options.2fa.remove=Remove 2FA
-# options.2fa.remove.sure=Are you sure you want to remove 2FA from your Netdex-account %%?
-# options.2fa.removed=Successfully removed 2FA from Netdex-account %%.
+# options.2fa.remove.code=In order to remove 2FA, input a 2FA Code one last time:
+# options.2fa.remove.sure=Are you sure you want to remove 2FA from your Netdex Account %%?
+# options.2fa.removed=Successfully removed 2FA from Netdex Account.
 
 > Help
 help=Centre d'aide

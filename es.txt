@@ -156,6 +156,7 @@ warn.ipof=IP de
 warn.2b=En el caso es una IP o nobre no familiar, su ordenador hackó.
 warn.3=Hay una funcióna en las opciones, con qué puedes asegurar.
 # pwreset=Reset Password
+# pwreset.name=Your Nickname
 # pwreset.back=or back to login
 # pwreset.mail=Password Change Request
 # pwreset.mail.1=Do you want to change the password of your Netdex account %name%?

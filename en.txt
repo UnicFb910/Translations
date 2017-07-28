@@ -156,6 +156,7 @@ warn.2a=If you are not familiar with this IP, you MIGHT have been hacked.
 warn.2b=If you are not familiar with this IP or any of the accounts, you MIGHT have been hacked.
 warn.3=You can always secure your account in the options if you want to.
 pwreset=Reset Password
+pwreset.name=Your Nickname
 pwreset.back=or back to login
 pwreset.mail=Password Change Request
 pwreset.mail.1=Do you want to change the password of your Netdex account %name%?

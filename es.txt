@@ -53,7 +53,6 @@ alert.verify=Tú email no está verificado hasta el momento. Por favor, mira en 
 # adblock.9001=IT'S OVER NINE THOUSAND!
 # adblock.other=If you would use a real AdBlocker, it would count up so high, I swear.
 # adblock.thanks=Thanks for disabling your AdBlocker. :)
-advertisement=Ún mensaje de nuestros sponsores
 notification=Tú no quieres esos alerts? Puedes activar los notifications de narcos. Muy guapa!
 popup=Esa página es un PopUp.
 # loading.1=The communication with the base is taking longer than usual. Be patient.

@@ -53,7 +53,6 @@ adblock=Dein Werbeblocker ist so fröhlich Netdex zu sehen, schau ihn dir nur an
 adblock.9001=ES IST ÜBER 9000!
 adblock.other=Wenn du einen echten Werbeblocker nutzen würdest, würde er SOOO hoch zählen. Ich schwöre es dir.
 adblock.thanks=Danke für's deaktivieren deines Werbeblockers. :)
-advertisement=Eine Nachricht unserer Sponsoren
 notification=Gelangweilt von diesen Meldungen? Sehe moderne und eingeblendete Meldungen durch das Erlauben.
 popup=Diese Seite darf nur als Pop-Up-Fenster geöffnet werden.
 loading.1=Die Kommunikation mit der Basis scheint etwas länger als üblich zu dauern. Habe bitte Geduld.

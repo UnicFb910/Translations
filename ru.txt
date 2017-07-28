@@ -53,7 +53,6 @@ alert.verify=ваш Email не проверяется сейчас. Посмот
 # adblock.9001=IT'S OVER NINE THOUSAND!
 # adblock.other=If you would use a real AdBlocker, it would count up so high, I swear.
 # adblock.thanks=Thanks for disabling your AdBlocker. :)
-# advertisement=A message by our sponsors
 # notification=Tired of these alerts? Get modern in-line notifications just by allowing it. So allow it!
 # popup=This page may only be opened as PopUp.
 # loading.1=The communication with the base is taking longer than usual. Be patient.

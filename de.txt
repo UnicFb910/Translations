@@ -164,7 +164,7 @@ pwreset.mail.2=Wenn ja, hier entlang:
 pwreset.mail.3=Wenn nicht, dann klicke einmal auf "Email löschen".
 pwreset.invalid=Sorry, dieser Link ist ausgelaufen.
 pwreset.1=Gebe ein neues Passwort für deinen Account ein %name%.
-pwreset.2=Tipp: Merk es dir dieses mal.
+pwreset.2=Tipp: Nutze einen Passwort-Manager.
 pwreset.input=Dein neues Passwort
 pwreset.submit=Ändere mein Passwort
 

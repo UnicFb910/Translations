@@ -200,8 +200,7 @@ options.advanced=Options avancées
 # options.advanced.login=Access
 options.email=Votre adresse email
 options.email.inuse=Cet e-mail est déjà utilisé par un autre utilisateur.
-# options.email.trash=You can't just use a trash mail here.
-options.email.local=Vous ne pouvez pas utiliser un de nos e-mails ici.
+# options.email.blocked=Please use a serious email here or don't add an email at all.
 options.verify.sent=Un email de vérification a été envoyé.
 options.verify.done=Vous avez vérifié votre email. Simple, hein?
 options.2fa.download=Téléchargez le
@@ -263,6 +262,7 @@ mail.temp.note=Tous ces domaines finiront par expirer.
 # mail.perm.note=All of these emails will always be there.
 # mail.alias=Your Alias
 # mail.alias.1=Besides {name}@whatever you can also use an alias:
+# mail.alias.2=I like my alias more
 # mail.alias.min=Your alias has to be longer than 16 chars to avoid conflicts.
 # mail.alias.max=Your alias can't exceed 64 chars.
 # mail.alias.taken=That alias is unfortunately already taken.
@@ -480,8 +480,6 @@ image.drop.done=Terminé
 > Poll
 # poll=Polls
 # poll.title=Create and Vote on Polls
-# poll.login=Please login
-# poll.login.text=You'll need to login into your Netdex Account in order to create a poll.
 # poll.create=Create Poll
 
 > Copyright (c) 2016 - 2017, the Netdex Translation Team - https://netdex.co/credits

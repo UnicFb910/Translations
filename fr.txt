@@ -73,7 +73,6 @@ home.what=Qui sommes-nous?
 # home.what.1=Netdex allows you to create your own card to showcase all of your profiles and websites.
 # home.quick=Quick Navigation
 # home.search=Enter a question or keywords.
-# home.links=Links
 # home.link=Home
 # home.social=Social Media
 
@@ -266,6 +265,9 @@ mail.temp.note=Tous ces domaines finiront par expirer.
 # mail.alias.min=Your alias has to be longer than 16 chars to avoid conflicts.
 # mail.alias.max=Your alias can't exceed 64 chars.
 # mail.alias.taken=That alias is unfortunately already taken.
+# mail.spam=Our Spam Filter
+# mail.spam.1=All of our email servers use our spam email- & ip list.
+# mail.spam.2=Let me inpect that!
 mail.needmail=Nous avons besoin de votre e-mail
 mail.needmail.line=Pour utiliser la redirection d'emails Netdex nous avons besoin de connaître votre email. Veuillez configurer votre email
 mail.enabled=La redirection d'emails Netdex

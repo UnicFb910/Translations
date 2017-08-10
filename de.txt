@@ -73,7 +73,6 @@ home.what=Was sind wir?
 home.what.1=Netdex ermöglicht es dir deine eigene Karte zu erstellen und alle deine Profile und Webseiten zu präsentieren.
 home.quick=Schnellnavigation
 home.search=Stell eine Frage oder gebe Stichwörter ein
-home.links=Links
 home.link=Hauptseite
 home.social=Sociale Medien
 
@@ -266,6 +265,9 @@ mail.alias.2=Ich mag mein Alias mehr
 mail.alias.min=Dein Alias muss länger als 16 Zeichen sein um Konflikte zu vermeiden.
 mail.alias.max=Dein Alias kann nicht länger als 64 Zeichen sein.
 mail.alias.taken=That alias is unfortunately already taken.
+mail.spam=Unser Spam-Filter
+mail.spam.1=All unsere Email-Server nutzen unsere Spam Email- & IP-Liste.
+mail.spam.2=Lass mich das inspizieren!
 mail.needmail=Wir brauchen deine Email
 mail.needmail.line=Um den Email Weiterleiter nutzen zu können, brauchen wir deine Email. Bitte setze diese in den
 mail.enabled=Netdex Email Weiterleiter ist

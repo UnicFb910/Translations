@@ -76,6 +76,9 @@ home.what=Qui sommes-nous?
 # home.link=Home
 # home.social=Social Media
 
+> Weather
+# weather=Weather
+
 > Sitemap
 # sitemap=Sitemap
 # sitemap.services=Services
@@ -172,6 +175,8 @@ pwreset.submit=Changer mon mot de passe
 options=Options
 # options.title=Account Options
 options.save=Sauvegarder
+# options.save.local=Save on this Device
+# options.save.cloud=Save in the Cloud
 # options.saving=Saving
 options.saved=Sauvegardé
 options.change=Changer
@@ -266,8 +271,10 @@ mail.temp.note=Tous ces domaines finiront par expirer.
 # mail.alias.max=Your alias can't exceed 64 chars.
 # mail.alias.taken=That alias is unfortunately already taken.
 # mail.spam=Our Spam Filter
-# mail.spam.1=All of our email servers use our spam email- & ip list.
-# mail.spam.2=Let me inpect that!
+# mail.spam.1=All of our email servers use
+# mail.spam.2=our spam email- & ip list
+# mail.spam.3=.
+# mail.spam.4=Got spam anyways? Forward it to:
 mail.needmail=Nous avons besoin de votre e-mail
 mail.needmail.line=Pour utiliser la redirection d'emails Netdex nous avons besoin de connaître votre email. Veuillez configurer votre email
 mail.enabled=La redirection d'emails Netdex

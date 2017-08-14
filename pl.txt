@@ -76,6 +76,9 @@ copy=prawo kliknij > Kopiuj (Ctrl + C)
 # home.link=Home
 # home.social=Social Media
 
+> Weather
+# weather=Weather
+
 > Sitemap
 # sitemap=Sitemap
 # sitemap.services=Services
@@ -172,6 +175,8 @@ lang.pl=Polski
 # options=Options
 # options.title=Account Options
 # options.save=Save
+# options.save.local=Save on this Device
+# options.save.cloud=Save in the Cloud
 # options.saving=Saving
 # options.saved=Saved
 # options.change=Change
@@ -266,8 +271,10 @@ lang.pl=Polski
 # mail.alias.max=Your alias can't exceed 64 chars.
 # mail.alias.taken=That alias is unfortunately already taken.
 # mail.spam=Our Spam Filter
-# mail.spam.1=All of our email servers use our spam email- & ip list.
-# mail.spam.2=Let me inpect that!
+# mail.spam.1=All of our email servers use
+# mail.spam.2=our spam email- & ip list
+# mail.spam.3=.
+# mail.spam.4=Got spam anyways? Forward it to:
 # mail.needmail=We need your email
 # mail.needmail.line=To use the Netdex Email Forwarder we need to know your email. Please set your email in the
 # mail.enabled=Netdex Email Forwarder is

@@ -78,6 +78,7 @@ home.what=Qui sommes-nous?
 
 > Weather
 # weather=Weather
+# weather.location=Enter your location. This will be stored only on this device.
 
 > Sitemap
 # sitemap=Sitemap
@@ -155,7 +156,7 @@ register.login=Avez vous déjà un compte?
 warn=Avertissement relative à votre compte
 warn.1=Votre compte a déjà été consulté sur une adresse IP différente:
 warn.ipof=IP de
-# warn.2a=If you are not familiar with this IP, you MIGHT have been hacked.
+# warn.2a=If you are not familiar with this IP, you might have been hacked.
 warn.2b=Si vous n'êtes pas familier avec cette adresse IP (changement) ou l'un des noms, vous POURRIEZ avoir été piraté.
 warn.3=Vous pouvez toujours sécuriser votre compte dans les options si vous le souhaitez.
 pwreset=Réinitialiser le mot de passe

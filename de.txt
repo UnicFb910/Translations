@@ -78,6 +78,7 @@ home.social=Sociale Medien
 
 > Weather
 weather=Wetter
+weather.location=Gib deine Position ein. Das wird nur auf diesem Gerät gespeichert.
 
 > Sitemap
 sitemap=Unterseiten-Übersicht
@@ -155,8 +156,8 @@ register.login=Hast du bereits einen Account?
 warn=Account Warnung
 warn.1=Dein Account wurde zuvor von einer anderen IP aufgerufen:
 warn.ipof=IP von
-warn.2a=Wenn diese IP nicht kennst, KÖNNTE dein Account gehackt worden sein.
-warn.2b=Wenn diese IP oder die Namen nicht kennst, KÖNNTE dein Account gehackt worden sein.
+warn.2a=Wenn diese IP nicht kennst, könnt dein Account gehackt worden sein.
+warn.2b=Wenn diese IP oder die Namen nicht kennst, könnte dein Account gehackt worden sein.
 warn.3=Du kannst deinen Account immer in den Optionen sichern, wenn du willst.
 pwreset=Passwort zurücksetzen
 pwreset.name=Dein Nickname

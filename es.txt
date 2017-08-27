@@ -91,6 +91,7 @@ home.quick=Quick Navigation
 # agreement=Agreement
 # agreement.1=By using Netdex and its services you agree to the agreement below.
 # agreement.agree=I agree.
+# privacy=Privacy Statement
 # imprint=Imprint
 # imprint.cadmin=Content Administrator
 # imprint.registrant=Domain Registrant

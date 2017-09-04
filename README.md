@@ -17,7 +17,7 @@ For the people that just don't understand English as good as you, it is nice to 
 - If you do not spot a `.txt` with your two-letter language code as the name:
 
     1. In your fork (`github.com/your-username/Translations`), create a new file with `xx.txt` as the name, wherein you replace `xx` with your two-letter language code.
-    2. Copy [the contents of the new.txt](https://raw.githubusercontent.com/netdexco/Translations/master/de.txt) into your freshly-created file.
+    2. Copy [the contents of the new.txt](https://raw.githubusercontent.com/netdexco/Translations/master/new.txt) into your freshly-created file.
 
 3. Now you can translate from English into your language. Once you have translated enough to end the "translating session," don't forget to commit!
 

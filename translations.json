@@ -18,7 +18,7 @@
                 "name": "Alexandre \"Storm\" S."
             }
         ],
-        "translated": 28.8
+        "translated": 27.6
     },
     "es": {
         "english": "Spanish",
@@ -29,13 +29,13 @@
                 "path": "HerrMotz"
             }
         ],
-        "translated": 12.5
+        "translated": 11.9
     },
     "pl": {
         "english": "Polish",
         "native": "Polskie",
         "translators": [],
-        "translated": 5.3
+        "translated": 5.1
     },
     "ru": {
         "english": "Russian",
@@ -46,6 +46,6 @@
                 "path": "Vake"
             }
         ],
-        "translated": 5.3
+        "translated": 5.1
     }
 }

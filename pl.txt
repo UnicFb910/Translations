@@ -44,6 +44,7 @@ loading=Zaladunek
 # expires=Expires on
 willneverhappen=Komunikat o bledzie
 willneverhappen2=Wystapil blad.
+# status=Status
 js="Masz wylaczona obsluge JavaScript . Twój Internet konczy sie tutaj."
 js.author=Przyjaciel
 # newtab=Please open Netdex in a new tab.
@@ -67,17 +68,31 @@ copy=prawo kliknij > Kopiuj (Ctrl + C)
 # clearcache.1=You only partially have a new version of this website, hard-reload (Ctrl+F5) or clear your cache!
 # offline=You are currently offline. You can only access what you have already accessed.
 
+> Accessability
+# aria.blueboxes=Press [Enter] now to see outlines.
+# aria.navbar=Navigation
+# aria.main=Main Content
+# aria.footer=Footer
+
 > Home
 # home.what=What are we?
 # home.what.1=Netdex allows you to create your own card to showcase all of your profiles and websites.
+# home.clock=Clock
 # home.quick=Quick Navigation
-# home.search=Enter a question or keywords.
+# home.search=Internet Search
+# home.search.input=Enter a question or keywords.
 # home.link=Home
 # home.social=Social Media
 
 > Weather
 # weather=Weather
-# weather.location=Enter your location. This will be stored only on this device.
+# weather.location=Change location.
+# weather.location.input=Enter your location. This will be stored only on this device.
+# weather.now=The current weather.
+# weather.day=Weather summary for the day.
+# weather.week=Weather summary for the week.
+# weather.hourlyforecasts=Weather Forecasts for the following hours.
+# weather.dailyforecasts=Weather Forecasts for the following days.
 
 > Sitemap
 # sitemap=Sitemap
@@ -140,6 +155,7 @@ lang.pl=Polski
 # login.name.usemail=Please use your email-address to login.
 # login.name.taken=Nickname is already taken.
 # login.name.short=Nickname too short.
+# login.name.long=Nickname too long.
 # login.pass=Password
 # login.pass.short=Password too short.
 # login.pass.wrong=Incorrect Password.
@@ -151,7 +167,6 @@ lang.pl=Polski
 # register=Registration
 # register.link=Register
 # register.name=Nickname
-# register.name.length=Nickname too short/long.
 # register.name.mismatch=Your name contains invalid chars.
 # register.name.blacklist=Your nickname is blacklisted.
 # register.login=Already have an account?
@@ -188,6 +203,8 @@ lang.pl=Polski
 # options.dname=Enter your new display name.
 # options.profile.pic=Update Pic
 # options.profile.pic.square=What were you thinking? Profile pictures need to be squares; Don't upload your Youtube banner here.
+# options.bio=Your Bio
+# options.bio.save=Save Bio
 # options.show_mail=Publicly show my @Netdex.co-email
 # options.show_mail.tooltip=If enabled, your @Netdex.co-email will be publicly shown, but we'll try our best to protect you from spam bots.
 # options.toinbox=To my Inbox
@@ -251,6 +268,7 @@ lang.pl=Polski
 > Profile
 # search=Search
 # search.input=Look for Netdex users.
+# search.results=Search Results
 # search.nothing=No user found that even remotely matches your input.
 # profile=Profile
 # profile.link=View the profile of %name%
@@ -337,6 +355,7 @@ lang.pl=Polski
 # apps.manage.help=Need help?
 # apps.manage.id=App ID
 # apps.manage.name=Name
+# apps.manage.actions=Actions
 # apps.manage.website=Website
 # apps.manage.website.info=(Optional) A website that explains what your app is.
 # apps.manage.callbacks=Callback URLs:

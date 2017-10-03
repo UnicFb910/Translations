@@ -44,6 +44,7 @@ expire=Ablauf in
 expires=Läuft aus am
 willneverhappen=Fehler
 willneverhappen2=Ein Fehler ist aufgetreten.
+status=Status
 js="Du hast Javascript deaktiviert. Dein Internet endet hier."
 js.author=Ein Freund
 newtab=Bitte öffne Netdex in einem neuen Tab.
@@ -67,17 +68,31 @@ clearcache=Leere deinen Cache!
 clearcache.1=Du hast nur zum Teil eine neue Version dieser Webseite, hard-reloade (Strg+F5) oder leere deinen Cache!
 offline=Du bist gerade offline. Du kannst nur auf das zugreifen, auf das du bereits zugegriffen hast.
 
+> Accessability
+aria.blueboxes=Drücke jetzt [Enter] um Umrandungen zu sehen.
+aria.navbar=Navigation
+aria.main=Haupt-Inhalt
+aria.footer=Fußzeile
+
 > Home
 home.what=Was sind wir?
 home.what.1=Netdex ermöglicht es dir deine eigene Karte zu erstellen und alle deine Profile und Webseiten zu präsentieren.
+home.clock=Uhr
 home.quick=Schnellnavigation
-home.search=Stell eine Frage oder gebe Stichwörter ein
+home.search=Internet-Suche
+home.search.input=Stell eine Frage oder gebe Stichwörter ein
 home.link=Hauptseite
 home.social=Sociale Medien
 
 > Weather
 weather=Wetter
-weather.location=Gib deine Position ein. Das wird nur auf diesem Gerät gespeichert.
+weather.location=Position ändern.
+weather.location.input=Gib deine Position ein. Das wird nur auf diesem Gerät gespeichert.
+weather.now=Das aktuelle Wetter.
+weather.day=Wetter-Zusammenfassung für den Tag.
+weather.week=Wetter-Zusammenfassung für die Woche.
+weather.hourlyforecasts=Wetter-Vorhersagen für die folgenen Stunden.
+weather.dailyforecasts=Wetter-Vorhersagen für die folgenen Tage.
 
 > Sitemap
 sitemap=Unterseiten-Übersicht
@@ -140,6 +155,7 @@ login.name.usename=Bitte nutze deinen Nickname zum Login.
 login.name.usemail=Bitte nutze deinen Email-Addresse zum Login.
 login.name.taken=Nickname ist breits belegt.
 login.name.short=Nickname zu kurz.
+login.name.long=Nickname zu lang.
 login.pass=Passwort
 login.pass.short=Passwort zu kurz.
 login.pass.wrong=Falsches Passwort.
@@ -151,7 +167,6 @@ token.ok=Willkommen zurück, %name%.
 register=Registrierung
 register.link=Registiere dich
 register.name=Nickname
-register.name.length=Nickname zu lang/kurz.
 register.name.mismatch=Dein Name beinhaltet ungültige Zeichen.
 register.name.blacklist=Dieser Name ist nicht erlaubt.
 register.login=Hast du bereits einen Account?
@@ -188,6 +203,8 @@ options.remove=Account entfernen
 options.dname=Gebe deinen neuen Anzeigenamen an.
 options.profile.pic=Aktualisiere Bild
 options.profile.pic.square=Was hast du dir gedacht? Profilbilder müssen Quadratisch sein; Lad nicht dein scheiß Youtubebanner hoch.
+options.bio=Deine Bio
+options.bio.save=Bio speichern
 options.show_mail=Zeige meine @Netdex.co-Email
 options.show_mail.tooltip=Wenn aktiviert, wird deine @Netdex.co-Email öffentlich gezeigt, aber wir versuchen unser bestes um dich vor Bots zu schützen.
 options.toinbox=Zu meinem Postfach
@@ -251,6 +268,7 @@ help.categories=Kategorien
 > Profile
 search=Suche
 search.input=Such nach Netdex Nutzern.
+search.results=Suchresultate
 search.nothing=Wir konnten keinen Nutzer finden der auch nur Ansatzweise mit deiner Eingabe übereinstimmt.
 profile=Profil
 profile.link=Schau dir das Profil von %name% an
@@ -337,6 +355,7 @@ apps.manage.needmail=Aus Sicherheitsgründen brauchen wir deine E-Mail, bevor du
 apps.manage.help=Brauchst du Hilfe?
 apps.manage.id=App ID
 apps.manage.name=Name
+apps.manage.actions=Aktionen
 apps.manage.website=Website
 apps.manage.website.info=(Optional) Eine Webseite die erklärt, was deine App ist.
 apps.manage.callbacks=Rückruf URLs:

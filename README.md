@@ -2,7 +2,7 @@
 
 Help translate Netdex into your language.
 
-**It is highly recommended, you do not translate into a language, which you don't speak natively.**
+**It is highly recommended not do to translate into a language, which you don't speak natively.**
 
 ## Why Bother Translating?
 
@@ -19,12 +19,14 @@ For the people that just don't understand English as good as you, it is nice to 
     1. In your fork (`github.com/your-username/Translations`), create a new file with `xx.txt` as the name, wherein you replace `xx` with your two-letter language code.
     2. Copy [the contents of the new.txt](https://raw.githubusercontent.com/netdexco/Translations/master/new.txt) into your freshly-created file.
 
-4. Now you can translate from English into your language. Once you have translated enough to end the "translating session," don't forget to commit!
+4. Now you can translate from English into your language. Some tips on translating:
 
     1. If you are ever unsure what a translation means, feel free to look at the other files, and if they don't help, [Open an Issue](https://github.com/netdexco/Translations/issues/new).
 
      2. If you can't translate something into a correct sentence, don't hesitate to [Open an Issue](https://github.com/netdexco/Translations/issues/new) and describe the problem as good as possible.
 
     3. Once you have translated a string (everything after the `=`), you'll have to remove the `# ` in front of the line, to tell Netdex "this is translated."
+
+    4. Most importantly: Don't forget to commit your changes.
 
 5. When you feel like your translation is "good enough for now", you may [Create a Pull Request](https://guides.github.com/activities/forking/#making-a-pull-request) for it to be visible on Netdex.

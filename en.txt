@@ -94,6 +94,7 @@ privacy=Privacy Statement
 imprint=Imprint
 imprint.cadmin=Content Administrator
 imprint.registrant=Domain Registrant
+branding=Branding
 
 > Ban
 banned=You were banned.
@@ -209,6 +210,11 @@ options.email=Your Email-Address
 options.email.inuse=This email is already in use by another user.
 options.email.blocked=Please use a serious email here or don't add an email at all.
 options.verify.sent=A verification email was sent.
+options.verify.mail=Netdex Email Verification
+options.verify.mail.1=Click the link already.
+options.verify.mailchange=Netdex Email Change Request
+options.verify.mailchange.1=Do not click this link if you have not requested an email change!
+options.verify.mailchange.2=Clicking this link will instantly remove this email from your Netdex Account %name%.
 options.verify.done=You verified your email. Simple, huh?
 options.2fa.download=Download the
 options.2fa.qr=and this QR code with it:

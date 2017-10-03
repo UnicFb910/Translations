@@ -94,6 +94,7 @@ home.quick=Quick Navigation
 # imprint=Imprint
 # imprint.cadmin=Content Administrator
 # imprint.registrant=Domain Registrant
+# branding=Branding
 
 > Ban
 # banned=You were banned.
@@ -209,6 +210,11 @@ options.advanced=avanzado opciones
 options.email.inuse=Este e-mail ya está en uso.
 # options.email.blocked=Please use a serious email here or don't add an email at all.
 options.verify.sent=Un e-mail de verificación fue enviado.
+# options.verify.mail=Netdex Email Verification
+# options.verify.mail.1=Click the link already.
+# options.verify.mailchange=Netdex Email Change Request
+# options.verify.mailchange.1=Do not click this link if you have not requested an email change!
+# options.verify.mailchange.2=Clicking this link will instantly remove this email from your Netdex Account %name%.
 options.verify.done=Su e-mail ha verificado. Simplemente, eh?
 # options.2fa.download=Download the
 # options.2fa.qr=and this QR code with it:

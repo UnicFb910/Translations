@@ -69,7 +69,7 @@ clearcache.1=Du hast nur zum Teil eine neue Version dieser Webseite, hard-reload
 offline=Du bist gerade offline. Du kannst nur auf das zugreifen, auf das du bereits zugegriffen hast.
 
 > Accessability
-aria.blueboxes=Drücke jetzt [Enter] um Umrandungen zu sehen.
+aria.accessable_mode=Drücke [Enter] oder klicke hier um in den Zugänglichen Modus zu wechseln.
 aria.navbar=Navigation
 aria.main=Haupt-Inhalt
 aria.footer=Fußzeile

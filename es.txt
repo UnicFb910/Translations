@@ -176,6 +176,7 @@ warn.ipof=IP de
 # warn.2a=If you are not familiar with this IP, you might have been hacked.
 warn.2b=En el caso es una IP o nobre no familiar, su ordenador hackó.
 warn.3=Hay una funcióna en las opciones, con qué puedes asegurar.
+# warn.logout=Logout everywhere
 # pwreset=Reset Password
 # pwreset.name=Your Nickname
 # pwreset.back=or back to login

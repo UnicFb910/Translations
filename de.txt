@@ -113,9 +113,9 @@ branding=Branding
 
 > Ban
 banned=Du wurdest gebannt.
-banned.1=Du bist
-banned.2=temporär gebannt
-banned.3=von Netdex bis zum
+banned.1=Du wurdest von Netdex
+banned.2=gebannt
+banned.3=bis zum
 banned.4=für
 
 > Achievements

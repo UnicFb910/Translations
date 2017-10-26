@@ -117,10 +117,6 @@ banned.1=Vous êtes
 banned.2=temporairement banni
 banned.3=de Netdex jusqu'au
 banned.4=pendant
-banned.5=Vous avez maintenant assez de temps pour réfléchir à ce que vous avez fait de mal.
-banned.6=Les redirections d'email fonctionneront toujours.
-banned.7=Vous pouvez aussi
-banned.8=utiliser la radio etc.
 
 > Achievements
 achievements=Accomplissements
@@ -279,10 +275,10 @@ profile.title=%% sur Netdex
 # profile.bio.default=Hello, my name is Jeff and I'm an expert at knowing when you need an expert, and you don't need an expert to tell, that the default bio of Netdex
 # profile.info=Do you also want to have a card on Netdex?
 
-> Email Forwarder
+> Email Services
 mail=Redirection d'emails
 mail.description=La redirection d'emails Netdex vous permet d'avoir un grand nombre d'e-mails personnalisés fournis par nous avec l'anonymat complet.
-# mail.why=Why Netdex Email Forwarder?
+# mail.why=Why Netdex Email Services?
 # mail.why.anon=Anonymity
 # mail.why.anon.1=All emails to yourname@netdex.co will be redirected to your real email, that we won't reveal.
 # mail.why.lots=Lots of emails
@@ -310,9 +306,6 @@ mail.needmail=Nous avons besoin de votre e-mail
 mail.enabled=La redirection d'emails Netdex
 mail.enabled.enabled=activé
 mail.enabled.disabled=désactivé
-mail.verify=Vérifiez votre e-mail
-mail.verify.1=Un email de vérification a été envoyé, comme vous l'avez changé.
-mail.verify.2=Veuillez vérifier votre boîte de réception, y compris le dossier spam.
 
 > Applications
 # apps=Applications

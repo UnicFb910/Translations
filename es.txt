@@ -112,15 +112,11 @@ home.quick=Quick Navigation
 # branding=Branding
 
 > Ban
-# banned=You were banned.
+# banned=The Ban Hammer has Spoken
 # banned.1=You are
-# banned.2=temporarly banned
+# banned.2=banned
 # banned.3=from Netdex until
 # banned.4=for
-# banned.5=You now have enough time to think about what you've done wrong.
-# banned.6=The Netdex Email Forwarder will still be working.
-# banned.7=You can also
-# banned.8=to use Tmp Mail, etc.
 
 > Achievements
 # achievements=Achievements
@@ -279,10 +275,10 @@ help=Ayuda
 # profile.bio.default=Hello, my name is Jeff and I'm an expert at knowing when you need an expert, and you don't need an expert to tell, that the default bio of Netdex
 # profile.info=Do you also want to have a card on Netdex?
 
-> Email Forwarder
+> Email Services
 mail=Email Promotor
-# mail.description=The Netdex Email Forwarder allows you to have a lot of custom emails provided by us with full anonymity.
-# mail.why=Why Netdex Email Forwarder?
+# mail.description=Netdex allows you to have a lot of custom emails provided by us with full anonymity.
+# mail.why=Why Netdex Email Services?
 # mail.why.anon=Anonymity
 # mail.why.anon.1=All emails to yourname@netdex.co will be redirected to your real email, that we won't reveal.
 # mail.why.lots=Lots of emails
@@ -306,13 +302,10 @@ mail=Email Promotor
 # mail.spam.2=our spam email- & ip list
 # mail.spam.3=.
 # mail.spam.4=Got spam anyways? Forward it to:
-# mail.needmail=To use the Netdex Email Forwarder we need to know your email. Please set your email in the
-# mail.enabled=Netdex Email Forwarder is
+# mail.needmail=To use the Netdex Email Services we need to know your email. Please set your email in the
+# mail.enabled=Netdex Email Services are
 # mail.enabled.enabled=enabled
 # mail.enabled.disabled=disabled
-# mail.verify=Verify your email
-# mail.verify.1=A verification email was sent, as you changed it.
-# mail.verify.2=Please check your inbox, including the spam folder.
 
 > Applications
 # apps=Applications

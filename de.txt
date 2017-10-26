@@ -117,10 +117,6 @@ banned.1=Du bist
 banned.2=temporär gebannt
 banned.3=von Netdex bis zum
 banned.4=für
-banned.5=Du hast nun genug Zeit um über deine Fehler nach zu denken.
-banned.6=Der Netdex Emailweiterleiter wird noch funktionieren.
-banned.7=Du kannst dich noch
-banned.8=um Tmp Mail, etc. zu verwenden.
 
 > Achievements
 achievements=Errungenschaften
@@ -279,10 +275,10 @@ profile.desc=Schau dir %%s geile Profil-Karte auf Netdex an. Sie beinhaltet Text
 profile.bio.default=Hallo, mein Name ist Kevin und ich bin ein Experte in wissen, wann man einen Experten braucht, und du brauchst keinen Experten um zu sehen, dass die standard Bio von Netdex
 profile.info=Möchtest du auch eine Karte auf Netdex?
 
-> Email Forwarder
-mail=Email Weiterleiter
-mail.description=Der Netdex Email Weiterleiter erlaubt dir viele eigende Emails von uns mit voller anonymität zu genießen.
-mail.why=Warum Netdex Email Forwarder?
+> Email Services
+mail=Email Services
+mail.description=Netdex erlaubt dir viele eigende Emails von uns mit voller Anonymität zu genießen.
+mail.why=Warum Netdex Email Services?
 mail.why.anon=Anoymität
 mail.why.anon.1=Alle Emails an deinname@netdex.co werden an deine echte Email weiter geleitet, welche wir nicht hergeben.
 mail.why.lots=Sehr viele Emails
@@ -306,13 +302,10 @@ mail.spam.1=All unsere Email-Server nutzen unsere
 mail.spam.2=Spam Email- & IP-Liste
 mail.spam.3=.
 mail.spam.4=Trotzdem Spam bekommen? Dann bitte weiterleiten:
-mail.needmail=Um den Email Weiterleiter nutzen zu können, brauchen wir deine Email. Bitte setze diese in den
-mail.enabled=Netdex Email Weiterleiter ist
+mail.needmail=Um die Email Services nutzen zu können, brauchen wir deine Email. Bitte setze diese in den
+mail.enabled=Netdex Email Services sind
 mail.enabled.enabled=aktiviert
 mail.enabled.disabled=deaktiviert
-mail.verify=Verifiziere deine Email
-mail.verify.1=Eine Verifizierungsemail wurde mit dem ändern der Email gesendet.
-mail.verify.2=Bitte schau in dein Postfach, auch in dem Spamordner
 
 > Applications
 apps=Applikationen

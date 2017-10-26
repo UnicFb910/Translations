@@ -132,6 +132,7 @@ credits.resources=Resourcen
 credits.team=Team
 credits.make=Coden
 credits.moral=Moralische Unterstützung
+credits.patrons=Patronen
 credits.partners=Partner
 credits.translations=Übersetzungen
 credits.translations.note=Witziger Fakt: Dieser Text wurde auch übersetzt.

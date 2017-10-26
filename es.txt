@@ -132,6 +132,7 @@ home.quick=Quick Navigation
 # credits.team=Team
 # credits.make=Coding
 # credits.moral=Moral Support
+# credits.patrons=Patrons
 # credits.partners=Partners
 # credits.translations=Translations
 # credits.translations.note=Fun Fact: This very text is translated too.

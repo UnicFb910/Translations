@@ -66,7 +66,6 @@ copy=Rechtsklick > Kopieren (Strg+C)
 copy.ok=Link erfolgreich kopiert.
 clearcache=Leere deinen Cache!
 clearcache.1=Du hast nur zum Teil eine neue Version dieser Webseite, hard-reloade (Strg+F5) oder leere deinen Cache!
-offline=Du bist gerade offline. Du kannst nur auf das zugreifen, auf das du bereits zugegriffen hast.
 
 > Accessability
 aria.accessable_mode=Drücke [Enter] oder klicke hier um in den Zugänglichen Modus zu wechseln.

@@ -6,7 +6,7 @@ Help translate Netdex into your language.
 
 ## Why Bother Translating?
 
-For the people that just don't understand English as good as you, it is nice to have human-generated translations - and if you decide to translate a good amount of strings, you will be mentioned in [the Credits](https://netdex.co/credits), which, of course, will require you to specify your Netdex username, first name and, optionally, last name in the Pull Request.
+For the people that just don't understand English as good as you, it is nice to have human-generated translations - and if you decide to translate a good amount of strings, you will be mentioned in [the Credits](https://netdex.co/credits) and get the Translator badge on your Profile, which, of course, will require you to specify your Netdex username, first name, and optionally last name, in the Pull Request.
 
 ## A Full Guide to Translating using Github
 

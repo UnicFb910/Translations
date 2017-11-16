@@ -213,7 +213,7 @@ options.pass.change=Passwort ändern
 options.back=Zurück zu der Optionen-Startseite
 options.apps=Entziehe Apps Berechtigungen zu deinem Account
 options.apps.none=Alles gut, keine App hat Rechte zu deinem Account.
-options.apps.permissions=Die App Rechte:
+options.apps.permissions=Die App hat folgende Rechte:
 options.apps.remove=App entfernen
 options.advanced=Erweitere Optionen
 options.advanced.1=In den erweiterten Optionen kannst du erweiterte Dinge tun, wie deine Email oder dein Passwort ändern.
@@ -266,7 +266,7 @@ help.general.contact.mail=Du kannst uns per Email kontaktieren:
 help.general.contact.note=Wir werden binnen 24 Stunden antworten.
 help.categories=Kategorien
 
-> Profile
+> Profiles
 search=Suche
 search.input=Such nach Netdex Nutzern.
 search.results=Suchresultate
@@ -277,6 +277,11 @@ profile.title=%% auf Netdex
 profile.desc=Schau dir %%s geile Profil-Karte auf Netdex an. Sie beinhaltet Text, Links und das andere tolle Zeug. Außerdem ist deine Familie da unten; hätte ich früher erwähnen sollen.
 profile.bio.default=Hallo, mein Name ist Kevin und ich bin ein Experte in wissen, wann man einen Experten braucht, und du brauchst keinen Experten um zu sehen, dass die standard Bio von Netdex
 profile.info=Möchtest du auch eine Karte auf Netdex?
+profile.badges.real=Die Person ist, wer sie sagt zu sein. Es sei denn, du bist gerade auf Twitter.
+profile.badges.patron=Patrone: Diese Person hat Netdex besto- durch eine Spende von $3 oder mehr unterstützt.
+profile.badges.translator=Übersetzer: Diese Person hat Netdex durch das Übersetzen unterstützt. Du kannst sie in den Credits finden.
+profile.badges.netdex=Diese Person hat zu Netdex auf einem nicht-monetären und nicht-übersetzenden Weg beigetragen. Du kannst sie in den Credits finden.
+profile.badges.system=Dies ist ein System-Account und demnach unhackbar.
 
 > Email Services
 mail=Email Services

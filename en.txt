@@ -266,7 +266,7 @@ help.general.contact.mail=You can contact us via email:
 help.general.contact.note=We will answer within 24 hours.
 help.categories=Categories
 
-> Profile
+> Profiles
 search=Search
 search.input=Look for Netdex users.
 search.results=Search Results
@@ -277,6 +277,11 @@ profile.title=%% on Netdex
 profile.desc=Look at %%'s awesome Profile Card on Netdex. It includes text, links and all of that great stuff. Also, your family is down there; Should have mentioned that earlier.
 profile.bio.default=Hello, my name is Jeff and I'm an expert at knowing when you need an expert, and you don't need an expert to tell, that the default bio of Netdex
 profile.info=Do you also want to have a card on Netdex?
+profile.badges.real=This person is who they claim to be. Unless you are currently on Twitter.
+profile.badges.patron=Patron: This person bribe- supported Netdex with a donation of $3 or more.
+profile.badges.translator=Translator: This person supported Netdex by translating it. You can find them in the Credits.
+profile.badges.netdex=This person has contributed to Netdex in a non-monetary and non-translating way. You can find them in the Credits.
+profile.badges.system=This is a system account and thereby unhackable.
 
 > Email Services
 mail=Email Services

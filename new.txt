@@ -68,7 +68,6 @@
 # clearcache.1=You only partially have a new version of this website, hard-reload (Ctrl+F5) or clear your cache!
 
 > Accessability
-# aria.accessable_mode=Press [Enter] or click here to enter accessable mode.
 # aria.navbar=Navigation
 # aria.main=Main Content
 # aria.footer=Footer

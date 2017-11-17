@@ -68,7 +68,6 @@ clearcache=Leere deinen Cache!
 clearcache.1=Du hast nur zum Teil eine neue Version dieser Webseite, hard-reloade (Strg+F5) oder leere deinen Cache!
 
 > Accessability
-aria.accessable_mode=Drücke [Enter] oder klicke hier um in den Zugänglichen Modus zu wechseln.
 aria.navbar=Navigation
 aria.main=Haupt-Inhalt
 aria.footer=Fußzeile

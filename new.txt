@@ -244,6 +244,7 @@
 
 > Help
 # help=Help Center
+# help.link=Need help?
 # help.login.real=How to make sure this is the real Netdex?
 # help.login.real.1=Check the URL for the green lock, because we only serve content over HTTPS.
 # help.login.real.2=If you're unsure, write the URL yourself: [Inter]Net [In]dex DOT CO, without M.
@@ -293,7 +294,7 @@
 # mail.why.spam=Spam Filter
 # mail.why.spam.1=Once a spammer uses a new domain, we will blacklist it as soon as possible.
 # mail.start=You can have all of this.
-# mail.mail=Emails will be forwarded to
+# mail.mail=Relay Emails to
 # mail.temp=Trash Mails
 # mail.temp.note=All of these domains will eventually expire.
 # mail.perm=Your Perm. Emails
@@ -310,13 +311,12 @@
 # mail.spam.3=.
 # mail.spam.4=Got spam anyways? Forward it to:
 # mail.needmail=To use the Netdex Email Services we need to know your email. Please set your email in the
-# mail.enabled=Netdex Email Services are
-# mail.enabled.enabled=enabled
-# mail.enabled.disabled=disabled
 
 > Applications
 # apps=Applications
 # apps.title=Your Netdex Applications
+# apps.link=Manage your Netdex Applications
+# apps.desc=Create new Netdex Applications and manage your exisiting Netdex Applications.
 # apps.auth=Application Authentication
 # apps.auth.title=Login with Netdex - App Auth
 # apps.auth.login=In order to authenticate with this app, you have to login or register first.
@@ -354,7 +354,6 @@
 # apps.none.3=read a bit in our help center
 # apps.none.4=to find out if a Netdex App is what you need.
 # apps.manage.needmail=For security purposes, you need to add your E-Mail to your account before you can create an application.
-# apps.manage.help=Need help?
 # apps.manage.id=App ID
 # apps.manage.name=Name
 # apps.manage.actions=Actions

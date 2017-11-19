@@ -244,6 +244,7 @@ options.2fa.verify=Lorsque vous avez terminé, entrez le code affiché ici:
 
 > Help
 help=Centre d'aide
+# help.link=Need help?
 help.login.real=Comment s'assurer que c'est le vrai Netdex?
 help.login.real.1=Vérifiez que l'URL contient le loquet vert, parce que nous desservons uniquement le trafic via HTTPS / SSL.
 # help.login.real.2=If you're unsure, write the URL yourself: [Inter]Net [In]dex DOT CO, without M.
@@ -310,13 +311,12 @@ mail.temp.note=Tous ces domaines finiront par expirer.
 # mail.spam.3=.
 # mail.spam.4=Got spam anyways? Forward it to:
 mail.needmail=Nous avons besoin de votre e-mail
-mail.enabled=La redirection d'emails Netdex
-mail.enabled.enabled=activé
-mail.enabled.disabled=désactivé
 
 > Applications
 # apps=Applications
 # apps.title=Your Netdex Applications
+# apps.link=Manage your Netdex Applications
+# apps.desc=Create new Netdex Applications and manage your exisiting Netdex Applications.
 apps.auth=Authentification d'application
 apps.auth.title=Connexion avec Netdex - App Auth
 # apps.auth.login=In order to authenticate with this app, you have to login or register first.
@@ -354,7 +354,6 @@ apps.none.2=Vous pouvez
 apps.none.3=lire un peu dans notre centre d'aide
 apps.none.4=pour savoir si une application Netdex est ce que vous avez besoin.
 # apps.manage.needmail=For security purposes, you need to add your E-Mail to your account before you can create an application.
-# apps.manage.help=Need help?
 # apps.manage.id=App ID
 apps.manage.name=Nom
 # apps.manage.actions=Actions

@@ -244,6 +244,7 @@ options.2fa.removed=2FA wurde erfolgreich von deinem Netdex Account entfernt.
 
 > Help
 help=Hilfezentrum
+help.link=Brauchst du Hilfe?
 help.login.real=Wie stell ich sicher, dass es das echte Netdex ist?
 help.login.real.1=Stell sicher, dass die URL von einem grünen Schloss beglitten wird, da wir nur HTTPS servieren.
 help.login.real.2=Wenn du dir unsicher bist, schreib die URL selber: [Inter]Net [In]dex PUNKT CO, ohne M.
@@ -310,13 +311,12 @@ mail.spam.2=Spam Email- & IP-Liste
 mail.spam.3=.
 mail.spam.4=Trotzdem Spam bekommen? Dann bitte weiterleiten:
 mail.needmail=Um die Email Services nutzen zu können, brauchen wir deine Email. Bitte setze diese in den
-mail.enabled=Netdex Email Services sind
-mail.enabled.enabled=aktiviert
-mail.enabled.disabled=deaktiviert
 
 > Applications
 apps=Applikationen
 apps.title=Deine Netdex Applikationen
+apps.link=Verwalte deine Netdex Applikationen
+apps.desc=Erstelle neue Netdex Applikationen und verwalte deine existierenden Netdex Applikationen.
 apps.auth=Applikationsanmeldung
 apps.auth.title=Mit Netdex anmelden
 apps.auth.login=Um dich mit dieser App anzumelden, musst du dich erst anmelden oder registrieren.
@@ -354,7 +354,6 @@ apps.none.2=Du kannst ein wenig
 apps.none.3=in unserem Hilfecenter lesen
 apps.none.4=ob eine Netdex App was für dich ist.
 apps.manage.needmail=Aus Sicherheitsgründen brauchen wir deine E-Mail, bevor du eine Applikation erstellen kannst.
-apps.manage.help=Brauchst du Hilfe?
 apps.manage.id=App ID
 apps.manage.name=Name
 apps.manage.actions=Aktionen

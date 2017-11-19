@@ -80,7 +80,7 @@ home.quick=Schnellnavigation
 home.search=Internet-Suche
 home.search.input=Stell eine Frage oder gebe Stichwörter ein
 home.link=Hauptseite
-home.social=Sociale Medien
+home.social=Soziale Medien
 
 > Weather
 weather=Wetter

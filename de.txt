@@ -449,6 +449,7 @@ offgames.tool.order.desc=zuerst
 offgames.tool.order.asc=zuletzt
 offgames.tool.search=Suche
 offgames.tool.search.placeholder=Gebe einen Spielnamen ein...
+offgames.tool.search.note=Merke: Die Spiele heißen "Grand Theft Auto" und "Counter-Strike: Global Offensive" und nicht "GTA" oder "CS:GO"
 offgames.tool.search.none=Nichts gefunden, dass mit der Eingabe übereinstimmt.
 offgames.tool.search.none.1=Möchstest du
 offgames.tool.search.none.2=eine Meldung bekommen

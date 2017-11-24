@@ -449,6 +449,7 @@ image.drop.done=Terminé
 # offgames.tool.order.asc=last
 # offgames.tool.search=Search
 # offgames.tool.search.placeholder=Type a game's name...
+# offgames.tool.search.note=Note: The games are called "Grand Theft Auto" and "Counter-Strike: Global Offensive" and not "GTA" or "CS:GO"
 # offgames.tool.search.none=Found nothing that matches your input.
 # offgames.tool.search.none.1=Want to
 # offgames.tool.search.none.2=get an alert

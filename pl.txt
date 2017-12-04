@@ -84,7 +84,7 @@ copy=prawo kliknij > Kopiuj (Ctrl + C)
 
 > Weather
 # weather=Weather
-# weather.location=Change location.
+# weather.location=Change Location
 # weather.location.input=Enter your location. This will be stored only on this device.
 # weather.now=The current weather.
 # weather.day=Weather summary for the day.

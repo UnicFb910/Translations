@@ -84,7 +84,7 @@ home.social=Soziale Medien
 
 > Weather
 weather=Wetter
-weather.location=Position ändern.
+weather.location=Position ändern
 weather.location.input=Gib deine Position ein. Das wird nur auf diesem Gerät gespeichert.
 weather.now=Das aktuelle Wetter.
 weather.day=Wetter-Zusammenfassung für den Tag.

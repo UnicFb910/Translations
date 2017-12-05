@@ -520,11 +520,11 @@
 # wallet.topup=Top Up
 # wallet.topup.done=Your balance is with you shortly.
 # wallet.topup.done.1=This usually only takes a couple of seconds, but it might also take some minutes.
-# wallet.topup.fail=Your Top Up failed.
-# wallet.topup.fail.1=If you have not cancelled the payment and have been charged, please contact us.
+# wallet.topup.abort=Transaction aborted by user.
 # wallet.topup.paypal=Pay using your credit/debit card or PayPal balance.
 # wallet.topup.paypal.1=With PayPal fees deduced, you'll get %euro%.
 # wallet.topup.paysafecard=Pay using real money or my paysafecard balance.
+# wallet.topup.paysafecard.initerror=Transaction could not be initiated due to connection problems. If this problem persists, please contact us.
 # wallet.topup.warn=THERE IS NO WITHDRAWAL YET.
 # wallet.withdraw=Withdraw
 # wallet.transactions=Transactions

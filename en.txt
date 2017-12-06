@@ -95,7 +95,6 @@ weather.dailyforecasts=Weather Forecasts for the following days.
 > Sitemap
 sitemap=Sitemap
 sitemap.services=Services
-sitemap.account=Account
 sitemap.accounts=Featured Accounts
 
 > Legal
@@ -242,16 +241,24 @@ options.2fa.removed=Successfully removed 2FA from Netdex Account.
 > Help
 help=Help Center
 help.link=Need help?
+help.seealso=See Also:
 help.login.real=How to make sure this is the real Netdex?
 help.login.real.1=Check the URL for the green lock, because we only serve content over HTTPS.
 help.login.real.2=If you're unsure, write the URL yourself: [Inter]Net [In]dex DOT CO, without M.
-help.profile.formatting=How do I format my bio?
-help.profile.formatting.1=Here's a table of what you have to type and what it will look like.
-help.profile.formatting.2=What you type
-help.profile.formatting.3=What comes out
-help.profile.domains=How can I reach my profile?
-help.profile.domains.1=You can use the following ways to reach @Netdex, and they obviously also work with your profile.
+help.account.domains=How can I reach my profile card?
+help.account.domains.1=You can use the following ways to reach @Netdex, and they obviously also work with your profile.
+help.account.team=What is a Team Account?
+help.account.team.1=A Team Account is just like a normal user account. However, it might not have a password so only team members can log into it.
+help.account.team.2=The owner of a team may limit the permissions its members have.
+help.account.perms=What permissions are there?
+help.account.perms.1=Here's a list of all permissions for team members and/or applications.
+help.account.perms.documentation=Documentation
+help.account.perms.description=What the user sees
 help.general=General
+help.general.formatting=How do I format text here?
+help.general.formatting.1=Here's a table of what you have to type and what it will look like.
+help.general.formatting.2=What you type
+help.general.formatting.3=What comes out
 help.general.language=How can I change the language I see Netdex in?
 help.general.language.1=If you see this text, we already asked your browser, which language you prefer.
 help.general.language.2=So in order to change the language you see Netdex in, you need to change your browser language.
@@ -268,6 +275,7 @@ search=Search
 search.input=Look for Netdex users.
 search.results=Search Results
 search.nothing=No user found that even remotely matches your input.
+account=Account
 profile=Profile
 profile.link=View the profile of %name%
 profile.title=%% on Netdex
@@ -278,7 +286,6 @@ profile.badges.real=This person is who they claim to be.
 profile.badges.patron=Patron: This person bribe- supported Netdex with a donation of $3 or more.
 profile.badges.translator=Translator: This person supported Netdex by translating it. You can find them in the Credits.
 profile.badges.netdex=This person has contributed to Netdex in a non-monetary and non-translating way. You can find them in the Credits.
-profile.badges.system=This is a system account and thereby unhackable.
 
 > Email Services
 mail=Email Services
@@ -308,6 +315,9 @@ mail.spam.2=our spam email- & ip list
 mail.spam.3=.
 mail.spam.4=Got spam anyways? Forward it to:
 mail.needmail=To use the Netdex Email Services we need to know your email. Please set your email in the
+
+> Teams
+teams=Teams
 
 > Applications
 apps=Applications
@@ -520,11 +530,12 @@ wallet.exchange=Exchange
 wallet.topup=Top Up
 wallet.topup.done=Your balance is with you shortly.
 wallet.topup.done.1=This usually only takes a couple of seconds, but it might also take some minutes.
-wallet.topup.abort=Transaction aborted by user.
+wallet.topup.fail=Top Up has been canceled.
+wallet.topup.fail.1=You have not been charged and you have not gotten any balance.
 wallet.topup.paypal=Pay using your credit/debit card or PayPal balance.
 wallet.topup.paypal.1=With PayPal fees deduced, you'll get %euro%.
 wallet.topup.paysafecard=Pay using real money or my paysafecard balance.
-wallet.topup.paysafecard.initerror=Transaction could not be initiated due to connection problems. If this problem persists, please contact us.
+wallet.topup.paysafecard.initerror=The transaction could not be initiated due to connection problems. If this problem persists, please contact us.
 wallet.topup.warn=THERE IS NO WITHDRAWAL YET.
 wallet.withdraw=Withdraw
 wallet.transactions=Transactions

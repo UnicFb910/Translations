@@ -95,7 +95,6 @@ weather.dailyforecasts=Wetter-Vorhersagen für die folgenen Tage.
 > Sitemap
 sitemap=Unterseiten-Übersicht
 sitemap.services=Services
-sitemap.account=Account
 sitemap.accounts=Vorgestellte Accounts
 
 > Legal
@@ -242,16 +241,24 @@ options.2fa.removed=2FA wurde erfolgreich von deinem Netdex Account entfernt.
 > Help
 help=Hilfezentrum
 help.link=Brauchst du Hilfe?
+help.seealso=Siehe auch:
 help.login.real=Wie stell ich sicher, dass es das echte Netdex ist?
 help.login.real.1=Stell sicher, dass die URL von einem grünen Schloss beglitten wird, da wir nur HTTPS servieren.
 help.login.real.2=Wenn du dir unsicher bist, schreib die URL selber: [Inter]Net [In]dex PUNKT CO, ohne M.
-help.profile.formatting=Wie formatiere ich meine Bio?
-help.profile.formatting.1=Hier ist eine Tabelle von was du eingeben kannst und wie es aussehen wird.
-help.profile.formatting.2=Was du eingibst
-help.profile.formatting.3=Was raus kommt
-help.profile.domains=Wie kann ich mein Profil erreichen?
-help.profile.domains.1=Du kannst auf die folgenen Arten @Netdex erreichen und die funktionieren natürlich auch mit deinem Profil.
+help.account.domains=Wie kann ich meine Profilkarte erreichen?
+help.account.domains.1=Du kannst auf die folgenen Arten @Netdex erreichen und die funktionieren natürlich auch mit deinem Profil.
+help.account.team=Was ist ein Team-Account?
+help.account.team.1=Ein Team-Account ist wie ein normaler Nutzer-Account. Jedoch, könnte dieser kein Passwort haben, sodass nur Team-Mitglieder sich einloggen können.
+help.account.team.2=Der Team-Besitzer kann die Berechtigungen der Team-Mitglieder einschränken.
+help.account.perms=Was für Berechtigungen gibt es?
+help.account.perms.1=Hier ist eine Liste alle Berechtigungen für Team-Mitglieder und/oder Applikationen.
+help.account.perms.documentation=Dokumentation
+help.account.perms.description=What der Nutzer sieht
 help.general=General
+help.general.formatting=Wie formatiere ich hier Text?
+help.general.formatting.1=Hier ist eine Tabelle von was du eingeben kannst und wie es aussehen wird.
+help.general.formatting.2=Was du eingibst
+help.general.formatting.3=Was raus kommt
 help.general.language=Wie kann ich die Sprache auf Netdex ändern?
 help.general.language.1=Wenn du diesen Text sehen, haben wir bereits deinen Browser nach deiner Sprachpräferenz gefragt.
 help.general.language.2=Um die Sprache, in der du Netdex siehst zu ändern, ändere die Sprache deines Browsers.
@@ -268,6 +275,7 @@ search=Suche
 search.input=Such nach Netdex Nutzern.
 search.results=Suchresultate
 search.nothing=Wir konnten keinen Nutzer finden der auch nur Ansatzweise mit deiner Eingabe übereinstimmt.
+account=Account
 profile=Profil
 profile.link=Schau dir das Profil von %name% an
 profile.title=%% auf Netdex
@@ -278,7 +286,6 @@ profile.badges.real=Die Person ist, wer sie sagt zu sein.
 profile.badges.patron=Patrone: Diese Person hat Netdex besto- durch eine Spende von $3 oder mehr unterstützt.
 profile.badges.translator=Übersetzer: Diese Person hat Netdex durch das Übersetzen unterstützt. Du kannst sie in den Credits finden.
 profile.badges.netdex=Diese Person hat zu Netdex auf einem nicht-monetären und nicht-übersetzenden Weg beigetragen. Du kannst sie in den Credits finden.
-profile.badges.system=Dies ist ein System-Account und demnach unhackbar.
 
 > Email Services
 mail=Email Services
@@ -308,6 +315,9 @@ mail.spam.2=Spam Email- & IP-Liste
 mail.spam.3=.
 mail.spam.4=Trotzdem Spam bekommen? Dann bitte weiterleiten:
 mail.needmail=Um die Email Services nutzen zu können, brauchen wir deine Email. Bitte setze diese in den
+
+> Teams
+teams=Teams
 
 > Applications
 apps=Applikationen
@@ -520,7 +530,8 @@ wallet.exchange=Geld Umwandeln
 wallet.topup=Guthaben Aufladen
 wallet.topup.done=Dein Guthaben wird gleich da sein.
 wallet.topup.done.1=Das sollte nur ein paar Sekunden dauern, kann aber auch ein paar Minuten sein.
-wallet.topup.abort=Transaktion vom Nutzer abgebrochen.
+wallet.topup.fail=Guthaben Aufladen abgebrochen.
+wallet.topup.fail.1=Du wurdest nicht belastet und hast kein Guthaben erhalten.
 wallet.topup.paypal=Zahle per PayPal-Guthaben oder Kreditkarte.
 wallet.topup.paypal.1=Dank PayPal Gebühren gibt dir das nur %euro%.
 wallet.topup.paysafecard=Zahle per Echtgeld oder my paysafecard Guthaben.

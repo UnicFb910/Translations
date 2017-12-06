@@ -285,8 +285,8 @@ profile.desc=Schau dir %%s geile Profil-Karte auf Netdex an. Sie beinhaltet Text
 profile.bio.default=Dies könnte eine Bio sein. Es ist noch keine, aber es könnte eine sein!
 profile.info=Möchtest du auch eine Karte auf Netdex?
 profile.badges.real=Die Person ist, wer sie sagt zu sein.
-profile.badges.patron=Patrone: Diese Person hat Netdex besto- durch eine Spende von $3 oder mehr unterstützt.
-profile.badges.translator=Übersetzer: Diese Person hat Netdex durch das Übersetzen unterstützt. Du kannst sie in den Credits finden.
+profile.badges.patron=Diese Person hat Netdex durch eine Spende von $3 oder mehr unterstützt.
+profile.badges.translator=Diese Person hat Netdex durch das Übersetzen unterstützt. Du kannst sie in den Credits finden.
 profile.badges.netdex=Diese Person hat zu Netdex auf einem nicht-monetären und nicht-übersetzenden Weg beigetragen. Du kannst sie in den Credits finden.
 profile.badges.team=Dies ist ein Team Account.
 

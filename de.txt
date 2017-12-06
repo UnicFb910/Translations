@@ -247,9 +247,11 @@ help.login.real.1=Stell sicher, dass die URL von einem grünen Schloss beglitten
 help.login.real.2=Wenn du dir unsicher bist, schreib die URL selber: [Inter]Net [In]dex PUNKT CO, ohne M.
 help.account.domains=Wie kann ich meine Profilkarte erreichen?
 help.account.domains.1=Du kannst auf die folgenen Arten @Netdex erreichen und die funktionieren natürlich auch mit deinem Profil.
-help.account.team=Was ist ein Team-Account?
-help.account.team.1=Ein Team-Account ist wie ein normaler Nutzer-Account. Jedoch, könnte dieser kein Passwort haben, sodass nur Team-Mitglieder sich einloggen können.
-help.account.team.2=Der Team-Besitzer kann die Berechtigungen der Team-Mitglieder einschränken.
+help.account.team=Was ist ein Team Account?
+help.account.team.1=Ein Team Account ist wie ein normaler Nutzer Account, jedoch gibt es einige Unterschiede:
+help.account.team.2=Team-Mitglieder können sich via deren Account in den Team Account anmelden.
+help.account.team.3=Team Administratoren kann die Berechtigungen der Mitglieder beschränken.
+help.account.team.4=Team Accounts können passwortlos sein.
 help.account.perms=Was für Berechtigungen gibt es?
 help.account.perms.1=Hier ist eine Liste alle Berechtigungen für Team-Mitglieder und/oder Applikationen.
 help.account.perms.documentation=Dokumentation
@@ -286,6 +288,7 @@ profile.badges.real=Die Person ist, wer sie sagt zu sein.
 profile.badges.patron=Patrone: Diese Person hat Netdex besto- durch eine Spende von $3 oder mehr unterstützt.
 profile.badges.translator=Übersetzer: Diese Person hat Netdex durch das Übersetzen unterstützt. Du kannst sie in den Credits finden.
 profile.badges.netdex=Diese Person hat zu Netdex auf einem nicht-monetären und nicht-übersetzenden Weg beigetragen. Du kannst sie in den Credits finden.
+profile.badges.team=Dies ist ein Team Account.
 
 > Email Services
 mail=Email Services

@@ -286,7 +286,7 @@ lang.pl=Polski
 # profile.bio.default=This could be a bio. It isn't yet, but it could be!
 # profile.info=Do you also want to have a card on Netdex?
 # profile.badges.real=This person is who they claim to be.
-# profile.badges.patron=This person supported Netdex with a donation of $3 or more.
+# profile.badges.patron=This person supported Netdex with a donation.
 # profile.badges.translator=This person supported Netdex by translating it. You can find them in the Credits.
 # profile.badges.netdex=This person has contributed to Netdex in a non-monetary and non-translating way. You can find them in the Credits.
 # profile.badges.team=This is a team account.
@@ -410,7 +410,7 @@ lang.pl=Polski
 # shorter.res.back=Short anotha one
 # shorter.nex=About Nex.li
 # shorter.nex.1=Nex.li is our domain used for shorting URLs.
-# shorter.nex.2=Subdomains (*.nex.li) are given out to individuals who might not be an employee or partner of Netdex, so we do not represent or warrant content posted on subdomains.
+# shorter.nex.2=Subdomains (*.nex.li) might not be owned by us. We do not represent or warrant content posted on subdomains.
 
 > Tmp Note
 # tmpnote.title=Encrypted Temporary Notes

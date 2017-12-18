@@ -66,7 +66,7 @@ copy=Clic droit > Copier (Ctrl+C)
 # copy.ok=Succesfully copied link.
 # clearcache=Clear your cache!
 # clearcache.1=You only partially have a new version of this website, hard-reload (Ctrl+F5) or clear your cache!
-# fullscreen=Enter Fullscreen Mode
+# fullscreen=Fullscreen Mode
 
 > Accessability
 # aria.navbar=Navigation

@@ -66,11 +66,11 @@ copy=Rechtsklick > Kopieren (Strg+C)
 copy.ok=Link erfolgreich kopiert.
 clearcache=Leere deinen Cache!
 clearcache.1=Du hast nur zum Teil eine neue Version dieser Webseite, hard-reloade (Strg+F5) oder leere deinen Cache!
+fullscreen=Vollbildmodus
 
 > Accessability
 aria.navbar=Navigation
 aria.main=Haupt-Inhalt
-aria.footer=Fußzeile
 
 > Home
 home.what=Was sind wir?
@@ -192,6 +192,7 @@ options.save.cloud=In der Cloud speichern
 options.saving=Speichern
 options.saved=Gespeichert
 options.change=Ändern
+options.theme=Farbverlauf
 options.add=Füge deinen %%-Account zu deiner Karte hinzu
 options.remove=Account entfernen
 options.dname=Gebe deinen neuen Anzeigenamen an.

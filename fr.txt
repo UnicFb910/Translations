@@ -66,11 +66,11 @@ copy=Clic droit > Copier (Ctrl+C)
 # copy.ok=Succesfully copied link.
 # clearcache=Clear your cache!
 # clearcache.1=You only partially have a new version of this website, hard-reload (Ctrl+F5) or clear your cache!
+# fullscreen=Enter Fullscreen Mode
 
 > Accessability
 # aria.navbar=Navigation
 # aria.main=Main Content
-# aria.footer=Footer
 
 > Home
 home.what=Qui sommes-nous?
@@ -192,6 +192,7 @@ options.save=Sauvegarder
 # options.saving=Saving
 options.saved=Sauvegardé
 options.change=Changer
+# options.theme=Theme
 # options.add=Add your %% Account to your card
 # options.remove=Remove Account
 # options.dname=Enter your new display name.
@@ -206,7 +207,7 @@ options.mailasname=Utiliser votre email pour vous connecter
 options.mailasname.tooltip=Lorsque cette case est cochée, vous devez utiliser votre e-mail au lieu de votre pseudo pour vous connecter.
 options.pass=Mot de passe
 options.pass.change=Changer le mot de passe
-# options.back=Back to the Options Startpage
+# options.back=Back to the options start page
 # options.apps=Revoke apps permission to your account
 # options.apps.none=Everything is good, no app has permissions to your account.
 # options.apps.permissions=This App's Permissions:
@@ -252,7 +253,7 @@ help.login.real.1=Vérifiez que l'URL contient le loquet vert, parce que nous de
 # help.account.team.1=A team account is just like a normal account, however, there are some differences:
 # help.account.team.2=Team members can login to the team account via their account.
 # help.account.team.3=Team admins can limit the permissions its members have.
-# help.account.team.4=Team account may not have a password.
+# help.account.team.4=Team accounts may not have a password.
 # help.account.perms=What permissions are there?
 # help.account.perms.1=Here's a list of all permissions for team members and/or applications.
 # help.account.perms.documentation=Documentation
@@ -543,7 +544,7 @@ image.drop.done=Terminé
 # wallet.topup.fail=Top Up has been canceled.
 # wallet.topup.fail.1=You have not been charged and you have not gotten any balance.
 # wallet.topup.paypal=Pay using your credit/debit card or PayPal balance.
-# wallet.topup.paypal.1=With PayPal fees deduced, you'll get %euro%.
+# wallet.topup.paypal.1=With PayPal fees deducted, you'll get %euro%.
 # wallet.topup.paysafecard=Pay using real money or my paysafecard balance.
 # wallet.topup.paysafecard.initerror=The transaction could not be initiated due to connection problems. If this problem persists, please contact us.
 # wallet.topup.warn=THERE IS NO WITHDRAWAL YET.

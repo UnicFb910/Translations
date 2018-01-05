@@ -22,6 +22,7 @@
 # close=Close
 # moreinfo=More
 # share=Share on
+# share.share=Share
 # share.link=Copy Link
 # download=Download
 # install=Install
@@ -247,8 +248,6 @@
 # help.login.real=How to make sure this is the real Netdex?
 # help.login.real.1=Check the URL for the green lock, because we only serve content over HTTPS.
 # help.login.real.2=If you're unsure, write the URL yourself: [Inter]Net [In]dex DOT CO, without M.
-# help.account.domains=How can I reach my profile card?
-# help.account.domains.1=You can use the following ways to reach @Netdex, and they obviously also work with your profile.
 # help.account.team=What is a team account?
 # help.account.team.1=A team account is just like a normal account, however, there are some differences:
 # help.account.team.2=Team members can login to the team account via their account.
@@ -263,6 +262,8 @@
 # help.general.formatting.1=Here's a table of what you have to type and what it will look like.
 # help.general.formatting.2=What you type
 # help.general.formatting.3=What comes out
+# help.general.formatting.4=You may have noticed you can mention users from other social networks, that's because we're
+# help.general.formatting.5=compliant.
 # help.general.language=How can I change the language I see Netdex in?
 # help.general.language.1=If you see this text, we already asked your browser, which language you prefer.
 # help.general.language.2=So in order to change the language you see Netdex in, you need to change your browser language.
@@ -291,6 +292,9 @@
 # profile.badges.translator=This person supported Netdex by translating it. You can find them in the Credits.
 # profile.badges.netdex=This person has contributed to Netdex in a non-monetary and non-translating way. You can find them in the Credits.
 # profile.badges.team=This is a team account.
+# profile.downloadqr=Download QR Code
+# profile.vcard.download=Download vCard
+# profile.vcard.downloadqr=Download vCard QR Code
 
 > Email Services
 # mail=Email Services
@@ -510,7 +514,6 @@
 # offgames.reflink=Your Referral Link
 # offgames.reflink.info=Your referrer name is %ref% - You can add %query% to any OffGames.io-URL!
 # offgames.reflink.clicks=Reflink Clicks
-# offgames.reflink.own=Clicking on your own reflink won't do much. Logout first if you want to test stuff.
 # offgames.notifications=You're about to be asked to grant us permissions to show Notifications. These Notifications, however, will only show you discount codes for the site you are about to visit. If you deny the permission, you will recieve the discount codes in a message like this.
 # offgames.account=My Account
 # offgames.account.login=Login with Steam

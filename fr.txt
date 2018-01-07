@@ -208,7 +208,6 @@ options.mailasname=Utiliser votre email pour vous connecter
 options.mailasname.tooltip=Lorsque cette case est cochée, vous devez utiliser votre e-mail au lieu de votre pseudo pour vous connecter.
 options.pass=Mot de passe
 options.pass.change=Changer le mot de passe
-# options.back=Back to the options start page
 # options.apps=Revoke apps permission to your account
 # options.apps.none=Everything is good, no app has permissions to your account.
 # options.apps.permissions=This App's Permissions:

@@ -560,5 +560,5 @@ poll=Umfragen
 poll.title=Erstelle und nehme teil an Umfragen
 poll.create=Umfrage erstellen
 
-> Copyright (c) 2016 - 2017, the Netdex Translation Team - https://netdex.co/credits
+> Copyright (c) 2016 - 2018, the Netdex Translation Team - https://netdex.co/credits
 > This is licensed under The Unlicense - https://github.com/netdexco/Translations/blob/master/LICENSE

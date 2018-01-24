@@ -96,7 +96,7 @@ introduction.card.1=Ändere deine Profil-Karte damit Leute direkt wissen, wer du
 introduction.mail=Dein Posteingang. Unsere Domains.
 introduction.mail.1=Als Teil unserer Email Services, geben wir dir viele Email-Adressen, welche alle eingehenden Emails sicher an deine Account-Email-Adresse weiterleiten.
 introduction.apps=Für Entwickler: Eine Integration. Viele Features.
-introduction.apps.1=Netdex integrieren ist leicht, dennoch sicher, und gibt dir viele machtvolle Features. Du gibst dem Nutzer einfach den Authorisierungs-Link und wir erledigen den Rest. Du kannst sogar verlangen, dass der Nutzer eine Email-Adresse verknüpft haben muss und falls dieser keine hat, wird er durch unsere einzigartige Email Bestätigung fließen.
+introduction.apps.1=Netdex integrieren ist leicht, dennoch sicher, und gibt dir viele machtvolle Features. Du gibst dem Nutzer einfach den Authorisierungs-Link und wir erledigen den Rest. Du kannst sogar verlangen, dass der Nutzer eine Email-Adresse verknüpft haben muss.
 
 > Weather
 weather=Wetter

@@ -92,11 +92,11 @@ home.what=Qui sommes-nous?
 # introduction=Introduction
 # introduction.headline=What Netdex can do for You
 # introduction.card=Your Card. Your rules.
-# introduction.card.1=Customize your profile card so people instantly know who you are, where you are, and how they can reach you.
+# introduction.card.1=Customize your profile card so people instantly know who you are, where you are and how they can reach you.
 # introduction.mail=Your Inbox. Our domains.
-# introduction.mail.1=As part of our email services, we will give you many email addresses which all will securely relay any email to your account email, without ever exposing it to the sender.
+# introduction.mail.1=As part of our Email Services, we provide you with many email addresses which all will securely relay inbound emails to your account email address.
 # introduction.apps=For Developers: One Integration. Many features.
-# introduction.apps.1=Integrating Netdex is simple, yet secure, and gives you a lot of powerful features. You just give the user the authentication link and we'll do the rest. You can even require users to have an email. When they don't have one, they will go through our unique email verification flow and before you can blink the user is back on your website.
+# introduction.apps.1=Integrating Netdex is simple - yet secure - and gives you a lot of powerful features. You just give the user the authentication link and we'll do the rest. You can even require users to have an email and if they don't have one, they will go through our unique email verification flow.
 
 > Weather
 # weather=Weather

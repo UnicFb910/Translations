@@ -92,11 +92,11 @@ home.social=Soziale Medien
 introduction=Einführung
 introduction.headline=Was Netdex für dich tun kann
 introduction.card=Deine Karte. Deine Regeln.
-introduction.card.1=Ändere deine Profil-Karte damit Leute direkt wissen, wer du bist, wo du bist, und wie sie dich erreichen können.
+introduction.card.1=Ändere deine Profil-Karte damit Leute direkt wissen, wer du bist, wo du bist und wie sie dich erreichen können.
 introduction.mail=Dein Posteingang. Unsere Domains.
-introduction.mail.1=Als Teil unserer Email Services, geben wir dir viele Email-Adressen, welche alle eingehenden Emails sicher an deine Account-Email-Adresse weiterleiten, ohne diese jemals dem Sender zu enthüllen.
+introduction.mail.1=Als Teil unserer Email Services, geben wir dir viele Email-Adressen welche alle eingehenden Emails sicher an deine Account-Email-Adresse weiterleiten.
 introduction.apps=Für Entwickler: Eine Integration. Viele Features.
-introduction.apps.1=Netdex integrieren ist leicht, dennoch sicher, und gibt dir viele machtvolle Features. Du gibst dem Nutzer einfach den Authorisierungs-Link und wir erledigen den Rest. Du kannst den Nutzer sogar zwingen eine Email-Adresse zu haben. Falls dieser keine hat, wird er durch unsere einzigartige Email Bestätigung fließen und bevor du blinken kannst, ist er wieder auf deiner Webseite.
+introduction.apps.1=Netdex integrieren ist leicht - dennoch sicher - und gibt dir viele machtvolle Features. Du gibst dem Nutzer einfach den Authorisierungs-Link und wir erledigen den Rest. Du kannst sogar erfordern, dass Nutzer Email-Adresse verknüpft haben muss und falls dieser keine hat, wird er durch unsere einzigartige Email Bestätigung fließen.
 
 > Weather
 weather=Wetter

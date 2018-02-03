@@ -150,13 +150,17 @@
 # lang.pl=Polish
 # lang.ru=Russian
 
-> Login
-# login=Login
-# login.browser=We're sorry, but your browser is too bad for our account system. Consider upgrading!
+> Login and Registration Flows
+# logreg.user_title=Login or Register
+# logreg.title=Create or Login to a Netdex Account
+# logreg.browser=We're sorry, but your browser is too old for our account system. Consider upgrading.
+# logreg.login=I already have an account.
+# logreg.register=I don't have an account yet.
 # logout=Logout
 # logout.emergency=Do you want to be logged out of this account on every device?
 # logout.team=You will be logged back into your previous account.
 # loggingout=You are being logged out...
+# login=Login
 # login.2fa=2FA Code
 # login.2fa.invalid=Invalid 2FA Code.
 # login.name=Nickname or Email-Address
@@ -504,10 +508,9 @@
 # offgames.tool.reset=Reset Preferences
 # offgames.games=All Games Matching Your Preferences
 # offgames.steam=View on Steam
-# offgames.click=It appears as tho your browser is paranoid. Click here to actually open the offer - hopefully.
-# offgames.code=%store% Discount/Cashback Codes
-# offgames.code.off=%% Off:
-# offgames.code.cashback=%% Cashback:
+# offgames.code=%store% Codes
+# offgames.code.off=Save %% using these codes:
+# offgames.code.cashback=Get %% cashback using these codes:
 # offgames.share=Check out these offers for %game%:
 # offgames.offer.title.none=%game% (0 offers)
 # offgames.offer.title.one=Save up to %discount% on %game% (1 offer)

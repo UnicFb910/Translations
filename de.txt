@@ -150,13 +150,17 @@ lang.es=Spanisch
 lang.pl=Polnisch
 lang.ru=Russisch
 
-> Login
-login=Einloggen
-login.browser=Es tut uns Leid, aber dein Browser ist zu schlecht für unser Account-System. Vielleicht mal upgraden?
+> Login and Registration Flows
+logreg.user_title=Anmelden oder Registrieren
+logreg.title=Erstelle einen Netdex Account oder melde dich an
+logreg.browser=Es tut uns Leid, aber dein Browser ist zu alt für unser Account-System.
+logreg.login=Ich habe bereits einen Account.
+logreg.register=Ich habe noch keinen Account.
 logout=Ausloggen
 logout.emergency=Möchtest du aus jedem Gerät abgemeldet werden?
 logout.team=Du wirst wieder in deinen vorherigen Account angemeldet.
 loggingout=Du wirst abgemeldet...
+login=Einloggen
 login.2fa=2FA-Code
 login.2fa.invalid=Ungültiger 2FA-Code.
 login.name=Nickname oder Email-Addr.
@@ -504,10 +508,9 @@ offgames.tool.vr.none=Keine
 offgames.tool.reset=Präferenzen zurücksetzen
 offgames.games=All Spiele, die mit deinen Präferenzen übereinstimmen
 offgames.steam=Auf Steam anschauen
-offgames.click=Es scheint zu, als ob dein Browser paranoid ist. Klicke hier um das Angebot tatsächlich zu öffnen - hoffentlich.
-offgames.code=%store% Rabatt/Cashback Codes
-offgames.code.off=%% Reduziert:
-offgames.code.cashback=%% Geld zurück:
+offgames.code=%store% Codes
+offgames.code.off=Spare %% mit diesen Codes:
+offgames.code.cashback=Bekomme %% Geld zurück diesen Codes:
 offgames.share=Schau dir diese Angebote für %game% an:
 offgames.offer.title.none=%game% (0 Angebote)
 offgames.offer.title.one=Spare bis zu %discount% an %game% (1 Angebot)

@@ -96,7 +96,7 @@ home.what=какие мы?
 # introduction.mail=Your Inbox. Our domains.
 # introduction.mail.1=As part of our Email Services, we provide you with many email addresses, which all will securely relay inbound emails to your account email address.
 # introduction.apps=For Developers: One Integration. Many features.
-# introduction.apps.1=Integrating Netdex is simple, yet secure, and gives you a lot of powerful features. You just give the user the authentication link and we'll do the rest. You can even require users to have an email addressed linked to their account.
+# introduction.apps.1=Integrating Netdex is simple, yet secure, and gives you a lot of powerful features. You just give the user the authentication link and we'll do the rest. You can even require users to have an email address linked to their account.
 
 > Weather
 # weather=Weather

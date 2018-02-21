@@ -475,8 +475,8 @@ hosts.search=Ist %% blockiert?
 hosts.search.yes=Ja, von %%.
 
 > OffGames.io
-offgames.title=OffGames: Dein Vergleichsportal für Steam-Spiel-Angebote
-offgames.desc=OffGames schaut nach Angeboten bei mehreren Steam Key Verkäufern und macht diese suchbar.
+offgames.title=OffGames: Deas Vergleichsportal für Steam Angebote
+offgames.desc=OffGames durchsucht das Angebot von Steam Key Märkten und Verkäufer und macht diese durchsuchbar.
 offgames.group=Steam Gruppe
 offgames.introduction=Hey! Weißt du was OffGames ist?
 offgames.about=Über OffGames

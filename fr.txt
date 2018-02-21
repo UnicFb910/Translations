@@ -475,8 +475,8 @@ image.drop.done=Terminé
 # hosts.search.yes=Yes, by %%.
 
 > OffGames.io
-# offgames.title=OffGames: Steam Game Offer Meta-Search
-# offgames.desc=OffGames looks for offers across several Steam Key Sellers and makes them searchable.
+# offgames.title=OffGames: Steam Offer Meta-Search
+# offgames.desc=OffGames looks for offers across several Steam Key Marketplaces and Sellers and makes them searchable.
 # offgames.group=Steam Group
 # offgames.introduction=Hey! Do you know what OffGames is?
 # offgames.about=About OffGames

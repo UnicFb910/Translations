@@ -151,11 +151,9 @@ lang.pl=Polnisch
 lang.ru=Russisch
 
 > Login and Registration Flows
-logreg.user_title=Anmelden oder Registrieren
-logreg.title=Erstelle einen Netdex Account oder melde dich an
+logreg=Anmeldung
 logreg.browser=Es tut uns Leid, aber dein Browser ist zu alt für unser Account-System.
-logreg.login=Ich habe bereits einen Account.
-logreg.register=Ich habe noch keinen Account.
+logreg.1=Hast du einen Netdex-Account?
 logout=Ausloggen
 logout.emergency=Möchtest du aus jedem Gerät abgemeldet werden?
 logout.team=Du wirst wieder in deinen vorherigen Account angemeldet.
@@ -179,6 +177,7 @@ token.expired=Du wurdest ausgeloggt.
 token.ok=Willkommen zurück, %name%.
 register=Registrierung
 register.link=Registiere dich
+register.name.title=Wie nennst du dich im Netz?
 register.name=Nickname
 register.name.mismatch=Dein Name beinhaltet ungültige Zeichen.
 register.name.blacklist=Dieser Name ist nicht erlaubt.

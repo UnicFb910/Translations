@@ -151,11 +151,9 @@ lang.pl=Polski
 # lang.ru=Russian
 
 > Login and Registration Flows
-# logreg.user_title=Login or Register
-# logreg.title=Create or Login to a Netdex Account
+# logreg=Authorization
 # logreg.browser=We're sorry, but your browser is too old for our account system. Consider upgrading.
-# logreg.login=I already have an account.
-# logreg.register=I don't have an account yet.
+# logreg.1=Do you have a Netdex account?
 # logout=Logout
 # logout.emergency=Do you want to be logged out of this account on every device?
 # logout.team=You will be logged back into your previous account.
@@ -179,7 +177,8 @@ lang.pl=Polski
 # token.ok=Welcome back, %name%.
 # register=Registration
 # register.link=Register
-# register.name=Nickname
+# register.name.title=What do you call yourself in the net?
+# register.name=Your nickname
 # register.name.mismatch=Your name contains invalid chars.
 # register.name.blacklist=Your nickname is blacklisted.
 # register.login=Already have an account?

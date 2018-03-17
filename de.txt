@@ -150,7 +150,7 @@ lang.es=Spanisch
 lang.pl=Polnisch
 lang.ru=Russisch
 
-> Login and Registration Flows
+> Authorization Flows
 logreg=Anmeldung
 logreg.browser=Es tut uns Leid, aber dein Browser ist zu alt für unser Account-System.
 logreg.1=Hast du einen Netdex-Account?
@@ -178,7 +178,7 @@ token.ok=Willkommen zurück, %name%.
 register=Registrierung
 register.link=Registiere dich
 register.name.title=Wie nennst du dich im Netz?
-register.name=Nickname
+register.name=Dein Spitzname
 register.name.mismatch=Dein Name beinhaltet ungültige Zeichen.
 register.name.blacklist=Dieser Name ist nicht erlaubt.
 register.login=Hast du bereits einen Account?
@@ -201,6 +201,12 @@ pwreset.1=Gebe ein neues Passwort für deinen Account ein %name%.
 pwreset.2=Tipp: Nutze einen Passwort-Manager.
 pwreset.input=Dein neues Passwort
 pwreset.submit=Ändere mein Passwort
+elevate=Privilegieren
+elevate.title=Erhöhe deine Berechtigungen
+elevate.1=Du bist dabei kurzzeitig komplette Kontrolle über diesen Account zu erhalten.
+elevate.duration=Du wirst priviligiert sein für
+elevate.nomail=Weil du keine Email-Addresse mit deinem Account verknüpft hast, kannst du dich ohne Bestätigung priviligieren.
+elevate.pass=Zum priviligieren, gebe dein Passwort ein:
 
 > Options
 options=Optionen
@@ -233,11 +239,6 @@ options.apps.none=Alles gut, keine App hat Rechte zu deinem Account.
 options.apps.permissions=Die App hat folgende Rechte:
 options.apps.remove=App entfernen
 options.advanced=Erweitere Optionen
-options.advanced.1=In den erweiterten Optionen kannst du erweiterte Dinge tun, wie deine Email oder dein Passwort ändern.
-options.advanced.nomail=Aber da dein Account keine Email verknüpft hat, lassen wir dich einfach so rein.
-options.advanced.login.1=Um auf sie zu zugreifen brauchst du
-options.advanced.login.2=dein Passwort
-options.advanced.login=Zugriff
 options.email=Deine Email-Addresse
 options.email.inuse=Diese Email wird bereits von einem anderen Nutzer verwendet
 options.email.blocked=Bitte nutze eine echte Email. Nur so: Das hinzufügen einer Email ist optional.
@@ -526,7 +527,7 @@ offgames.offer.oses=Betriebsysteme
 offgames.offer.offers=Du kannst in den folgenen Shops bis zu %discount% an %game% sparen.
 offgames.offer.gone=Es sieht so aus als ob du diesen Titel aktuell nicht für einen günstigeren Preis erwerben kannst.
 offgames.extension.1=Möchtest du über Angebote direkt auf Steam informiert werden?
-offgames.extension.2=Probiere unsere Chrome-Erweiterung
+offgames.extension.2=Probiere unsere Browser-Erweiterung
 offgames.reflink=Dein Reflink
 offgames.reflink.info=Dein Verweisungsname ist %ref% - Du kannst %query% an jede OffGames.io-URL anhängen!
 offgames.reflink.clicks=Reflink-Klicks

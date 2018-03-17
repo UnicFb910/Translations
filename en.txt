@@ -150,7 +150,7 @@ lang.es=Spanish
 lang.pl=Polish
 lang.ru=Russian
 
-> Login and Registration Flows
+> Authorization Flows
 logreg=Authorization
 logreg.browser=We're sorry, but your browser is too old for our account system. Consider upgrading.
 logreg.1=Do you have a Netdex account?
@@ -201,6 +201,12 @@ pwreset.1=Input a new password for your Netdex account %name%.
 pwreset.2=Pro-Tip: Use a password manager.
 pwreset.input=Your new password
 pwreset.submit=Change my password
+elevate=Elevate
+elevate.title=Elevate your Permissions
+elevate.1=You're about to temporarily gain total control over this account.
+elevate.duration=You're going to be elevated for
+elevate.nomail=Because you don't have an email linked to your account, so you can elevate without any verification.
+elevate.pass=To elevate, enter your password:
 
 > Options
 options=Options
@@ -233,11 +239,6 @@ options.apps.none=Everything is good, no app has permissions to your account.
 options.apps.permissions=This App's Permissions:
 options.apps.remove=Remove App
 options.advanced=Advanced Options
-options.advanced.1=The Advanced Options allow you to change advanced things, like your email, password and 2FA.
-options.advanced.nomail=But because your account has no email linked, you can just access them right away.
-options.advanced.login.1=To access them you have to input
-options.advanced.login.2=your password
-options.advanced.login=Access
 options.email=Your Email-Address
 options.email.inuse=This email is already in use by another user.
 options.email.blocked=Please use a serious email here or don't add an email at all.
@@ -526,7 +527,7 @@ offgames.offer.oses=Operating Systems
 offgames.offer.offers=You can save up to %discount% on %game% in the following stores.
 offgames.offer.gone=It seems as tho you can currently not pick up this title at a cheaper price.
 offgames.extension.1=Would you like to be informed about offers directly on Steam?
-offgames.extension.2=Try our Chrome Extension
+offgames.extension.2=Try our Browser Extension
 offgames.reflink=Your Referral Link
 offgames.reflink.info=Your referrer name is %ref% - You can add %query% to any OffGames.io-URL!
 offgames.reflink.clicks=Reflink Clicks

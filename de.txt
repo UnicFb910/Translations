@@ -72,7 +72,6 @@ copy.ok=Link erfolgreich kopiert.
 copy.click=Klicken zum Kopieren.
 clearcache=Leere deinen Cache!
 clearcache.1=Du hast nur zum Teil eine neue Version dieser Webseite, hard-reloade (Strg+F5) oder leere deinen Cache!
-fullscreen=Vollbildmodus
 
 > Accessability
 aria.navbar=Navigation
@@ -80,7 +79,7 @@ aria.main=Haupt-Inhalt
 
 > Home
 home.what=Was sind wir?
-home.what.1=Netdex ermöglicht es dir deine eigene Karte zu erstellen und alle deine Profile und Webseiten zu präsentieren.
+home.what.1=Netdex ermöglicht dir deine eigene Karte zu erstellen, um alle deine Profile und Webseiten an einem Platz zu zeigen — mit einem eingebauten Link Kürzer und anonymer E-Mail Proxy.
 home.clock=Uhr
 home.quick=Schnellnavigation
 home.search=Internet-Suche
@@ -217,7 +216,6 @@ options.save.cloud=In der Cloud speichern
 options.saving=Speichern
 options.saved=Gespeichert
 options.change=Ändern
-options.theme=Farbverlauf
 label.edit=Beschriftung bearbeiten
 label.no=Keine Beschriftung
 options.add=Füge einen Account zu deiner Karte hinzu
@@ -306,10 +304,10 @@ profile.desc=Schau dir %%s geile Profil-Karte auf Netdex an. Sie beinhaltet Text
 profile.bio.default=Dies könnte eine Bio sein. Es ist noch keine, aber es könnte eine sein!
 profile.info=Möchtest du auch eine Karte auf Netdex?
 profile.badges.real=Die Person ist, wer sie sagt zu sein.
-profile.badges.patron=Diese Person hat Netdex durch eine Spende unterstützt.
-profile.badges.translator=Diese Person hat Netdex durch das Übersetzen unterstützt. Du kannst sie in den Credits finden.
-profile.badges.netdex=Diese Person hat zu Netdex auf einem nicht-monetären und nicht-übersetzenden Weg beigetragen. Du kannst sie in den Credits finden.
-profile.badges.team=Dies ist ein Team Account.
+profile.badges.patron=Spender / Patrone
+profile.badges.translator=Übersetzer
+profile.badges.netdex=Teil des Netdex-Teams
+profile.badges.team=Team Account
 profile.downloadqr=QR Code herunterladen
 profile.vcard.download=vCard herunterladen
 profile.vcard.downloadqr=vCard QR Code herunterladen
@@ -350,7 +348,7 @@ teams=Teams
 apps=Applikationen
 apps.title=Deine Netdex Applikationen
 apps.link=Verwalte deine Netdex Applikationen
-apps.desc=Erstelle neue Netdex Applikationen und verwalte deine existierenden Netdex Applikationen.
+apps.desc=Erstelle neue Netdex Applikationen und verwalte deine existierenden Netdex Applikationen. Lass uns die harte Arbeit eines guten Logins übernehmen und kümmer dich um den tatsächlichen Service.
 apps.auth=Applikationsanmeldung
 apps.auth.title=Mit Netdex anmelden
 apps.auth.login=Um dich mit dieser App anzumelden, musst du dich erst anmelden oder registrieren.
@@ -420,10 +418,10 @@ apps.edit.error=Beim Speichern der Änderungen ist ein Fehler aufgetreten.
 apps.delete=Applikation löschen
 apps.delete.sure=Bist du sicher, dass du die Applikation löschen willst?
 
-> Shorter
+> Shortener
 shorter=Linkkürzer
 shorter.title=Kürze deine Langen URLs
-shorter.description=Mit dem Netdex Linkkürzer kannst du die kürzesten Links die je existiert haben erstellen.
+shorter.description=Mit dem Netdex Linkkürzer kannst jeden langen Link in einen kurzen nex.li-Link umwandeln für leichtes und schnelles teilen.
 shorter.form=URL (Ent-)kürzen
 shorter.form.1=Gebe eine lange oder kurze URL an und sehe wohin sie geht oder kürze diese.
 shorter.form.input=Dat URL

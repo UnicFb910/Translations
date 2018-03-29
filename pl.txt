@@ -72,7 +72,6 @@ copy=prawo kliknij > Kopiuj (Ctrl + C)
 # copy.click=Click to copy.
 # clearcache=Clear your cache!
 # clearcache.1=You only partially have a new version of this website, hard-reload (Ctrl+F5) or clear your cache!
-# fullscreen=Fullscreen Mode
 
 > Accessability
 # aria.navbar=Navigation
@@ -80,7 +79,7 @@ copy=prawo kliknij > Kopiuj (Ctrl + C)
 
 > Home
 # home.what=What are we?
-# home.what.1=Netdex allows you to create your own card to showcase all of your profiles and websites.
+# home.what.1=Netdex allows you to create your own card to showcase all of your profiles and websites in one place — with built-in link shortening and anonymous email proxing.
 # home.clock=Clock
 # home.quick=Quick Navigation
 # home.search=Internet Search
@@ -217,7 +216,6 @@ lang.pl=Polski
 # options.saving=Saving
 # options.saved=Saved
 # options.change=Change
-# options.theme=Theme
 # label.edit=Edit Label
 # label.no=No Label
 # options.add=Add a social account to your card
@@ -306,10 +304,10 @@ lang.pl=Polski
 # profile.bio.default=This could be a bio. It isn't yet, but it could be!
 # profile.info=Do you also want to have a card on Netdex?
 # profile.badges.real=This person is who they claim to be.
-# profile.badges.patron=This person supported Netdex with a donation.
-# profile.badges.translator=This person supported Netdex by translating it. You can find them in the Credits.
-# profile.badges.netdex=This person has contributed to Netdex in a non-monetary and non-translating way. You can find them in the Credits.
-# profile.badges.team=This is a team account.
+# profile.badges.patron=Donator / Patron
+# profile.badges.translator=Translator
+# profile.badges.netdex=Part of the Netdex Team
+# profile.badges.team=Team Account
 # profile.downloadqr=Download QR Code
 # profile.vcard.download=Download vCard
 # profile.vcard.downloadqr=Download vCard QR Code
@@ -350,7 +348,7 @@ lang.pl=Polski
 # apps=Applications
 # apps.title=Your Netdex Applications
 # apps.link=Manage your Netdex Applications
-# apps.desc=Create new Netdex Applications and manage your existing Netdex Applications.
+# apps.desc=Create new Netdex Applications and manage your existing Netdex Applications. Let us do the hard work of a good login and you do the hard work of a good service.
 # apps.auth=Application Authentication
 # apps.auth.title=Login with Netdex - App Auth
 # apps.auth.login=In order to authenticate with this app, you have to login or register first.
@@ -420,10 +418,10 @@ lang.pl=Polski
 # apps.delete=Delete Application
 # apps.delete.sure=Are you sure, you want to delete this application?
 
-> Shorter
-# shorter=Shorter
+> Shortener
+# shorter=Shortener
 # shorter.title=Short Your Long URLs
-# shorter.description=Using the Netdex Shorter you can create one of the shortest links ever to be seen.
+# shorter.description=Using the Netdex Shortener you can take any long link and turn it into a short nex.li-link for easy and quick sharing.
 # shorter.form=(Un)short your URL
 # shorter.form.1=Insert any short or long URL and see where it goes or short it.
 # shorter.form.input=Dat URL

@@ -59,7 +59,6 @@ js="You have disabled JavaScript. Your Internet ends here."
 js.author=A Friend
 newtab=Please open Netdex in a new tab.
 alert.mail=We recommend you to add an email to your account to increase security and allow password reset.
-alert.2fa.wallet=Your account is quite valuable now. We recommend you to enable 2FA.
 notification=We'd like to show you modern inline notifications, but we need your permission.
 needmail=We need your email.
 loading.1=The communication with the base is taking longer than usual. Be patient.
@@ -73,10 +72,6 @@ copy.ok=Succesfully copied link.
 copy.click=Click to copy.
 clearcache=Clear your cache!
 clearcache.1=You only partially have a new version of this website, hard-reload (Ctrl+F5) or clear your cache!
-
-> Accessability
-aria.navbar=Navigation
-aria.main=Main Content
 
 > Home
 home.what=What are we?
@@ -95,8 +90,6 @@ introduction.card=Your Card. Your rules.
 introduction.card.1=Customize your profile card so people instantly know who you are, where you are and how they can reach you.
 introduction.mail=Your Inbox. Our domains.
 introduction.mail.1=As part of our Email Services, we provide you with many email addresses, which all will securely relay inbound emails to your account email address.
-introduction.apps=For Developers: One Integration. Many features.
-introduction.apps.1=Integrating Netdex is simple, yet secure, and gives you a lot of powerful features. You just give the user the authentication link and we'll do the rest. You can even require users to have an email address linked to their account.
 
 > Weather
 weather=Weather
@@ -217,6 +210,7 @@ options.save.cloud=Save in the Cloud
 options.saving=Saving
 options.saved=Saved
 options.change=Change
+options.dname=Change Your Display Name
 label.edit=Edit Label
 label.no=No Label
 options.add=Add a social account to your card
@@ -233,10 +227,6 @@ options.mailasname=Use email to login
 options.mailasname.tooltip=When checked you have to use your email instead of your nickname to login.
 options.pass=Password
 options.pass.change=Change Password
-options.apps=Authorized Applications
-options.apps.none=Everything is good, no app has permissions to your account.
-options.apps.permissions=This App's Permissions:
-options.apps.remove=Remove App
 options.advanced=Advanced Options
 options.email=Your Email-Address
 options.email.inuse=This email is already in use by another user.
@@ -271,9 +261,7 @@ help.account.team.2=Team members can login to the team account via their account
 help.account.team.3=Team admins can limit the permissions its members have.
 help.account.team.4=Team accounts may not have a password.
 help.account.perms=What permissions are there?
-help.account.perms.1=Here's a list of all permissions for team members and/or applications.
-help.account.perms.documentation=Documentation
-help.account.perms.description=Description
+help.account.perms.1=Here's a list of all permissions you can give your team members.
 help.general=General
 help.general.formatting=How do I format text here?
 help.general.formatting.1=Here's a table of what you have to type and what it will look like.
@@ -344,80 +332,6 @@ mail.needmail=To use the Netdex Email Services we need to know your email. Pleas
 
 > Teams
 teams=Teams
-
-> Applications
-apps=Applications
-apps.title=Your Netdex Applications
-apps.link=Manage your Netdex Applications
-apps.desc=Create new Netdex Applications and manage your existing Netdex Applications. Let us do the hard work of a good login and you do the hard work of a good service.
-apps.auth=Application Authentication
-apps.auth.title=Login with Netdex - App Auth
-apps.auth.login=In order to authenticate with this app, you have to login or register first.
-apps.auth.unknown=The app you tried to authenticate with is unknown to us.
-apps.auth.mailrequired=E-Mail Required
-apps.auth.mailrequired.1=This app requires you to have an email linked to your account.
-apps.auth.mailrequired.2=I promise it's super easy, quick and painless.
-apps.auth.mailrequired.go=Alright, just get it over with.
-apps.auth.perms=Requested Permissions
-apps.auth.perms.sub1=The Application
-apps.auth.perms.sub2=wants to be able to:
-apps.auth.perms.sub3=wants no permissions.
-apps.auth.perms.unknown=Unknown Category
-apps.auth.perms.read=Read From your Account:
-apps.auth.perms.read.profile=Your Public Profile
-apps.auth.perms.read.dname=Your Display Name
-apps.auth.perms.read.mail=Your Email-Address
-apps.auth.perms.read.granted_apps=Apps you've authorized
-apps.auth.perms.manage=Manage your Account:
-apps.auth.perms.manage.dname=Change Your Display Name
-apps.auth.perms.manage.bio=Change Your Bio
-apps.auth.perms.manage.pic=Change Your Pic
-apps.auth.perms.manage.granted_apps.revoke=Revoke Apps permission to your account
-apps.auth.perms.cant=This App can NOT:
-apps.auth.perms.cant.0=Read your Password
-apps.auth.perms.cant.1=Read you a Bedtime Story
-apps.auth.perms.cant.2=Do The Thing™ with The Thing™
-apps.auth.perms.cant.3=Check out your hot new Mixtape
-apps.auth.perms.cant.4=Take you out to Dinner
-apps.auth.account=You are logged in as
-apps.auth.owner=This application is owned by
-apps.auth.allow=Give the application those permissions?
-apps.auth.redirect=You are being redirected
-apps.none=You don't have any App yet.
-apps.none.1=Netdex Apps allow you to safely integrate a login system into your website.
-apps.none.2=You can
-apps.none.3=read a bit in our help center
-apps.none.4=to find out if a Netdex App is what you need.
-apps.manage.needmail=For security purposes, you need to add your E-Mail to your account before you can create an application.
-apps.manage.id=App ID
-apps.manage.name=Name
-apps.manage.actions=Actions
-apps.manage.website=Website
-apps.manage.website.info=(Optional) A website that explains what your app is.
-apps.manage.callbacks=Callback URLs:
-apps.manage.callbacks.granted=When user grants your app permissions
-apps.manage.callbacks.revoked=(Optional) When user revokes your app permissions
-apps.manage.requiremail=Require users to have an email linked to their account.
-apps.manage.integrate=Integrate
-apps.add=Add (anotha) one!
-apps.add.ok=Application created.
-apps.add.urls=URLs need to start with https://.
-apps.add.limit=You can only create up to 5 apps.
-apps.integrate=Integrate App #
-apps.integrate.1=First of all
-apps.integrate.2=get the example
-apps.integrate.3=and change the configuration in Netdex.class.php to:
-apps.integrate.4=Make sure to download the
-apps.integrate.5=for it to work!
-apps.integrate.6=Most important: Understand the example and master it.
-apps.edit=Edit Application #
-apps.edit.submit=Edit
-apps.edit.perms=Changing the permissions will render all user keys invalid.
-apps.edit.requiremail=Keys of existing users without emails will not be revoked.
-apps.edit.ok=Application edited.
-apps.edit.error=An error occurred while saving edits.
-apps.delete=Delete Application
-apps.delete.sure=Are you sure, you want to delete this application?
 
 > Shortener
 shorter=Shortener
@@ -549,30 +463,6 @@ offgames.notify.mail.2=From now on you will no longer be notified about offers f
 
 > Congratulations! You have translated all the public parts of Netdex.
 > The following is for future projects which might not be done after all, so you don't have to translate it.
-
-> Wallet
-wallet.title=Your Digital Wallet
-wallet.fees=Fees
-wallet.euros=Euros
-wallet.balance=Balance
-wallet.send=Send
-wallet.exchange=Exchange
-wallet.topup=Top Up
-wallet.topup.done=Your balance is with you shortly.
-wallet.topup.done.1=This usually only takes a couple of seconds, but it might also take some minutes.
-wallet.topup.fail=Top Up has been canceled.
-wallet.topup.fail.1=You have not been charged and you have not gotten any balance.
-wallet.topup.paypal=Pay using your credit/debit card or PayPal balance.
-wallet.topup.paypal.1=With PayPal fees deducted, you'll get %euro%.
-wallet.topup.paysafecard=Pay using real money or my paysafecard balance.
-wallet.topup.paysafecard.initerror=The transaction could not be initiated due to connection problems. If this problem persists, please contact us.
-wallet.topup.warn=THERE IS NO WITHDRAWAL YET.
-wallet.withdraw=Withdraw
-wallet.transactions=Transactions
-wallet.transactions.first=Here is where your transactions will be displayed.
-wallet.transactions.topup=This transaction was created by the system as a result of your top up.
-wallet.transactions.withdraw=This transaction was created by the system after a successful withdrawal.
-wallet.transactions.system=This transaction has been created by the system.
 
 > Poll
 poll=Polls

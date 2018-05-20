@@ -1,0 +1,474 @@
+> General
+yes=Ja
+no=Nee
+back=Terug
+publish=Publiceren
+submit=Opsturen
+retry=Probeer opnieuw
+cancel=Annuleer
+reload=Herladen
+unknown=Onbekend
+close=Je kan dit nu sluiten.
+contact=Contact
+contact.link=Heb je vragen?
+continue=Verder
+changing=Veranderen
+dismiss=Sluit
+getstarted=Laten we beginnen!
+dothis=Laten we beginnen
+captcha=Bewijs alstjeblieft dat je een mens bent:
+report=Reporteer
+fillform=Vul de hele form in.
+loading=Laden
+loading.additional=Andere informatie aan het laden...
+menu=Menu
+close=Sluit
+closemenu=Sluit menu
+moreinfo=Meer
+readmore=Lees meer
+share=Deel op
+share.share=Deel
+share.link=Kopieer link
+download=Download
+install=Installeer
+soon=Komt binnenkort
+time.year={y}-{m}-{d}
+time.date={m}-{d}
+time.time={h}:{i}
+time.datetime={date} {time}
+sec=seconde
+secs=seconden
+min=minuut
+mins=minuten
+hour=uur
+hours=uren
+day=dag
+days=dagen
+mon=maand
+mon.this=Deze maand
+mons=maanden
+today=Vandaag
+yesterday=Gisteren
+total=Totaal
+expire=Vergaat over
+expires=Vergaat op
+willneverhappen=Fout
+willneverhappen2=Er is een fout opgetreden.
+status=Status
+js="Je hebt JavaScript uitgeschakeld. Je Internet eindigd hier."
+js.author=Een vriend
+newtab=Open Netdex alstjeblieft in een nieuw tabblad.
+alert.mail=We raden je aan een e-mail toe te voegen aan je account om de beveiliging te vergroten en om je wachtwoord opnieuw in te stellen als dit nodig is.
+notification=We willen je graag moderne inline-meldingen laten zien, maar we hebben uw toestemming nodig.
+needmail=We hebben je e-mailadres nodig.
+loading.1=The communication with the base is taking longer than usual. Be patient.
+console.1=STOP ONMIDDELIJK
+console.2=De console is alleen voor ontwikkelaars. We raden je ten zeerste aan om het niet te gebruiken, vooral niet als iemand je dat vraagt.
+notrans=Dit gebied heeft geen vertaling.
+notrans.dev=Dit gebied heeft geen vertaling, omdat het is gemaakt voor ontwikkelaars en we nemen aan dat ontwikkelaars beter Engels kunnen dan de gemiddelde persoon.
+notrans.legal=Dit gebied heeft geen vertaling, omdat het legale dingen zijn en we willen niet dat onze vertalers dat vertalen.
+copy=Rechter muis-klik > Kopieer (Ctrl+C)
+copy.ok=Link gekopieerd.
+copy.click=Klik om te kopieeren.
+clearcache=Leeg je cache!
+clearcache.1=Je hebt maar voor een gedeelte de nieuwe website, druk (Ctrl+F5) of leeg je cache!
+
+> Home
+home.what=Wat zijn wij?
+home.what.1=Met Netdex kunt u uw eigen kaart maken om al uw profielen en websites op één plek te presenteren - met ingebouwde koppelingsverkorting en anonieme e-mailproxing.
+home.clock=Klok
+home.quick=Snelle navigatie
+home.search=Internet zoekopdracht
+home.search.input=Voer een vraag of trefwoorden in.
+home.link=Home
+home.social=Social Media
+
+> Introduction
+introduction=Introductie
+introduction.headline=Wat Netdex voor u kan doen
+introduction.card=Uw kaart. Uw regels.
+introduction.card.1=Customize your profile card so people instantly know who you are, where you are and how they can reach you.
+introduction.mail=Uw inbox. Onze domeinen.
+introduction.mail.1=Als onderdeel van onze e-mailservices bieden we u vele e-mailadressen, die allemaal veilige binnenkomende e-mails doorzenden naar het e-mailadres van uw account.
+
+> Weather
+weather=Weer
+weather.location=Verander locatie
+weather.location.input=Voer je locatie in. Dit word alleen op het apparaat opgeslagen.
+weather.now=Het huidige weer.
+weather.day=Weer samenvatting voor vandaag.
+weather.week=Weer samenvatting voor de week.
+weather.hourlyforecasts=Weersverwachting voor de volgende uren.
+weather.dailyforecasts=Weersverwachting voor de volgende dagen.
+
+> Sitemap
+sitemap=Sitemap
+sitemap.services=Services
+sitemap.accounts=Uitgelichte accounts
+
+> Legal
+legal=Wettelijke
+agreement=Overeenkomst
+agreement.1=Door gebruik te maken van Netdex en zijn diensten gaat u akkoord met de onderstaande overeenkomst.
+agreement.agree=Ik accepteer.
+privacy=Privacyverklaring
+imprint=Afdruk
+branding=Branding
+
+> Ban
+banned=De ban hamer heeft gesproken!
+banned.1=U bent
+banned.2=verbannen
+banned.3=van Netdex tot
+banned.4=voor
+
+> Achievements
+achievements=Prestaties
+achievements.level=Jou level
+
+> Credits
+credits=Credits
+credits.resources=Middelen
+credits.team=Team
+credits.make=Codering
+credits.moral=Morale hulp
+credits.patrons=Patron donateurs
+credits.partners=Partners
+credits.translations=Vertalingen
+credits.translations.note=Leuk feit: deze tekst is ook vertaald.
+credits.translations.help=Help vertalen
+lang.de=German
+lang.fr=French
+lang.es=Spanish
+lang.pl=Polish
+lang.ru=Russian
+lang.nl=Nederlands
+
+> Authorization Flows
+logreg=Machtiging
+logreg.browser=Het spijt ons, maar uw browser is te oud voor ons accountsysteem. Overweeg een upgrade.
+logreg.1=Heeft u een Netdex-account??
+logout=Uitloggen
+logout.emergency=Wil je op elk apparaat uitgelogd worden van dit account?
+logout.team=U wordt opnieuw ingelogd op uw vorige account.
+loggingout=U wordt uitgelogd...
+login=Login
+login.2fa=2FA Code
+login.2fa.invalid=Ongeldige 2FA Code.
+login.name=Gebruikersnaam of e-mailadres
+login.name.unknown=Onbekende gebruikersnaam.
+login.name.usename=Gebruik alstublieft uw gebruikersnaam om in te loggen.
+login.name.usemail=Gebruik alstublieft uw e-mailadres om in te loggen.
+login.name.taken=Gebruikersnaam is al bezet.
+login.name.short=Gebruikersnaam is te kort.
+login.name.long=Gebruikersnaam is te lang.
+login.pass=Wachtwoord
+login.pass.short=Wachtwoord is te kort.
+login.pass.wrong=Ongeldig wachtwoord.
+login.pass.manual=Vermijd het handmatig typen van uw wachtwoord.
+login.limit=We staan ​​maximaal 3 accounts per IP toe.
+token.expired=U bent uitgelogd.
+token.ok=Welkom terug, %name%.
+register=Registratie
+register.link=Registreer
+register.name.title=Hoe noem je jezelf in het net?
+register.name=Uw gebruikersnaam
+register.name.mismatch=Uw naam bevat ongeldige tekens.
+register.name.blacklist=Uw gebruikersnaam staat op de zwarte lijst.
+register.login=Heeft u al een account?
+warn=Account waarschuwing
+warn.1=Uw account is eerder benaderd vanaf een ander IP-adres:
+warn.ipof=IP van
+warn.2a=Als u niet bekend bent met dit IP-adres, bent u mogelijk gehackt.
+warn.2b=Als u niet bekend bent met dit IP-adres of een van de accounts, bent u mogelijk gehackt.
+warn.3=U kunt altijd uw account beveiligen in de opties als je dat wilt.
+warn.logout=Log overal uit
+pwreset=Reset wachtwoord
+pwreset.name=Uw gebruikersnaam
+pwreset.back=of terug naar Login
+pwreset.mail=Wachtwoord wijzigingsverzoek
+pwreset.mail.1=Wilt u het wachtwoord van uw Netdex-account wijzigen? %name%?
+pwreset.mail.2=Zo ja, volg deze link:
+pwreset.mail.3=Als dit niet het geval is, negeert u deze e-mail.
+pwreset.invalid=Sorry, deze link is verlopen.
+pwreset.1=Voer een nieuw wachtwoord in voor uw Netdex-account %name%.
+pwreset.2=Pro-Tip: Gebruik een wachtwoordbeheerder.
+pwreset.input=Uw nieuwe wachtwoord
+pwreset.submit=Verander mijn wachtwoord
+elevate=Promoveer
+elevate.title=Promoveer uw machtigingen
+elevate.1=U staat op het punt om tijdelijk volledige controle te krijgen over dit account.
+elevate.duration=U zult worden gepromoveerd voor
+elevate.nomail=Omdat u geen e-mail aan uw account hebt gekoppeld, kunt u niet gepromoveerd worden in machtigingen.
+elevate.pass=Om te promoveren, voert u hier uw wachtwoord in:
+
+> Options
+options=Opties
+options.desc=Beveilig en pas uw account naar wens aan.
+options.save=Opslaan
+options.save.local=Opslaan op dit apparaat
+options.save.cloud=Opslaan in de Cloud
+options.saving=Opslaan...
+options.saved=Opgeslagen
+options.change=Verander
+options.dname=Verander uw weergavenaam
+label.edit=Label bewerken
+label.no=Geen Label
+options.add=Voeg een social-media account toe aan uw kaart
+options.add.more=Voeg nog een social-media account toe aan uw kaart
+options.remove=Verwijder account
+options.profile.pic=Verander afbeelding
+options.profile.pic.square=Profiel afbeeldingen kunnen alleen vierkant zijn, niet rechthoekig...
+options.bio=Uw Bio
+options.bio.save=Sla Bio op
+options.show_mail=Toon openlijk mijn @Netdex.co-email
+options.show_mail.tooltip=Indien ingeschakeld, wordt uw @ Netdex.co-e-mail openbaar getoond, maar we zullen ons best doen om u tegen spam te beschermen.
+options.toinbox=Naar mijn Inbox
+options.mailasname=Gebruik email om in te loggen
+options.mailasname.tooltip=Indien aangevinkt, moet u uw e-mailadres gebruiken in plaats van uw gebruikersnaam om in te loggen.
+options.pass=Wachtwoord
+options.pass.change=Verander wachtwoord
+options.advanced=Geavanceerde opties
+options.email=Uw Email-Address
+options.email.inuse=Deze e-mail is al in gebruik door een andere gebruiker.
+options.email.blocked=Gebruik hier een serieuze e-mail of voeg helemaal geen e-mail toe.
+options.verify.sent=Er is een verificatie-e-mail verzonden.
+options.verify.mail=Netdex Email Verificatie
+options.verify.mail.1=Klik op de link.
+options.verify.mailchange=Netdex Email verander aanvraag
+options.verify.mailchange.1=Klik niet op deze link als u geen e-mailwijziging heeft aangevraagd!
+options.verify.mailchange.2=Als u op deze link klikt, wordt dit e-mail direct van uw Netdex-account verwijderd %name%.
+options.verify.done=Je hebt je e-mail geverifieerd. Eenvoudig, he?
+options.2fa.download=Download de
+options.2fa.qr=en scan deze QR-code ermee:
+options.2fa.text=of voer deze sleutel handmatig in:
+options.2fa.verify=Voer als laatste de 6 cijfers in die in de app worden getoond:
+options.2fa.reset=Als u 2FA uit uw account wilt verwijderen, kunt u dat op elk gewenst moment doen via de volgende link, dus houd het veilig.
+options.2fa.remove=Verwijder 2FA
+options.2fa.remove.code=Om 2FA te verwijderen, voert u voor de laatste keer uw 2FA-code in:
+options.2fa.remove.sure=Weet je zeker dat je 2FA van je Netdex-account wilt verwijderen %%?
+options.2fa.removed=2FA succesvol verwijderd van Netdex Account.
+
+> Help
+help=Helpcentrum
+help.link=Hulp nodig?
+help.seealso=Zie ook:
+help.login.real=Hoe weet ik zeker dat dit de echte Netdex is?
+help.login.real.1=Controleer de URL voor de groene vergrendeling, omdat we alleen inhoud via HTTPS serveren.
+help.login.real.2=Als u niet zeker bent, type de URL dan zelf: [Inter] Net [In] dex PUNT CO, zonder M.
+help.account.team=Wat is een teamaccount?
+help.account.team.1=Een teamaccount is net als een normaal account, maar er zijn enkele verschillen:
+help.account.team.2=Teamleden kunnen via hun account inloggen op het teamaccount.
+help.account.team.3=Teambeheerders kunnen de machtigingen beperken die hun leden hebben.
+help.account.team.4=Teamaccounts hebben mogelijk geen wachtwoord.
+help.account.perms=Welke machtigingen zijn er?
+help.account.perms.1=Hier is een lijst met alle rechten die u uw teamleden kunt geven.
+help.general=Algemeen
+help.general.formatting=Hoe formatteer ik de tekst hier?
+help.general.formatting.1=Hier is een tabel met wat je moet typen en hoe het eruit zal zien.
+help.general.formatting.2=Wat u typt
+help.general.formatting.3=Wat eruit komt
+help.general.formatting.4=U hebt misschien gemerkt dat u gebruikers van andere sociale netwerken kunt noemen, dat is omdat wij
+help.general.formatting.5=compliant.
+help.general.language=Hoe kan ik de taal wijzigen waarin ik Netdex zie?
+help.general.language.1=Als u deze tekst ziet, hebben we uw browser al gevraagd welke taal u verkiest.
+help.general.language.2=Dus om de taal waarin Netdex staat te veranderen, moet je de taal van je browser aanpassen.
+help.general.language.3=We hebben echter niet alle (volledige) vertalingen, dus alle hulp wordt op prijs gesteld.
+help.general.contact=Is uw vraag nog steeds niet beantwoord?
+help.general.contact.github.1=Voor bugs and suggesties,
+help.general.contact.github.2=is goed genoeg.
+help.general.contact.mail=U kunt via e-mail contact met ons opnemen: 
+help.general.contact.note=We beantwoorden binnen 24 uur.
+help.categories=Categorieën
+
+> Profiles
+search=Zoek
+search.input=Zoek voor Netdex gebruikers.
+search.results=Zoek resultaten
+search.nothing=Geen enkele gebruiker gevonden die bij uw beschrijving past.
+account=Account
+profile=Profiel
+profile.link=Bekijk het profiel van %name%
+profile.title=%% op Netdex
+profile.desc=Kijk naar %%'s geweldige Profiel kaart op Netdex. Het bevat tekst, links en nog veel meer geweldige dingen.
+profile.bio.default=Dit kan een bio zijn. Het is het nog niet, maar het zou kunnen zijn!
+profile.info=Wilt u ook een kaart op Netdex hebben??
+profile.badges.real=Dit is wie ze beweren te zijn.
+profile.badges.patron=Donateur / Patron
+profile.badges.translator=Vertaler
+profile.badges.netdex=Onderdeel van het Netdex-team
+profile.badges.team=Team Account
+profile.downloadqr=Download QR Code
+profile.vcard.download=Download vCard
+profile.vcard.downloadqr=Download vCard QR Code
+
+> Email Services
+mail=E-mailservices
+mail.description=Met Netdex kun e-mails ontvangen die volledig anoniem zijn.
+mail.why=Waarom Netdex e-mailservices?
+mail.why.anon=Anonimiteit
+mail.why.anon.1=Alle e-mails aan uwnaam@netdex.co worden direct doorgestuurd naar uw echte e-mail, die we niet zullen onthullen.
+mail.why.lots=Veel e-mails
+mail.why.lots.1=Naast @ netdex.co, hebben we ook veel andere domeinnamen voor e-mails, zoals:
+mail.why.spam=Spam Filter
+mail.why.spam.1=Zodra een spammer een nieuw domein gebruikt, zullen we het zo snel mogelijk op de zwarte lijst zetten.
+mail.start=Je kunt dit allemaal hebben.
+mail.mail=E-mails doorsturen naar
+mail.temp=Prullenbak Mails
+mail.temp.note=Al deze domeinen zullen uiteindelijk vervallen.
+mail.perm=Uw Perm. Emails
+mail.perm.note=Al deze e-mails zullen er altijd zijn.
+mail.alias=Uw Alias
+mail.alias.1=Naast {naam}@watdanook kan je ook een alias gebruiken:
+mail.alias.2=Ik hou meer van mijn alias
+mail.alias.min=Je alias moet langer zijn dan 16 tekens om conflicten te voorkomen.
+mail.alias.max=Uw alias mag niet langer zijn dan 64 tekens.
+mail.alias.taken=Die alias is helaas al bezet.
+mail.spam=Ons Spam Filter
+mail.spam.1=Al onze e-mailservers gebruiken
+mail.spam.2=onze spam-e-mail- en ip-lijst
+mail.spam.3=.
+mail.spam.4=Heb je spam gekregen? Stuur het door naar:
+mail.needmail=Om de Netdex Email Services te gebruiken, moeten we uw e-mail kennen. Zet uw e-mailadres in de
+
+> Teams
+teams=Teams
+
+> Shortener
+shorter=Shortener
+shorter.title=Verkort je lange URLs
+shorter.description=Met behulp van de Netdex-shortener kunt u elke lange link nemen en deze veranderen in een korte nex.li-link om eenvoudig en snel te delen.
+shorter.form=Verkort je URL
+shorter.form.1=Voeg een korte of lange URL in en kijk waar het naartoe gaat of kort deze.
+shorter.form.input=Dat URL
+shorter.res=Resultaat
+shorter.res.long=Lange URL:
+shorter.res.short=Korte URL:
+shorter.res.back=Verkort nog een URL
+shorter.nex=Over Nex.li
+shorter.nex.1=Nex.li is ons domein dat wordt gebruikt voor het verkorten van URL's.
+shorter.nex.2=Subdomeinen (* .nex.li) zijn mogelijk niet in ons bezit. We vertegenwoordigen of garanderen geen inhoud die op subdomeinen is geplaatst.
+
+> Tmp Note
+tmpnote.title=Versleutelde tijdelijke nota's
+tmpnote.description=Met Netdex Tmp Note kun je berichten schrijven en code delen, zonder dat je bang hoeft te zijn dat derden het kunnen lezen.
+tmpnote.formatting=Formatteren
+tmpnote.formatting.plain=Platte tekst
+tmpnote.deleteonview=Verwijderen na weergave
+tmpnote.create=Maak een Tmp-notitie
+tmpnote.toobig=Uw tekst overtreft onze huidige limiet. Neem contact met ons op als u het limiet te laag vindt.
+tmpnote.expiry=Uw Tmp-notitie moet verlopen in minder dan of exact %max% en moet ten minste bestaan voor %min%.
+tmpnote.created=Tmp-notitie gemaakt.
+tmpnote.created.1=Uw Tmp-notitie is gecodeerd en op een gecodeerde manier geüpload. Alleen met de sleutel (achter de #) is het mogelijk om te decoderen en te lezen.
+tmpnote.unknown=De Tmp-notitie die u probeerde te openen, is ons onbekend. (Al verlopen?)
+tmpnote.nokey=Het lijkt erop dat je een Tmp-notitie hebt geopend zonder de sleutel te kennen. Ververs deze pagina als je de sleutel wel hebt.
+tmpnote.key=Wat is de sleutel om deze Tmp-notitie te decoderen?
+tmpnote.key.wrong=De sleutel die u hebt ingevoerd, is onjuist.
+tmpnote.fork=Bewerk deze Tmp-notitie
+tmpnote.deleted=Omdat je deze Tmp-notitie hebt bekeken, hebben we deze verwijderd.
+
+> Netdex Screenshot
+screenshot=Download Netdex Screenshot
+screenshot.1=Netdex Screenshot is een moderne Screenshot Tool die is gebouwd om u te helpen bij het maken van de perfecte screenshot zodra u op [PrntScreen] drukt.
+screenshot.changelog=Changelog
+image.drop=Sleep hier je afbeelding!
+image.drop.files=Laat JOUW (ALLEEN 1) afbeelding vallen!
+image.drop.imgs=Zet je IMAGE neer!
+image.drop.uploading=Uploaden...
+image.drop.fail=Upload mislukt.
+image.drop.done=Klaar
+
+> Hosts
+hosts=Collective Hosts-bestand
+hosts.desc=Het Collective Hosts File Project streeft ernaar om zoveel mogelijk spam, malware, phishing-domeinen te verzamelen die al geregistreerd moeten zijn.
+hosts.sources=Instructies voor domeinbronnen, uitsluitingen en crawler
+hosts.flavour=Smaak
+hosts.flavour.d=Alleen domeinen
+hosts.pihole=Installeer in Pi Hole met:
+hosts.search=Is %% geblokkeerd?
+hosts.search.yes=Ja, door %%.
+
+> OffGames.io
+offgames.title=OffGames: Steam Aanbieding Meta-Search
+offgames.desc=OffGames zoekt naar aanbiedingen op verschillende Steam Key Marketplaces en verkopers en laat u de laagste prijs zien.
+offgames.group=Steam Groep
+offgames.introduction=Hey! Weet jij wat OffGames is?
+offgames.about=Over OffGames
+offgames.about.link=http://steamcommunity.com/groups/offgames_io/discussions/0/1291817208507374177/
+offgames.tool=Zoektoolkit
+offgames.tool.order=Bestel
+offgames.tool.order.best=Best aanbieding
+offgames.tool.order.cheapest=Goedkoopste
+offgames.tool.order.percent=Meest gereduceerd
+offgames.tool.order.ratings=Best beoordeelde
+offgames.tool.order.desc=eerste
+offgames.tool.order.asc=laatste
+offgames.tool.search=Zoek
+offgames.tool.search.placeholder=Typ de naam van een spel...
+offgames.tool.search.note=Tip: De spellen worden "Grand Theft Auto" en "Counter-Strike: Global Offensive" genoemd, niet "GTA" of "CS: GO"
+offgames.tool.search.none=Niets gevonden dat overeenkomt met uw inbreng.
+offgames.tool.search.none.1=Wilt u
+offgames.tool.search.none.2=een melding krijgen
+offgames.tool.search.none.3=wanneer deze game in de uitverkoop gaat?
+offgames.tool.range=Prijsbereik:
+offgames.tool.show.orgprice=Originele prijs bekijken
+offgames.tool.show.percent=Percentage tonen
+offgames.tool.currency=Valuta
+offgames.tool.os=Besturingssysteem
+offgames.tool.os.any=Elke
+offgames.tool.vr=VR-Ondersteuning
+offgames.tool.vr.any=Elke
+offgames.tool.vr.none=Geen
+offgames.tool.reset=Reset voorkeuren
+offgames.games=Alle spellen die overeenkomen met uw voorkeuren
+offgames.steam=Bekijk op steam
+offgames.code=%store% Codes
+offgames.code.off=Bespaar %% als u deze code(s) gebruikt:
+offgames.code.cashback=Krijg %% cashback als u deze code(s) gebruikt:
+offgames.share=Bekijk deze aanbiedingen voor %game%:
+offgames.offer.title.none=%game% (0 aanbiedingen)
+offgames.offer.title.one=Bespaar tot %discount% op %game% (1 aanbieding)
+offgames.offer.title.beyond=Bespaar tot %discount% op %game% (%offers% aanbiedingen)
+offgames.offer.description.one=Je kan %game% krijgen voor %price%!
+offgames.offer.description.beyond=We weten dat %game% %offers% keer word aangeboden, met dezelfde prijs van %price% .
+offgames.offer.hasgame=Je hebt deze game al in bezit.
+offgames.offer.orgprice=Prijs
+offgames.offer.rating=Ratings
+offgames.offer.ratings=%1%% van de %2% reviews zijn positief.
+offgames.offer.store=Winkel
+offgames.offer.price=Prijs
+offgames.offer.oses=Besturingssystemen
+offgames.offer.offers=Je kan tot %discount% op %game% besparen in de volgende winkels.
+offgames.offer.gone=Het lijkt erop dat je deze titel momenteel niet kunt kopen voor een lagere prijs.
+offgames.extension.1=Wilt u direct op Steam geïnformeerd worden over aanbiedingen?
+offgames.extension.2=Probeer onze browserextensie
+offgames.reflink=Uw verwijslink
+offgames.reflink.info=Uw verwijs naam is %ref% - Je kan toevoegen %query% op elke OffGames.io-URL!
+offgames.reflink.clicks=Verwijzingen via uw link
+offgames.notifications=U staat op het punt om ons toestemming te geven om meldingen te tonen. Deze meldingen laten echter alleen kortingscodes zien voor de site die u gaat bezoeken. Als u de toestemming weigert, ontvangt u de kortingscodes in een bericht als dit.
+offgames.account=Mijn account
+offgames.account.login=Login met Steam
+offgames.account.login.why=Wilt u dat we games die u al bezit uitsluiten?
+offgames.account.login.private=Uw Steam-profiel is niet openbaar. Verander dat alstublieft.
+offgames.account.loggedin=Hallo %user%, we laten deze spellen niet meer zien %games%.
+offgames.account.private=Privé gegevens
+offgames.account.private.1=Deze gegevens zijn niet zichtbaar in uw openbare profiel.
+offgames.account.addmail=Voeg uw e-mailadres toe
+offgames.account.games=Mijn spellen
+offgames.account.games.1=We weten over %games% spellen dat je bezit.
+offgames.account.games.refresh=Ververs
+offgames.account.games.refreshed=We weten over %games% spellen dat je bezit.
+offgames.notify.mail=%game% is nu in de aanbieding!
+offgames.notify.mail.1=U kunt %game% voor slechts %eur%€ inplaats van %org%€ (U bespaart %per%%!)
+offgames.notify.mail.2=Vanaf nu ontvang je geen meldingen meer over aanbiedingen voor %game%.
+
+> Congratulations! You have translated all the public parts of Netdex.
+> The following is for future projects which might not be done after all, so you don't have to translate it.
+
+> Poll
+poll=Polls
+poll.title=Maak en Stem op Polls
+poll.create=Maak een Poll
+
+> Copyright (c) 2016 - 2018, the Netdex Translation Team - https://netdex.co/credits
+> This is licensed under The Unlicense - https://github.com/netdexco/Translations/blob/master/LICENSE

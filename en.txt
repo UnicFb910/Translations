@@ -138,10 +138,7 @@ credits.translations=Translations
 credits.translations.note=Fun Fact: This very text is translated too.
 credits.translations.help=Help Translate
 lang.de=German
-lang.fr=French
-lang.es=Spanish
-lang.pl=Polish
-lang.ru=Russian
+lang.nl=Dutch
 
 > Authorization Flows
 logreg=Authorization
@@ -460,14 +457,6 @@ offgames.account.games.refreshed=We now know about %games% games you own.
 offgames.notify.mail=%game% is on sale now!
 offgames.notify.mail.1=You can get %game% for only %eur%€ instead of %org%€ (You save %per%%!)
 offgames.notify.mail.2=From now on you will no longer be notified about offers for %game%.
-
-> Congratulations! You have translated all the public parts of Netdex.
-> The following is for future projects which might not be done after all, so you don't have to translate it.
-
-> Poll
-poll=Polls
-poll.title=Create and Vote on Polls
-poll.create=Create Poll
 
 > Copyright (c) 2016 - 2018, the Netdex Translation Team - https://netdex.co/credits
 > This is licensed under The Unlicense - https://github.com/netdexco/Translations/blob/master/LICENSE

@@ -10,42 +10,14 @@
         ],
         "translated": 100
     },
-    "fr": {
-        "english": "French",
-        "native": "Fran\u00e7ais",
+    "nl": {
+        "english": "Dutch",
+        "native": "Nederlands",
         "translators": [
             {
-                "name": "Alexandre \"Storm\" S."
+                "name": "\"ThimoPlays\""
             }
         ],
-        "translated": 23.6
-    },
-    "es": {
-        "english": "Spanish",
-        "native": "Espa\u00f1ol",
-        "translators": [
-            {
-                "name": "Daniel \"HerrMotz\" Motz",
-                "path": "HerrMotz"
-            }
-        ],
-        "translated": 10.8
-    },
-    "pl": {
-        "english": "Polish",
-        "native": "Polskie",
-        "translators": [],
-        "translated": 4.5
-    },
-    "ru": {
-        "english": "Russian",
-        "native": "P\u0443\u0441\u0441\u043a\u0438\u0439",
-        "translators": [
-            {
-                "name": "Viktor \"Vake\" Peter",
-                "path": "Vake"
-            }
-        ],
-        "translated": 4.5
+        "translated": 100
     }
 }

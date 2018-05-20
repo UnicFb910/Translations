@@ -8,7 +8,7 @@ retry=Probeer opnieuw
 cancel=Annuleer
 reload=Herladen
 unknown=Onbekend
-close=Je kan dit nu sluiten.
+close=Sluit
 contact=Contact
 contact.link=Heb je vragen?
 continue=Verder
@@ -138,10 +138,6 @@ credits.translations=Vertalingen
 credits.translations.note=Leuk feit: deze tekst is ook vertaald.
 credits.translations.help=Help vertalen
 lang.de=German
-lang.fr=French
-lang.es=Spanish
-lang.pl=Polish
-lang.ru=Russian
 lang.nl=Nederlands
 
 > Authorization Flows
@@ -461,14 +457,6 @@ offgames.account.games.refreshed=We weten over %games% spellen dat je bezit.
 offgames.notify.mail=%game% is nu in de aanbieding!
 offgames.notify.mail.1=U kunt %game% voor slechts %eur%€ inplaats van %org%€ (U bespaart %per%%!)
 offgames.notify.mail.2=Vanaf nu ontvang je geen meldingen meer over aanbiedingen voor %game%.
-
-> Congratulations! You have translated all the public parts of Netdex.
-> The following is for future projects which might not be done after all, so you don't have to translate it.
-
-> Poll
-poll=Polls
-poll.title=Maak en Stem op Polls
-poll.create=Maak een Poll
 
 > Copyright (c) 2016 - 2018, the Netdex Translation Team - https://netdex.co/credits
 > This is licensed under The Unlicense - https://github.com/netdexco/Translations/blob/master/LICENSE

@@ -59,7 +59,6 @@ js="Du hast Javascript deaktiviert. Dein Internet endet hier."
 js.author=Ein Freund
 newtab=Bitte öffne Netdex in einem neuen Tab.
 alert.mail=Wir empfehlen, dass du eine Email-Adresse in deinem Account hinterlegst, um deine Account-Sicherheit zu erhöhen und Passwortzurücksetzung zu erlauben.
-alert.2fa.wallet=Dein Account ist nun ziemlich wertvoll. Wir empfehlen dir 2FA zu aktivieren.
 notification=Gelangweilt von diesen Meldungen? Sehe moderne und eingeblendete Meldungen durch das Erlauben.
 needmail=Wir brauchen deine E-Mail.
 loading.1=Die Kommunikation mit der Basis scheint etwas länger als üblich zu dauern. Habe bitte Geduld.
@@ -73,10 +72,6 @@ copy.ok=Link erfolgreich kopiert.
 copy.click=Klicken zum Kopieren.
 clearcache=Leere deinen Cache!
 clearcache.1=Du hast nur zum Teil eine neue Version dieser Webseite, hard-reloade (Strg+F5) oder leere deinen Cache!
-
-> Accessability
-aria.navbar=Navigation
-aria.main=Haupt-Inhalt
 
 > Home
 home.what=Was sind wir?
@@ -95,8 +90,6 @@ introduction.card=Deine Karte. Deine Regeln.
 introduction.card.1=Ändere deine Profil-Karte damit Leute direkt wissen, wer du bist, wo du bist und wie sie dich erreichen können.
 introduction.mail=Dein Posteingang. Unsere Domains.
 introduction.mail.1=Als Teil unserer Email Services, geben wir dir viele Email-Adressen, welche alle eingehenden Emails sicher an deine Account-Email-Adresse weiterleiten.
-introduction.apps=Für Entwickler: Eine Integration. Viele Features.
-introduction.apps.1=Netdex integrieren ist leicht, dennoch sicher, und gibt dir viele machtvolle Features. Du gibst dem Nutzer einfach den Authorisierungs-Link und wir erledigen den Rest. Du kannst sogar verlangen, dass der Nutzer eine Email-Adresse verknüpft haben muss.
 
 > Weather
 weather=Wetter
@@ -145,10 +138,7 @@ credits.translations=Übersetzungen
 credits.translations.note=Witziger Fakt: Dieser Text wurde auch übersetzt.
 credits.translations.help=Übersetze Netdex
 lang.de=Deutsch
-lang.fr=Französisch
-lang.es=Spanisch
-lang.pl=Polnisch
-lang.ru=Russisch
+lang.nl=Niederländisch
 
 > Authorization Flows
 logreg=Anmeldung
@@ -217,6 +207,7 @@ options.save.cloud=In der Cloud speichern
 options.saving=Speichern
 options.saved=Gespeichert
 options.change=Ändern
+options.dname=Ändere deinen Anzeigenamen
 label.edit=Beschriftung bearbeiten
 label.no=Keine Beschriftung
 options.add=Füge einen Account zu deiner Karte hinzu
@@ -233,10 +224,6 @@ options.mailasname=Nutze Email zum Login
 options.mailasname.tooltip=Wenn aktiv musst du beim Login deine Email anstelle deines Nicknames verwenden.
 options.pass=Passwort
 options.pass.change=Passwort ändern
-options.apps=Berechtigte Applikationen
-options.apps.none=Alles gut, keine App hat Rechte zu deinem Account.
-options.apps.permissions=Die App hat folgende Rechte:
-options.apps.remove=App entfernen
 options.advanced=Erweitere Optionen
 options.email=Deine Email-Addresse
 options.email.inuse=Diese Email wird bereits von einem anderen Nutzer verwendet
@@ -272,8 +259,6 @@ help.account.team.3=Team Administratoren kann die Berechtigungen der Mitglieder 
 help.account.team.4=Team Accounts können passwortlos sein.
 help.account.perms=Was für Berechtigungen gibt es?
 help.account.perms.1=Hier ist eine Liste alle Berechtigungen für Team-Mitglieder und/oder Applikationen.
-help.account.perms.documentation=Dokumentation
-help.account.perms.description=Beschreibung
 help.general=General
 help.general.formatting=Wie formatiere ich hier Text?
 help.general.formatting.1=Hier ist eine Tabelle von was du eingeben kannst und wie es aussehen wird.
@@ -344,80 +329,6 @@ mail.needmail=Um die Email Services nutzen zu können, brauchen wir deine Email.
 
 > Teams
 teams=Teams
-
-> Applications
-apps=Applikationen
-apps.title=Deine Netdex Applikationen
-apps.link=Verwalte deine Netdex Applikationen
-apps.desc=Erstelle neue Netdex Applikationen und verwalte deine existierenden Netdex Applikationen. Lass uns die harte Arbeit eines guten Logins übernehmen und kümmer dich um den tatsächlichen Service.
-apps.auth=Applikationsanmeldung
-apps.auth.title=Mit Netdex anmelden
-apps.auth.login=Um dich mit dieser App anzumelden, musst du dich erst anmelden oder registrieren.
-apps.auth.unknown=Die App mit der du dich anmelden wolltest, ist uns nicht bekannt.
-apps.auth.mailrequired=E-Mail benötigt
-apps.auth.mailrequired.1=Diese App möchte, dass du eine Email zu deinem Account hinzufügst.
-apps.auth.mailrequired.2=Ich garantiere dir, es ist super leicht, schnell und schmerzlos.
-apps.auth.mailrequired.go=Na gut, bringen wir es hinter uns.
-apps.auth.perms=Verlangte Rechte
-apps.auth.perms.sub1=Die Applikation
-apps.auth.perms.sub2=möchte folgenes können:
-apps.auth.perms.sub3=möchte keine Rechte.
-apps.auth.perms.unknown=Unbekannte Kategorie
-apps.auth.perms.read=Aus deinem Account lesen:
-apps.auth.perms.read.profile=Dein öffentliches Profil
-apps.auth.perms.read.dname=Dein Anzeigename
-apps.auth.perms.read.mail=Deine Email-Adresse
-apps.auth.perms.read.granted_apps=Von dir authorisierte Apps
-apps.auth.perms.manage=Deinen Account verwalten:
-apps.auth.perms.manage.dname=Deinen Anzeigenamen ändern
-apps.auth.perms.manage.bio=Deine Bio ändern
-apps.auth.perms.manage.pic=Dein Profilbild ändern
-apps.auth.perms.manage.granted_apps.revoke=Apps Berechtigungen zu deinem Account entziehenm
-apps.auth.perms.cant=Diese App kann NICHT:
-apps.auth.perms.cant.0=Dein Passwort lesen
-apps.auth.perms.cant.1=Dir eine Bedgeschichte vorlesen
-apps.auth.perms.cant.2=Das Ding™ mit Dem Ding™ tun
-apps.auth.perms.cant.3=Dein heißes neues Mixtape anhören
-apps.auth.perms.cant.4=Dich zum Abendessen einladen
-apps.auth.account=Du bist eingeloggt als
-apps.auth.owner=Diese Applikation gehört
-apps.auth.allow=Der Anwendung diese Rechte geben?
-apps.auth.redirect=Du wirst weiter geleitet
-apps.none=Du hast noch keine App.
-apps.none.1=Netdex Apps erlauben dir sicher einen Login zu integrieren.
-apps.none.2=Du kannst ein wenig
-apps.none.3=in unserem Hilfecenter lesen
-apps.none.4=ob eine Netdex App was für dich ist.
-apps.manage.needmail=Aus Sicherheitsgründen brauchen wir deine E-Mail, bevor du eine Applikation erstellen kannst.
-apps.manage.id=App ID
-apps.manage.name=Name
-apps.manage.actions=Aktionen
-apps.manage.website=Website
-apps.manage.website.info=(Optional) Eine Webseite die erklärt, was deine App ist.
-apps.manage.callbacks=Rückruf URLs:
-apps.manage.callbacks.granted=Wenn der Nutzer der App Rechte gibt
-apps.manage.callbacks.revoked=(Optional) Wenn der Nutzer der App Rechte entzieht
-apps.manage.requiremail=Nutzer müssen eine Email mit ihrem Account verknüpft haben.
-apps.manage.integrate=Integrieren
-apps.add=Füg (noch) eine hinzu!
-apps.add.ok=Applikation erstellt.
-apps.add.urls=URLs müssen mit https:// beginnen.
-apps.add.limit=Du kannst nur bis zu 5 Apps erstellen.
-apps.integrate=Integriere App #
-apps.integrate.1=Zuallerst
-apps.integrate.2=hol dir das Beispiel
-apps.integrate.3=und ändere die Konfiguration in Netdex.class.php zu:
-apps.integrate.4=Stell Sie dir die
-apps.integrate.5=zu laden, damit es geht!
-apps.integrate.6=Am wichtigstem: Verstehe das Bespiel und meistere es!
-apps.edit=Bearbeite App #
-apps.edit.submit=Bearbeiten
-apps.edit.perms=Das ändern der Rechte, wird alle Nutzer-Keys ungültig machen.
-apps.edit.requiremail=Keys von existierenden Nutzern ohne Email bleiben gültig.
-apps.edit.ok=Applikation bearbeitet.
-apps.edit.error=Beim Speichern der Änderungen ist ein Fehler aufgetreten.
-apps.delete=Applikation löschen
-apps.delete.sure=Bist du sicher, dass du die Applikation löschen willst?
 
 > Shortener
 shorter=Linkkürzer
@@ -546,38 +457,6 @@ offgames.account.games.refreshed=Wir kennen nun %games% Spiele, die du besitzt.
 offgames.notify.mail=%game% ist jetzt reduziert!
 offgames.notify.mail.1=Du kannst %game% für nur %eur%€, anstelle von %org%€ bekommen. (Du sparst %per%%!)
 offgames.notify.mail.2=Du wirst nun nicht mehr über Angebote zu %game% informiert.
-
-> Congratulations! You have translated all the public parts of Netdex.
-> The following is for future projects which might not be done after all, so you don't have to translate it.
-
-> Wallet
-wallet.title=Dein digitaler Geldbeutel
-wallet.fees=Gebühren
-wallet.euros=Euros
-wallet.balance=Dein Guthaben
-wallet.send=Guthaben Senden
-wallet.exchange=Geld Umwandeln
-wallet.topup=Guthaben Aufladen
-wallet.topup.done=Dein Guthaben wird gleich da sein.
-wallet.topup.done.1=Das sollte nur ein paar Sekunden dauern, kann aber auch ein paar Minuten sein.
-wallet.topup.fail=Guthaben Aufladen abgebrochen.
-wallet.topup.fail.1=Du wurdest nicht belastet und hast kein Guthaben erhalten.
-wallet.topup.paypal=Zahle per PayPal-Guthaben oder Kreditkarte.
-wallet.topup.paypal.1=Dank PayPal Gebühren gibt dir das nur %euro%.
-wallet.topup.paysafecard=Zahle per Echtgeld oder my paysafecard Guthaben.
-wallet.topup.paysafecard.initerror=Die Transaktion konnte nicht erstellt werden. Falls das Problem besteht, kontaktiere uns bitte.
-wallet.topup.warn=DU KANNST DEIN GELD NOCH NICHT AUSZAHLEN.
-wallet.withdraw=Geld Auszahlen
-wallet.transactions=Transaktionen
-wallet.transactions.first=Hier werden deine Transaktionen angezeigt.
-wallet.transactions.topup=Diese Transaktion wurde von System erstellt weil du erfolgreich Geld aufgeladen hast.
-wallet.transactions.withdraw=Diese Transaktion wurde vom System erstellt weil du erfolgreich Geld ausgezahlt hast.
-wallet.transactions.system=Diese Transaktion wurde vom System erstellt.
-
-> Poll
-poll=Umfragen
-poll.title=Erstelle und nehme teil an Umfragen
-poll.create=Umfrage erstellen
 
 > Copyright (c) 2016 - 2018, the Netdex Translation Team - https://netdex.co/credits
 > This is licensed under The Unlicense - https://github.com/netdexco/Translations/blob/master/LICENSE

@@ -108,9 +108,6 @@ sitemap.accounts=Vorgestellte Accounts
 
 > Legal
 legal=Legales
-agreement=Vereinbarung
-agreement.1=Durch der Verwendung von Netdex und dessen Services akzeptierst du die untere Vereibarung ("Netdex User Agreement").
-agreement.agree=Ich stimme zu.
 privacy=Datenschutzerklärung
 imprint=Impressum
 branding=Branding

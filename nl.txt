@@ -108,9 +108,6 @@ sitemap.accounts=Uitgelichte accounts
 
 > Legal
 legal=Wettelijke
-agreement=Overeenkomst
-agreement.1=Door gebruik te maken van Netdex en zijn diensten gaat u akkoord met de onderstaande overeenkomst.
-agreement.agree=Ik accepteer.
 privacy=Privacyverklaring
 imprint=Afdruk
 branding=Branding

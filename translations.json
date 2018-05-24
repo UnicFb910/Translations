@@ -15,7 +15,8 @@
         "native": "Nederlands",
         "translators": [
             {
-                "name": "\"ThimoPlays\""
+                "name": "\"ThimoPlays\"",
+                "path": "ThimoPlays"
             }
         ],
         "translated": 100

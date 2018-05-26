@@ -141,9 +141,9 @@ lang.nl=Niederländisch
 logreg=Anmeldung
 logreg.browser=Es tut uns Leid, aber dein Browser ist zu alt für unser Account-System.
 logreg.1=Hast du einen Netdex-Account?
+# logreg.name=What's your Nickname? 
 logout=Ausloggen
 logout.emergency=Möchtest du aus jedem Gerät abgemeldet werden?
-logout.team=Du wirst wieder in deinen vorherigen Account angemeldet.
 loggingout=Du wirst abgemeldet...
 login=Einloggen
 login.2fa=2FA-Code
@@ -188,12 +188,6 @@ pwreset.1=Gebe ein neues Passwort für deinen Account ein %name%.
 pwreset.2=Tipp: Nutze einen Passwort-Manager.
 pwreset.input=Dein neues Passwort
 pwreset.submit=Ändere mein Passwort
-elevate=Privilegieren
-elevate.title=Erhöhe deine Berechtigungen
-elevate.1=Du bist dabei kurzzeitig komplette Kontrolle über diesen Account zu erhalten.
-elevate.duration=Du wirst priviligiert sein für
-elevate.nomail=Weil du keine Email-Addresse mit deinem Account verknüpft hast, kannst du dich ohne Bestätigung priviligieren.
-elevate.pass=Zum priviligieren, gebe dein Passwort ein:
 
 > Options
 options=Optionen
@@ -245,18 +239,9 @@ options.2fa.removed=2FA wurde erfolgreich von deinem Netdex Account entfernt.
 > Help
 help=Hilfezentrum
 help.link=Brauchst du Hilfe?
-help.seealso=Siehe auch:
 help.login.real=Wie stell ich sicher, dass es das echte Netdex ist?
 help.login.real.1=Stell sicher, dass die URL von einem grünen Schloss beglitten wird, da wir nur HTTPS servieren.
 help.login.real.2=Wenn du dir unsicher bist, schreib die URL selber: [Inter]Net [In]dex PUNKT CO, ohne M.
-help.account.team=Was ist ein Team Account?
-help.account.team.1=Ein Team Account ist wie ein normaler Nutzer Account, jedoch gibt es einige Unterschiede:
-help.account.team.2=Team-Mitglieder können sich via deren Account in den Team Account anmelden.
-help.account.team.3=Team Administratoren kann die Berechtigungen der Mitglieder beschränken.
-help.account.team.4=Team Accounts können passwortlos sein.
-help.account.perms=Was für Berechtigungen gibt es?
-help.account.perms.1=Hier ist eine Liste alle Berechtigungen für Team-Mitglieder und/oder Applikationen.
-help.general=General
 help.general.formatting=Wie formatiere ich hier Text?
 help.general.formatting.1=Hier ist eine Tabelle von was du eingeben kannst und wie es aussehen wird.
 help.general.formatting.2=Was du eingibst
@@ -283,14 +268,12 @@ account=Account
 profile=Profil
 profile.link=Schau dir das Profil von %name% an
 profile.title=%% auf Netdex
-profile.desc=Schau dir %%s geile Profil-Karte auf Netdex an. Sie beinhaltet Text, Links und das andere tolle Zeug. Außerdem ist deine Familie da unten; hätte ich früher erwähnen sollen.
+profile.desc=Personen- und Kontaktinformationen zu %% finden Sie auf diesem Netdex-Profil.
 profile.bio.default=Dies könnte eine Bio sein. Es ist noch keine, aber es könnte eine sein!
 profile.info=Möchtest du auch eine Karte auf Netdex?
 profile.badges.real=Das ist, wer sie zu sein behaupten.
 profile.badges.patron=Spender / Patrone
 profile.badges.translator=Übersetzer
-profile.badges.netdex=Teil des Netdex-Teams
-profile.badges.team=Team Account
 profile.downloadqr=QR Code herunterladen
 profile.vcard.download=vCard herunterladen
 profile.vcard.downloadqr=vCard QR Code herunterladen
@@ -323,9 +306,6 @@ mail.spam.2=Spam Email- & IP-Liste
 mail.spam.3=.
 mail.spam.4=Trotzdem Spam bekommen? Dann bitte weiterleiten:
 mail.needmail=Um die Email Services nutzen zu können, brauchen wir deine Email. Bitte setze diese in den
-
-> Teams
-teams=Teams
 
 > Shortener
 shorter=Linkkürzer

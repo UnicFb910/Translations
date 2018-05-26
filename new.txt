@@ -107,6 +107,7 @@
 # sitemap.accounts=Featured Accounts
 
 > Legal
+# legal=Legal
 # privacy=Privacy Policy
 # imprint=Imprint
 # branding=Branding
@@ -140,9 +141,9 @@
 # logreg=Authorization
 # logreg.browser=We're sorry, but your browser is too old for our account system. Consider upgrading.
 # logreg.1=Do you have a Netdex account?
+# logreg.name=What's your Nickname? 
 # logout=Logout
 # logout.emergency=Do you want to be logged out of this account on every device?
-# logout.team=You will be logged back into your previous account.
 # loggingout=You are being logged out...
 # login=Login
 # login.2fa=2FA Code
@@ -187,12 +188,6 @@
 # pwreset.2=Pro-Tip: Use a password manager.
 # pwreset.input=Your new password
 # pwreset.submit=Change my password
-# elevate=Elevate
-# elevate.title=Elevate your Permissions
-# elevate.1=You're about to temporarily gain total control over this account.
-# elevate.duration=You're going to be elevated for
-# elevate.nomail=Because you don't have an email linked to your account, so you can elevate without any verification.
-# elevate.pass=To elevate, enter your password:
 
 > Options
 # options=Options
@@ -244,18 +239,9 @@
 > Help
 # help=Help Center
 # help.link=Need help?
-# help.seealso=See Also:
 # help.login.real=How to make sure this is the real Netdex?
 # help.login.real.1=Check the URL for the green lock, because we only serve content over HTTPS.
 # help.login.real.2=If you're unsure, write the URL yourself: [Inter]Net [In]dex DOT CO, without M.
-# help.account.team=What is a team account?
-# help.account.team.1=A team account is just like a normal account, however, there are some differences:
-# help.account.team.2=Team members can login to the team account via their account.
-# help.account.team.3=Team admins can limit the permissions its members have.
-# help.account.team.4=Team accounts may not have a password.
-# help.account.perms=What permissions are there?
-# help.account.perms.1=Here's a list of all permissions you can give your team members.
-# help.general=General
 # help.general.formatting=How do I format text here?
 # help.general.formatting.1=Here's a table of what you have to type and what it will look like.
 # help.general.formatting.2=What you type
@@ -282,14 +268,12 @@
 # profile=Profile
 # profile.link=View the profile of %name%
 # profile.title=%% on Netdex
-# profile.desc=Look at %%'s awesome Profile Card on Netdex. It includes text, links and all of that great stuff. Also, your family is down there; Should have mentioned that earlier.
+# profile.desc=%%'s Netdex profile has information on who they are and how you can contact them.
 # profile.bio.default=This could be a bio. It isn't yet, but it could be!
 # profile.info=Do you also want to have a card on Netdex?
 # profile.badges.real=This is who they claim to be.
 # profile.badges.patron=Donator / Patron
 # profile.badges.translator=Translator
-# profile.badges.netdex=Part of the Netdex Team
-# profile.badges.team=Team Account
 # profile.downloadqr=Download QR Code
 # profile.vcard.download=Download vCard
 # profile.vcard.downloadqr=Download vCard QR Code
@@ -322,9 +306,6 @@
 # mail.spam.3=.
 # mail.spam.4=Got spam anyways? Forward it to:
 # mail.needmail=To use the Netdex Email Services we need to know your email. Please set your email in the
-
-> Teams
-# teams=Teams
 
 > Shortener
 # shorter=Shortener

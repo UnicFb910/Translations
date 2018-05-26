@@ -1,24 +1,8 @@
 {
     "de": {
-        "english": "German",
-        "native": "Deutsch",
-        "translators": [
-            {
-                "name": "Tim \"timmyRS\" Speckhals",
-                "path": "Tim"
-            }
-        ],
-        "translated": 100
+        "translated": 99.7
     },
     "nl": {
-        "english": "Dutch",
-        "native": "Nederlands",
-        "translators": [
-            {
-                "name": "\"ThimoPlays\"",
-                "path": "ThimoPlays"
-            }
-        ],
-        "translated": 100
+        "translated": 99.5
     }
 }

@@ -73,7 +73,13 @@ copy.click=Klik om te kopieeren.
 clearcache=Leeg je cache!
 clearcache.1=Je hebt maar voor een gedeelte de nieuwe website, druk (Ctrl+F5) of leeg je cache!
 
-> Home
+> Legal
+legal=Wettelijke
+privacy=Privacyverklaring
+imprint=Afdruk
+branding=Branding
+
+> Netdex Home
 home.what=Wat zijn wij?
 home.what.1=Met Netdex kunt u uw eigen kaart maken om al uw profielen en websites op één plek te presenteren - met ingebouwde koppelingsverkorting en anonieme e-mailproxing.
 home.clock=Klok
@@ -83,7 +89,7 @@ home.search.input=Voer een vraag of trefwoorden in.
 home.link=Home
 home.social=Social Media
 
-> Introduction
+> Netdex Introduction
 introduction=Introductie
 introduction.headline=Wat Netdex voor u kan doen
 introduction.card=Uw kaart. Uw regels.
@@ -91,39 +97,19 @@ introduction.card.1=Customize your profile card so people instantly know who you
 introduction.mail=Uw inbox. Onze domeinen.
 introduction.mail.1=Als onderdeel van onze e-mailservices bieden we u vele e-mailadressen, die allemaal veilige binnenkomende e-mails doorzenden naar het e-mailadres van uw account.
 
-> Weather
-weather=Weer
-weather.location=Verander locatie
-weather.location.input=Voer je locatie in. Dit word alleen op het apparaat opgeslagen.
-weather.now=Het huidige weer.
-weather.day=Weer samenvatting voor vandaag.
-weather.week=Weer samenvatting voor de week.
-weather.hourlyforecasts=Weersverwachting voor de volgende uren.
-weather.dailyforecasts=Weersverwachting voor de volgende dagen.
-
-> Sitemap
+> Netdex Sitemap
 sitemap=Sitemap
 sitemap.services=Services
 sitemap.accounts=Uitgelichte accounts
 
-> Legal
-legal=Wettelijke
-privacy=Privacyverklaring
-imprint=Afdruk
-branding=Branding
-
-> Ban
+> Netdex Ban
 banned=De ban hamer heeft gesproken!
 banned.1=U bent
 banned.2=verbannen
 banned.3=van Netdex tot
 banned.4=voor
 
-> Achievements
-achievements=Prestaties
-achievements.level=Jou level
-
-> Credits
+> Netdex Credits
 credits=Credits
 credits.resources=Middelen
 credits.team=Team
@@ -137,7 +123,7 @@ credits.translations.help=Help vertalen
 lang.de=German
 lang.nl=Nederlands
 
-> Authorization Flows
+> Netdex Authorization Flows
 logreg=Machtiging
 logreg.browser=Het spijt ons, maar uw browser is te oud voor ons accountsysteem. Overweeg een upgrade.
 logreg.1=Heeft u een Netdex-account??
@@ -189,7 +175,7 @@ pwreset.2=Pro-Tip: Gebruik een wachtwoordbeheerder.
 pwreset.input=Uw nieuwe wachtwoord
 pwreset.submit=Verander mijn wachtwoord
 
-> Options
+> Netdex Options
 options=Opties
 options.desc=Beveilig en pas uw account naar wens aan.
 options.save=Opslaan
@@ -236,7 +222,7 @@ options.2fa.remove.code=Om 2FA te verwijderen, voert u voor de laatste keer uw 2
 options.2fa.remove.sure=Weet je zeker dat je 2FA van je Netdex-account wilt verwijderen %%?
 options.2fa.removed=2FA succesvol verwijderd van Netdex Account.
 
-> Help
+> Netdex Help Center
 help=Helpcentrum
 help.link=Hulp nodig?
 help.login.real=Hoe weet ik zeker dat dit de echte Netdex is?
@@ -259,7 +245,7 @@ help.general.contact.mail=U kunt via e-mail contact met ons opnemen:
 help.general.contact.note=We beantwoorden binnen 24 uur.
 help.categories=Categorieën
 
-> Profiles
+> Netdex Profiles
 search=Zoek
 search.input=Zoek voor Netdex gebruikers.
 search.results=Zoek resultaten
@@ -278,7 +264,7 @@ profile.downloadqr=Download QR Code
 profile.vcard.download=Download vCard
 profile.vcard.downloadqr=Download vCard QR Code
 
-> Email Services
+> Netdex Email Services
 mail=E-mailservices
 mail.description=Met Netdex kun e-mails ontvangen die volledig anoniem zijn.
 mail.why=Waarom Netdex e-mailservices?
@@ -307,7 +293,7 @@ mail.spam.3=.
 mail.spam.4=Heb je spam gekregen? Stuur het door naar:
 mail.needmail=Om de Netdex Email Services te gebruiken, moeten we uw e-mail kennen. Zet uw e-mailadres in de
 
-> Shortener
+> Nex.li Link Shortener
 shorter=Shortener
 shorter.title=Verkort je lange URLs
 shorter.description=Met behulp van de Netdex-shortener kunt u elke lange link nemen en deze veranderen in een korte nex.li-link om eenvoudig en snel te delen.
@@ -322,7 +308,7 @@ shorter.nex=Over Nex.li
 shorter.nex.1=Nex.li is ons domein dat wordt gebruikt voor het verkorten van URL's.
 shorter.nex.2=Subdomeinen (* .nex.li) zijn mogelijk niet in ons bezit. We vertegenwoordigen of garanderen geen inhoud die op subdomeinen is geplaatst.
 
-> Tmp Note
+> Netdex Tmp Note (This service still exists but it's hidden away and I'll kill it soon, so don't bother to translate.)
 tmpnote.title=Versleutelde tijdelijke nota's
 tmpnote.description=Met Netdex Tmp Note kun je berichten schrijven en code delen, zonder dat je bang hoeft te zijn dat derden het kunnen lezen.
 tmpnote.formatting=Formatteren
@@ -351,7 +337,7 @@ image.drop.uploading=Uploaden...
 image.drop.fail=Upload mislukt.
 image.drop.done=Klaar
 
-> Hosts
+> Netdex Collective Hosts File
 hosts=Collective Hosts-bestand
 hosts.desc=Het Collective Hosts File Project streeft ernaar om zoveel mogelijk spam, malware, phishing-domeinen te verzamelen die al geregistreerd moeten zijn.
 hosts.sources=Instructies voor domeinbronnen, uitsluitingen en crawler
@@ -361,7 +347,7 @@ hosts.pihole=Installeer in Pi Hole met:
 hosts.search=Is %% geblokkeerd?
 hosts.search.yes=Ja, door %%.
 
-> OffGames.io
+> OffGames
 offgames.title=OffGames: Steam Aanbieding Meta-Search
 offgames.desc=OffGames zoekt naar aanbiedingen op verschillende Steam Key Marketplaces en verkopers en laat u de laagste prijs zien.
 offgames.group=Steam Groep
@@ -435,5 +421,9 @@ offgames.notify.mail=%game% is nu in de aanbieding!
 offgames.notify.mail.1=Je kunt %game% voor slechts %eur%€ inplaats van %org%€ (Je bespaart %per%%!)
 offgames.notify.mail.2=Vanaf nu ontvang je geen meldingen meer over aanbiedingen voor %game%.
 
-> Copyright (c) 2016 - 2018, the Netdex Translation Team - https://netdex.co/credits
-> This is licensed under The Unlicense - https://github.com/netdexco/Translations/blob/master/LICENSE
+> Walentin
+# walentin.why=Why Walentin?
+
+> Copyright (c) 2016 - 2018, Hellsh Ltd.
+> Contributors: https://netdex.co/credits
+> This file is dedicated to the public domain. License: https://github.com/hellshltd/Translations/blob/master/LICENSE

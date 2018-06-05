@@ -73,7 +73,13 @@ copy.click=Klicken zum Kopieren.
 clearcache=Leere deinen Cache!
 clearcache.1=Du hast nur zum Teil eine neue Version dieser Webseite, hard-reloade (Strg+F5) oder leere deinen Cache!
 
-> Home
+> Legal
+legal=Legales
+privacy=Datenschutzerklärung
+imprint=Impressum
+branding=Branding
+
+> Netdex Home
 home.what=Was sind wir?
 home.what.1=Netdex ermöglicht dir deine eigene Karte zu erstellen, um alle deine Profile und Webseiten an einem Platz zu zeigen — mit einem eingebauten Link Kürzer und anonymer E-Mail Proxy.
 home.clock=Uhr
@@ -83,7 +89,7 @@ home.search.input=Stell eine Frage oder gebe Stichwörter ein
 home.link=Hauptseite
 home.social=Soziale Medien
 
-> Introduction
+> Netdex Introduction
 introduction=Einführung
 introduction.headline=Was Netdex für dich tun kann
 introduction.card=Deine Karte. Deine Regeln.
@@ -91,39 +97,19 @@ introduction.card.1=Ändere deine Profil-Karte damit Leute direkt wissen, wer du
 introduction.mail=Dein Posteingang. Unsere Domains.
 introduction.mail.1=Als Teil unserer Email Services, geben wir dir viele Email-Adressen, welche alle eingehenden Emails sicher an deine Account-Email-Adresse weiterleiten.
 
-> Weather
-weather=Wetter
-weather.location=Position ändern
-weather.location.input=Gib deine Position ein. Das wird nur auf diesem Gerät gespeichert.
-weather.now=Das aktuelle Wetter.
-weather.day=Wetter-Zusammenfassung für den Tag.
-weather.week=Wetter-Zusammenfassung für die Woche.
-weather.hourlyforecasts=Wetter-Vorhersagen für die folgenen Stunden.
-weather.dailyforecasts=Wetter-Vorhersagen für die folgenen Tage.
-
-> Sitemap
+> Netdex Sitemap
 sitemap=Unterseiten-Übersicht
 sitemap.services=Services
 sitemap.accounts=Vorgestellte Accounts
 
-> Legal
-legal=Legales
-privacy=Datenschutzerklärung
-imprint=Impressum
-branding=Branding
-
-> Ban
+> Netdex Ban
 banned=Du wurdest gebannt.
 banned.1=Du wurdest von Netdex
 banned.2=gebannt
 banned.3=bis zum
 banned.4=für
 
-> Achievements
-achievements=Errungenschaften
-achievements.level=Dein Level
-
-> Credits
+> Netdex Credits
 credits=Credits
 credits.resources=Resourcen
 credits.team=Team
@@ -137,11 +123,11 @@ credits.translations.help=Übersetze Netdex
 lang.de=Deutsch
 lang.nl=Niederländisch
 
-> Authorization Flows
+> Netdex Authorization Flows
 logreg=Anmeldung
 logreg.browser=Es tut uns Leid, aber dein Browser ist zu alt für unser Account-System.
 logreg.1=Hast du einen Netdex-Account?
-# logreg.name=What's your Nickname? 
+logreg.name=Was ist dein Nutzername?
 logout=Ausloggen
 logout.emergency=Möchtest du aus jedem Gerät abgemeldet werden?
 loggingout=Du wirst abgemeldet...
@@ -189,7 +175,7 @@ pwreset.2=Tipp: Nutze einen Passwort-Manager.
 pwreset.input=Dein neues Passwort
 pwreset.submit=Ändere mein Passwort
 
-> Options
+> Netdex Options
 options=Optionen
 options.desc=Sichere und ändere deinen Account wie du magst.
 options.save=Speichern
@@ -236,7 +222,7 @@ options.2fa.remove.code=Um 2FA zu entfernen, gib noch ein letzes mal einen 2FA-C
 options.2fa.remove.sure=Bist du sicher, dass du 2FA von deinem Netdex Account %% entfernen willst?
 options.2fa.removed=2FA wurde erfolgreich von deinem Netdex Account entfernt.
 
-> Help
+> Netdex Help Center
 help=Hilfezentrum
 help.link=Brauchst du Hilfe?
 help.login.real=Wie stell ich sicher, dass es das echte Netdex ist?
@@ -259,7 +245,7 @@ help.general.contact.mail=Du kannst uns per Email kontaktieren:
 help.general.contact.note=Wir werden binnen 24 Stunden antworten.
 help.categories=Kategorien
 
-> Profiles
+> Netdex Profiles
 search=Suche
 search.input=Such nach Netdex Nutzern.
 search.results=Suchresultate
@@ -278,7 +264,7 @@ profile.downloadqr=QR Code herunterladen
 profile.vcard.download=vCard herunterladen
 profile.vcard.downloadqr=vCard QR Code herunterladen
 
-> Email Services
+> Netdex Email Services
 mail=Email Services
 mail.description=Netdex erlaubt dir viele eigende Emails von uns mit voller Anonymität zu genießen.
 mail.why=Warum Netdex Email Services?
@@ -307,7 +293,7 @@ mail.spam.3=.
 mail.spam.4=Trotzdem Spam bekommen? Dann bitte weiterleiten:
 mail.needmail=Um die Email Services nutzen zu können, brauchen wir deine Email. Bitte setze diese in den
 
-> Shortener
+> Nex.li Link Shortener
 shorter=Linkkürzer
 shorter.title=Kürze deine Langen URLs
 shorter.description=Mit dem Netdex Linkkürzer kannst jeden langen Link in einen kurzen nex.li-Link umwandeln für leichtes und schnelles teilen.
@@ -322,7 +308,7 @@ shorter.nex=Über Nex.li
 shorter.nex.1=Nex.li ist unsere Domain zum URLs kürzen.
 shorter.nex.2=Subdomains (*.nex.li) gehören nicht immer uns. Wir vertreten Kontent, der auf Subdomains gepostet wird nicht.
 
-> Tmp Note
+> Netdex Tmp Note (This service still exists but it's hidden away and I'll kill it soon, so don't bother to translate.)
 tmpnote.title=Verschlüsselte Temporäre Notizen
 tmpnote.description=Netdex Tmp Note ermöglicht es dir, Nachrichten zu schreiben und Code zu teilen, ohne die Angst, dass Dritte etwas lesen können.
 tmpnote.formatting=Formatierung
@@ -351,7 +337,7 @@ image.drop.uploading=Läd hoch...
 image.drop.fail=Fehlgeschlagen.
 image.drop.done=Fertig
 
-> Hosts
+> Netdex Collective Hosts File
 hosts=Kollektive Hosts-Datei
 hosts.desc=Das Kollektive Hosts-Datei Projekt versucht so viele Spam, Malware und Phishing Domains - ob registriert oder nicht - wie möglich zu sammeln.
 hosts.sources=Domain-Quellen, Exkludierungen und Crawler-Instruktionen
@@ -361,7 +347,7 @@ hosts.pihole=In Pi Hole installieren mit:
 hosts.search=Ist %% blockiert?
 hosts.search.yes=Ja, von %%.
 
-> OffGames.io
+> OffGames
 offgames.title=OffGames: Das Vergleichsportal für Steam Angebote
 offgames.desc=OffGames durchsucht die Angebote von Steam Key Märkten und Verkäufern und macht diese durchsuchbar.
 offgames.group=Steam Gruppe
@@ -435,5 +421,9 @@ offgames.notify.mail=%game% ist jetzt reduziert!
 offgames.notify.mail.1=Du kannst %game% für nur %eur%€, anstelle von %org%€ bekommen. (Du sparst %per%%!)
 offgames.notify.mail.2=Du wirst nun nicht mehr über Angebote zu %game% informiert.
 
-> Copyright (c) 2016 - 2018, the Netdex Translation Team - https://netdex.co/credits
-> This is licensed under The Unlicense - https://github.com/netdexco/Translations/blob/master/LICENSE
+> Walentin
+walentin.why=Warum Walentin?
+
+> Copyright (c) 2016 - 2018, Hellsh Ltd.
+> Contributors: https://netdex.co/credits
+> This file is dedicated to the public domain. License: https://github.com/hellshltd/Translations/blob/master/LICENSE

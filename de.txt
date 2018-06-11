@@ -36,6 +36,8 @@ time.year={d}.{m}.{y}
 time.date={d}.{m}.
 time.time={h}:{i}
 time.datetime={date} {time}
+currency.thousand=.
+currency.decimal=,
 sec=Sekunde
 secs=Sekunden
 min=Minute
@@ -72,10 +74,12 @@ copy.ok=Link erfolgreich kopiert.
 copy.click=Klicken zum Kopieren.
 clearcache=Leere deinen Cache!
 clearcache.1=Du hast nur zum Teil eine neue Version dieser Webseite, hard-reloade (Strg+F5) oder leere deinen Cache!
+scroll4info=Scroll' runter für mehr Informationen
 
 > Legal
 legal=Legales
 privacy=Datenschutzerklärung
+privacy.link=Schau dir unsere Datenschutzerklärung an
 imprint=Impressum
 branding=Branding
 
@@ -129,6 +133,8 @@ logreg.browser=Es tut uns Leid, aber dein Browser ist zu alt für unser Account-
 logreg.1=Hast du einen Netdex-Account?
 logreg.name=Was ist dein Nutzername?
 logout=Ausloggen
+logout.link=Ausloggen
+logout.confirm=Bist du dir sicher, dass du dich ausloggen willst?
 logout.emergency=Möchtest du aus jedem Gerät abgemeldet werden?
 loggingout=Du wirst abgemeldet...
 login=Einloggen
@@ -422,7 +428,31 @@ offgames.notify.mail.1=Du kannst %game% für nur %eur%€, anstelle von %org%€
 offgames.notify.mail.2=Du wirst nun nicht mehr über Angebote zu %game% informiert.
 
 > Walentin
-walentin.why=Warum Walentin?
+walentin.dashboard=Dashboard
+walentin.dashboard.link=Besuche das Dashboard
+walentin.dashboard.balance=Dein Walentin Guthaben
+walentin.dashboard.transactions=Transakationen
+walentin.dashboard.talk=Rede mit Walentin
+walentin.dashboard.send=Guthaben senden
+walentin.dashboard.send.recipient.input=An wen möchtest du Geld senden?
+walentin.dashboard.send.recipient=Geld senden an...
+walentin.dashboard.send.recipient.wrong=Das ist nicht der Empfänger, den ich wollte.
+walentin.dashboard.send.amount=Wie viel Euro möchtest du senden?
+walentin.dashboard.topup=Guthaben aufladen
+walentin.dashboard.withdraw=Guthaben auszahlen
+walentin.intro=Wir stellen vor — die Walentin Wallet
+walentin.intro.1=In der Walentin Wallet hast du Walentin: deinen persönlichen AI-Assistent mit dem du jederzeit reden kannst um deine Wallet zu verwalten — sogar ohne eine Internetverbindung.
+walentin.intro.why=Warum Walentin?
+walentin.intro.why.security=Sicherheit
+walentin.intro.why.modern=Modern
+walentin.intro.why.fees=Niedrige Gebühren
+walentin.intro.why.privacy=Privatsphäre
+walentin.login=Bei Walentin anmelden
+walentin.login.signup=Registrieren
+walentin.login.login=Anmelden
+walentin.login.google=Mit Google anmelden
+walentin.login.google.continue=Mit Google-Account %% vorfahren?
+walentin.login.password=Mit Passwort anmelden
 
 > Copyright (c) 2016 - 2018, Hellsh Ltd.
 > Contributors: https://netdex.co/credits

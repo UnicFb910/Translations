@@ -36,6 +36,8 @@ time.year={y}-{m}-{d}
 time.date={m}-{d}
 time.time={h}:{i}
 time.datetime={date} {time}
+# currency.thousand=,
+# currency.decimal=.
 sec=seconde
 secs=seconden
 min=minuut
@@ -72,10 +74,12 @@ copy.ok=Link gekopieerd.
 copy.click=Klik om te kopieeren.
 clearcache=Leeg je cache!
 clearcache.1=Je hebt maar voor een gedeelte de nieuwe website, druk (Ctrl+F5) of leeg je cache!
+# scroll4info=Scroll down for more information
 
 > Legal
 legal=Wettelijke
 privacy=Privacyverklaring
+# privacy.link=Read our Privacy Policy
 imprint=Afdruk
 branding=Branding
 
@@ -129,6 +133,8 @@ logreg.browser=Het spijt ons, maar uw browser is te oud voor ons accountsysteem.
 logreg.1=Heeft u een Netdex-account??
 # logreg.name=What's your Nickname? 
 logout=Uitloggen
+# logout.link=Log Out
+# logout.confirm=Are you sure you want to log out?
 logout.emergency=Wil je op elk apparaat uitgelogd worden van dit account?
 loggingout=U wordt uitgelogd...
 login=Login
@@ -422,7 +428,31 @@ offgames.notify.mail.1=Je kunt %game% voor slechts %eur%€ inplaats van %org%�
 offgames.notify.mail.2=Vanaf nu ontvang je geen meldingen meer over aanbiedingen voor %game%.
 
 > Walentin
-# walentin.why=Why Walentin?
+# walentin.dashboard=Dashboard
+# walentin.dashboard.link=Go to the dashboard
+# walentin.dashboard.balance=Your Walentin Balance
+# walentin.dashboard.transactions=Transactions
+# walentin.dashboard.talk=Talk to Walentin
+# walentin.dashboard.send=Send
+# walentin.dashboard.send.recipient.input=Who would you like to send money to?
+# walentin.dashboard.send.recipient=Send money to...
+# walentin.dashboard.send.recipient.wrong=This is not the recipient I wanted.
+# walentin.dashboard.send.amount=How many euros would you like to send?
+# walentin.dashboard.topup=Top up
+# walentin.dashboard.withdraw=Withdraw
+# walentin.intro=Introducing the Walentin Wallet
+# walentin.intro.1=With the Walentin Wallet you have Walentin: your personal AI assistant who you can talk to at any time to manage your wallet — even without an internet connection.
+# walentin.intro.why=Why Walentin?
+# walentin.intro.why.security=Security
+# walentin.intro.why.modern=Modern
+# walentin.intro.why.fees=Low Fees
+# walentin.intro.why.privacy=Privacy
+# walentin.login=Log in to Walentin
+# walentin.login.signup=Sign Up
+# walentin.login.login=Log In
+# walentin.login.google=Login with Google
+# walentin.login.google.continue=Continue with Google account %%?
+# walentin.login.password=Login with Password
 
 > Copyright (c) 2016 - 2018, Hellsh Ltd.
 > Contributors: https://netdex.co/credits

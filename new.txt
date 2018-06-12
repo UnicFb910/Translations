@@ -38,22 +38,6 @@
 # time.datetime={date} {time}
 # currency.thousand=,
 # currency.decimal=.
-# sec=second
-# secs=seconds
-# min=minute
-# mins=minutes
-# hour=hour
-# hours=hours
-# day=day
-# days=days
-# mon=month
-# mon.this=This Month
-# mons=months
-# today=Today
-# yesterday=Yesterday
-# total=Total
-# expire=Expires in
-# expires=Expires on
 # willneverhappen=Error
 # willneverhappen2=An error occurred.
 # status=Status
@@ -314,24 +298,6 @@
 # shorter.nex.1=Nex.li is our domain used for shorting URLs.
 # shorter.nex.2=Subdomains (*.nex.li) might not be owned by us. We do not represent or warrant content posted on subdomains.
 
-> Netdex Tmp Note (This service still exists but it's hidden away and I'll kill it soon, so don't bother to translate.)
-# tmpnote.title=Encrypted Temporary Notes
-# tmpnote.description=Netdex Tmp Note allows you to write messages and share code, without the fear of third parties being able to read it.
-# tmpnote.formatting=Formatting
-# tmpnote.formatting.plain=Plain Text
-# tmpnote.deleteonview=Delete after View
-# tmpnote.create=Create Tmp Note
-# tmpnote.toobig=Your text surpasses our current limit. Please contact us if you consider the limit too small.
-# tmpnote.expiry=Your Tmp Note must expire in less than or exactly %max% and must exist for at least %min%.
-# tmpnote.created=Tmp Note created.
-# tmpnote.created.1=Your Tmp Note has been encrypted and uploaded in an encrypted manner. Only with the key (behind the #), it is possible to decrypt and read it.
-# tmpnote.unknown=The Tmp Note you tried to access is unknown to us. (Already expired?)
-# tmpnote.nokey=It seems as tho you opened a Tmp Note without knowing the key. Refresh this page if you do have the key.
-# tmpnote.key=What is the key to decrypt this Tmp Note?
-# tmpnote.key.wrong=The key you entered is incorrect.
-# tmpnote.fork=Edit this Tmp Note
-# tmpnote.deleted=Because you viewed this Tmp Note, we've deleted it.
-
 > Netdex Screenshot
 # screenshot=Get Netdex Screenshot
 # screenshot.1=Netdex Screenshot is a modern Screenshot Tool built to help you create the perfect screenshot as soon as you press [PrntScreen].
@@ -438,6 +404,7 @@
 # walentin.dashboard.send.recipient=Send money to...
 # walentin.dashboard.send.recipient.wrong=This is not the recipient I wanted.
 # walentin.dashboard.send.amount=How many euros would you like to send?
+# walentin.dashboard.send.reason=Optionally, you can tell the recipient what this is for:
 # walentin.dashboard.topup=Top up
 # walentin.dashboard.withdraw=Withdraw
 # walentin.intro=Introducing the Walentin Wallet
